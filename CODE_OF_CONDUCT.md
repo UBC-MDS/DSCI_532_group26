@@ -4,25 +4,25 @@ Code of Conduct
 Introduction
 ------------
 
-For DSCI 532 Group 02, we are committed to creating a friendly and
+For DSCI 532 Group 26, we are committed to creating a friendly and
 respectful place for learning, teaching and contributing. All
 participants in our group and communications are expected to show
 respect and courtesy to others.
 
 To make clear what is expected, everyone participating in DSCI 532 Group
-02 activities is required to conform to the Code of Conduct. This Code
+26 activities is required to conform to the Code of Conduct. This Code
 of Conduct applies to all spaces managed by DSCI 532 including, but not
 limited to, team meetings, email communication, and online forums such
 as Slack and GitHub. The DSCI 532 teaching team is expected to assist
 with the enforcement of the Code of Conduct.
 
-The DSCI 532 Group 02 is responsible for enforcing the Code of Conduct.
+The DSCI 532 Group 26 is responsible for enforcing the Code of Conduct.
 All reports will be reviewed by the Instructor(s).
 
-The DSCI 532 Group 02 Code of Conduct
+The DSCI 532 Group 26 Code of Conduct
 -------------------------------------
 
-For DSCI 532 Group 02, we are dedicated to providing a welcoming and
+For DSCI 532 Group 26, we are dedicated to providing a welcoming and
 supportive environment for all people, regardless of background or
 identity. As such, we do not tolerate behaviour that is disrespectful to
 our teachers or learners or that excludes, intimidates, or causes
@@ -35,9 +35,9 @@ religion or belief (or lack thereof), membership of a national minority,
 property, age, education, socio-economic status, technical choices, and
 experience level.
 
-Everyone who participates in DSCI 532 Group 02 activities is required to
+Everyone who participates in DSCI 532 Group 26 activities is required to
 conform to this Code of Conduct. It applies to all spaces managed by
-DSCI 532 Group 02 including, but not limited to, Team meetings, email
+DSCI 532 Group 26 including, but not limited to, Team meetings, email
 communication, and online forums such as Slack and GitHub. The DSCI 532
 teaching team is expected to assist with the enforcement of the Code of
 Conduct.
@@ -48,7 +48,7 @@ All participants in our events and communications are expected to show
 respect and courtesy to others. All interactions should be professional
 regardless of platform: either online or in-person. In order to foster a
 positive and professional learning environment we encourage the
-following kinds of behaviours in all DSCI 532 Group 02 events and
+following kinds of behaviours in all DSCI 532 Group 26 events and
 platforms:
 
 -   Use welcoming and inclusive language
@@ -60,7 +60,7 @@ platforms:
 ### Unacceptable Behavior
 
 Examples of unacceptable behavior by participants at any DSCI 532 Group
-02 event/platform include:
+26 event/platform include:
 
 -   written or verbal comments which have the effect of excluding people
     on the basis of membership of any specific group
@@ -83,7 +83,7 @@ Examples of unacceptable behavior by participants at any DSCI 532 Group
 ### Consequences of Unacceptable Behavior
 
 Participants who are asked to stop any inappropriate behavior are
-expected to comply immediately. This applies to any DSCI 532 Group 02
+expected to comply immediately. This applies to any DSCI 532 Group 26
 events and platforms, either online or in-person. If a participant
 engages in behavior that violates this code of conduct, the teaching
 team may warn the offender and or engage the DSCI 532 Instructor to
@@ -93,7 +93,7 @@ sanctions.
 Incident Reporting Guidelines
 -----------------------------
 
-If someone violates the Code of Conduct during a DSCI 532 Group 02 event
+If someone violates the Code of Conduct during a DSCI 532 Group 26 event
 or in an online space outside of organised events, we ask that you
 report it to the Instructor(s). The current instructor of DSCI 532 is
 Joel Ostblom. An email to
