@@ -29,7 +29,7 @@ Some research questions that could be answered by this dashboard are:
 
 - Does family history pose a threat to mental health?
 
-## usage scenarios 
+## Usage scenarios 
 
 Jack is deciding where to move for working as a software engineer.
 
