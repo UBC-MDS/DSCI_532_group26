@@ -17,4 +17,4 @@ This is the landing page for our app that shows the distribution of data set fac
 
 ## Reference
 
-![Mental Health in Tech Survey dataset](https://www.kaggle.com/osmi/mental-health-in-tech-survey)
+[Mental Health in Tech Survey dataset](https://www.kaggle.com/osmi/mental-health-in-tech-survey)
