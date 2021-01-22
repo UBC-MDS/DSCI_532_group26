@@ -17,6 +17,7 @@ edate = m_data['Timestamp'].max()
 all_countries = m_data['Country'].unique()
 some_countries = all_countries[:5]
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = app.server
 
 # Define content style
 SIDEBAR_STYLE = {
