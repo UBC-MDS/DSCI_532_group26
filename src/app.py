@@ -78,8 +78,11 @@ def plot_country_bar(countries, start_date, end_date):
     data = data[(data['Timestamp'] >= start_date) & (data['Timestamp'] <= end_date)]
     chart = alt.Chart(data, title = 'Location of Respondent and Whether They Sought Help').mark_bar().encode(
         x = alt.X('Country', sort = '-y'),
-        y = 'count()', tooltip = 'count()', color = alt.Color('seek_help', title = 'Sought Help')).properties(width=300)
+        y = alt.Y('sum(prop)', axis=alt.Axis(format='%'), title='Proportion of population'), 
+        tooltip = 'sum(prop)', 
+        color = alt.Color('seek_help', title = 'Sought Help')).properties(width=300)
     return chart.to_html()
+
 
 @app.callback(
     Output('fam_hist', 'srcDoc'),
@@ -94,7 +97,8 @@ def plot_fam_hist_bar(countries, start_date, end_date):
     data = data[(data['Timestamp'] >= start_date) & (data['Timestamp'] <= end_date)]
     chart = alt.Chart(data, title = 'Family History of Mental Illness').mark_bar().encode(
         x = alt.X('family_history', title = 'Whether Family Has History of Mental Illness'),
-        y = 'count()', tooltip = 'count()',
+        y = alt.Y('sum(prop)', axis=alt.Axis(format='%'), title='Proportion of population'), 
+        tooltip = 'sum(prop)',
         color = 'Gender').properties(width=150)
     return chart.to_html()
 
@@ -112,7 +116,8 @@ def plot_sought_help(countries, start_date, end_date):
     data = data[(data['Timestamp'] >= start_date) & (data['Timestamp'] <= end_date)]
     chart = alt.Chart(data, title = 'Sought Help').mark_bar().encode(
         x = alt.X('seek_help', title = 'Seeked Help'),
-        y = 'count()', tooltip = 'count()',
+        y = alt.Y('sum(prop)', axis=alt.Axis(format='%'), title='Proportion of population'), 
+        tooltip = 'sum(prop)',
         color = 'Gender').properties(width = 150)
     return chart.to_html()
 
@@ -129,7 +134,9 @@ def plot_benefits(countries, start_date, end_date):
     data = data[(data['Timestamp'] >= start_date) & (data['Timestamp'] <= end_date)]
     chart = alt.Chart(data, title = 'Workplace Benefits').mark_bar().encode(
         x = alt.X('benefits', title = 'Workplace Benefits'),
-        y = 'count()', tooltip = 'count()', color = 'Gender').properties(width=150)
+        y = alt.Y('sum(prop)', axis=alt.Axis(format='%'), title='Proportion of population'), 
+        tooltip = 'sum(prop)',
+        color = 'Gender').properties(width=150)
     return chart.to_html()
 
 
