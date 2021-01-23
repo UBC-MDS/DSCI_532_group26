@@ -1,10 +1,13 @@
-# An App to report Survey on Mental Health in the Tech Workplace in 2014 https://mental-health-dashboard-ubc.herokuapp.com
+# An App to report Survey on Mental Health in the Tech Workplace in 2014 
 
 Contributors | Github | 
 --- | --- |
 Bruhat Musunuru| @bruhatM |
 Siqi Zhou | @roycezhou  |
 Chun Chieh(Jason) Chang| @jachang0628  | 
+
+## Dashboard link
+https://mental-health-dashboard-ubc.herokuapp.com
 
 ## About
 Our app aims to present the statistics of people who worked in the tech sector and the frequency of mental illness among these people across different demographics and work cultures. We hope that by presenting these statistics, employers around the world can stop overlooking this issue and create a less stress-inducing workplace.
@@ -20,7 +23,9 @@ Access dashboard at https://mental-health-dashboard-ubc.herokuapp.com
 
 ### To build a local dashboard
 
-**Step 1: Clone this repository to your local PC**
+**Step 1:**
+
+Clone this repository to your local PC.
 
 **Step 2:**
 
@@ -40,7 +45,7 @@ conda activate dash_env
 
 **Step 4:**
 
-Go to the root folder of the repo and execute `python src/app.py`
+Go to the root folder of the repo and execute `python src/app.py`.
 
 ## Reference
 
