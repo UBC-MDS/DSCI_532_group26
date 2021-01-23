@@ -94,6 +94,7 @@ def plot_country_bar(countries, start_date, end_date):
 
 # Plot Family History Bar Chart
 def plot_fam_hist_bar(countries, start_date, end_date):
+    # filter data
     data = m_data[m_data['Country'].isin(countries)]
     data = data[(data['Timestamp'] >= start_date) & (data['Timestamp'] <= end_date)]
     chart = alt.Chart(data, title = 'Family History of Mental Illness').mark_bar().encode(
