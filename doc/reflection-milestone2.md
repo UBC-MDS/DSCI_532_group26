@@ -5,7 +5,7 @@ By developing our initial idea and proposal, our team has completed a dashboard 
 
 According to the <a href=https://github.com/UBC-MDS/DSCI_532_group26/issues/14>feedback</a> from TA, we finally have chosen to use a proportion of the population to represent Y-axis instead of the count, since the proportion is more straightforward for users to have a sense of the distribution. We achieved this by manipulating the pandas dataframe and calculated the proportion before plotting. 
 
-The left panel contains two filters that users can choose to filter by location or/and filter by date. The location filter affects the first bar plot in the top left and users can choose the countries that they want to see. For example, they can filter the USA, Canada, the UK, France, etc. By changing the date, all the 4 plots will only include the corresponding input date range. Hence, users can fix a certain period that they are extremely interested in. 
+The left panel contains two filters that users can choose to filter by location or/and filter by date. The location filter affects the first bar plot in the top left and users can choose the countries that they want to see. For example, they can filter the USA, Canada, the UK, France, etc. By changing the date, all the 4 plots will only include the corresponding input date range. Hence, users can fix a certain period that they are extremely interested in. The user can also filter the plots for a particular gender by clicking on the corresponding gender on the legend.
 
 In the right panel, there are 4 bar plots to represent the proportion of the population based on country, family history, workplace benefits, whether an individual sought help, separately. All the plots are divided by gender using facets as well.
 
