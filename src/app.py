@@ -94,14 +94,22 @@ def plot_country_bar(countries, start_date, end_date):
 
 # Plot Family History Bar Chart
 def plot_fam_hist_bar(countries, start_date, end_date):
+    # filter data
+
+    click = alt.selection_multi(fields=['Gender'], bind='legend')
     data = m_data[m_data['Country'].isin(countries)]
     data = data[(data['Timestamp'] >= start_date) & (data['Timestamp'] <= end_date)]
-    chart = alt.Chart(data, title = 'Family History of Mental Illness').mark_bar().encode(
-        x = alt.X('family_history', title = 'Whether Family Has History of Mental Illness'),
+    chart = alt.Chart(data, title = 'Family History of Mental Illness vs Gender').mark_bar().encode(
+        x = alt.X('Gender', axis = None),
         y = alt.Y('sum(prop)', axis=alt.Axis(format='%'), title='Proportion of population'), 
         tooltip = 'sum(prop)',
-        color = 'Gender').properties(width=150)
+        color = 'Gender',
+        column = alt.Column('family_history', title = 'Whether Family Has History of Mental Illness', header=alt.Header(
+            titleOrient = 'bottom', labelOrient = 'bottom')),
+        opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width=75)
     return chart.to_html()
+
+
 
 
 @app.callback(
@@ -113,13 +121,15 @@ def plot_fam_hist_bar(countries, start_date, end_date):
 
 # Plot Sought Help Bar Chart
 def plot_sought_help(countries, start_date, end_date):
+    click = alt.selection_multi(fields=['Gender'], bind='legend')
     data = m_data[m_data['Country'].isin(countries)]
     data = data[(data['Timestamp'] >= start_date) & (data['Timestamp'] <= end_date)]
-    chart = alt.Chart(data, title = 'Sought Help').mark_bar().encode(
-        x = alt.X('seek_help', title = 'Seeked Help'),
+    chart = alt.Chart(data, title = 'Sought Help vs Gender').mark_bar().encode(
+        x = alt.X('Gender', axis = None),
         y = alt.Y('sum(prop)', axis=alt.Axis(format='%'), title='Proportion of population'), 
-        tooltip = 'sum(prop)',
-        color = 'Gender').properties(width = 150)
+        tooltip = 'sum(prop)', column = alt.Column('seek_help', title = 'Sought Help or Not', header=alt.Header(
+            titleOrient = 'bottom', labelOrient = 'bottom')),
+        color = 'Gender', opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width = 75)
     return chart.to_html()
 
 @app.callback(
@@ -131,13 +141,16 @@ def plot_sought_help(countries, start_date, end_date):
 
 # Plot Benefits Bar Chart
 def plot_benefits(countries, start_date, end_date):
+    click = alt.selection_multi(fields=['Gender'], bind='legend')
     data = m_data[m_data['Country'].isin(countries)]
     data = data[(data['Timestamp'] >= start_date) & (data['Timestamp'] <= end_date)]
-    chart = alt.Chart(data, title = 'Workplace Benefits').mark_bar().encode(
-        x = alt.X('benefits', title = 'Workplace Benefits'),
+    chart = alt.Chart(data, title = 'Workplace Benefits vs Gender').mark_bar().encode(
+        x = alt.X('Gender', axis = None),
         y = alt.Y('sum(prop)', axis=alt.Axis(format='%'), title='Proportion of population'), 
         tooltip = 'sum(prop)',
-        color = 'Gender').properties(width=150)
+        color = 'Gender', column = alt.Column('benefits', title = 'Does Company Provide Benefits', header=alt.Header(
+            titleOrient = 'bottom', labelOrient = 'bottom')),
+            opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width=75)
     return chart.to_html()
 
 
