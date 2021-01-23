@@ -1,1208 +1,1208 @@
-,Timestamp,Country,family_history,Gender,seek_help,benefits
-0,2014-08-27 11:29:31,United States,No,F,Yes,Yes
-1,2014-08-27 11:29:37,United States,No,M,Don't know,Don't know
-2,2014-08-27 11:29:44,Canada,No,M,No,No
-3,2014-08-27 11:29:46,United Kingdom,Yes,M,No,No
-4,2014-08-27 11:30:22,United States,No,M,Don't know,Yes
-5,2014-08-27 11:31:22,United States,Yes,M,Don't know,Yes
-6,2014-08-27 11:31:50,United States,Yes,F,No,No
-7,2014-08-27 11:32:05,Canada,No,M,No,No
-8,2014-08-27 11:32:39,United States,Yes,F,No,Yes
-9,2014-08-27 11:32:43,Canada,No,M,Don't know,Don't know
-10,2014-08-27 11:32:44,United States,No,M,No,Don't know
-11,2014-08-27 11:32:49,Bulgaria,No,M,No,Don't know
-12,2014-08-27 11:33:23,United States,Yes,F,No,Yes
-13,2014-08-27 11:33:26,United States,Yes,M,Don't know,Don't know
-14,2014-08-27 11:33:57,Canada,No,M,Don't know,Don't know
-15,2014-08-27 11:34:00,United States,Yes,F,No,Yes
-16,2014-08-27 11:34:20,United Kingdom,No,M,Don't know,Don't know
-17,2014-08-27 11:34:37,United States,No,M,Don't know,Yes
-18,2014-08-27 11:34:53,United States,Yes,M,Don't know,Yes
-19,2014-08-27 11:35:08,France,Yes,M,No,No
-20,2014-08-27 11:35:12,United States,Yes,M,No,Yes
-21,2014-08-27 11:35:24,United States,No,M,No,No
-22,2014-08-27 11:35:48,United States,No,M,No,Yes
-23,2014-08-27 11:36:24,United States,No,M,Don't know,Don't know
-24,2014-08-27 11:36:48,United States,Yes,M,Yes,Yes
-25,2014-08-27 11:37:08,United States,Yes,M,Don't know,Yes
-26,2014-08-27 11:37:23,United States,No,M,Don't know,Don't know
-27,2014-08-27 11:37:59,United States,Yes,F,Don't know,Yes
-28,2014-08-27 11:38:12,United States,No,M,Don't know,Don't know
-29,2014-08-27 11:38:18,United Kingdom,No,M,No,No
-30,2014-08-27 11:39:03,United Kingdom,No,M,No,No
-31,2014-08-27 11:38:55,United States,Yes,M,No,No
-32,2014-08-27 11:39:31,United Kingdom,Yes,M,No,Don't know
-33,2014-08-27 11:39:36,United States,Yes,M,Yes,Yes
-34,2014-08-27 11:40:51,United States,No,F,No,Yes
-35,2014-08-27 11:41:17,United States,No,M,No,No
-36,2014-08-27 11:41:37,Canada,No,M,No,No
-37,2014-08-27 11:41:50,Portugal,No,M,No,No
-38,2014-08-27 11:42:08,United States,No,M,Don't know,Yes
-39,2014-08-27 11:42:15,United States,No,M,Yes,Yes
-40,2014-08-27 11:42:25,United Kingdom,No,M,No,No
-41,2014-08-27 11:42:31,United States,No,M,Yes,Yes
-42,2014-08-27 11:43:07,Canada,Yes,M,No,No
-43,2014-08-27 11:43:10,Netherlands,No,M,No,No
-44,2014-08-27 11:43:22,United States,No,M,No,Don't know
-45,2014-08-27 11:43:36,United States,Yes,F,Yes,Yes
-46,2014-08-27 11:43:45,United Kingdom,No,M,No,Don't know
-47,2014-08-27 11:43:48,United States,No,M,No,No
-48,2014-08-27 11:43:56,Canada,No,M,No,No
-49,2014-08-27 11:44:43,United States,Yes,M,Don't know,Yes
-50,2014-08-27 11:44:55,United States,Yes,M,No,No
-51,2014-08-27 11:45:32,United States,No,M,Don't know,Don't know
-52,2014-08-27 11:45:33,United States,No,M,Don't know,Don't know
-53,2014-08-27 11:45:51,United States,No,M,No,Don't know
-54,2014-08-27 11:46:36,Switzerland,No,M,No,No
-57,2014-08-27 11:47:10,United States,Yes,M,No,Don't know
-58,2014-08-27 11:47:33,United States,No,M,No,No
-59,2014-08-27 11:47:56,Canada,Yes,M,No,Don't know
-60,2014-08-27 11:48:57,United States,Yes,M,Don't know,Yes
-61,2014-08-27 11:49:51,Poland,No,F,Yes,Don't know
-62,2014-08-27 11:50:27,United Kingdom,No,M,Yes,Yes
-63,2014-08-27 11:50:28,France,No,M,No,No
-64,2014-08-27 11:50:46,Canada,No,M,No,Don't know
-65,2014-08-27 11:51:07,United States,Yes,M,Yes,Yes
-66,2014-08-27 11:51:34,Australia,Yes,F,No,No
-67,2014-08-27 11:52:07,United States,No,M,Yes,Yes
-68,2014-08-27 11:52:41,United States,No,F,Don't know,Don't know
-69,2014-08-27 11:52:44,United States,No,M,No,No
-70,2014-08-27 11:53:05,France,No,M,No,No
-71,2014-08-27 11:53:25,Canada,No,M,Don't know,Don't know
-73,2014-08-27 11:56:17,United Kingdom,No,M,Don't know,No
-74,2014-08-27 11:56:29,United States,No,M,Don't know,Don't know
-75,2014-08-27 11:57:30,United Kingdom,No,M,No,No
-76,2014-08-27 11:57:33,United States,No,M,Yes,Yes
-77,2014-08-27 11:57:54,United States,Yes,M,No,No
-78,2014-08-27 11:59:31,United States,Yes,M,No,No
-79,2014-08-27 12:00:02,Germany,No,M,Don't know,Don't know
-80,2014-08-27 12:01:50,United States,Yes,M,Yes,Yes
-81,2014-08-27 12:02:40,United Kingdom,No,M,Don't know,Yes
-82,2014-08-27 12:02:52,Canada,No,M,No,No
-84,2014-08-27 12:05:13,United States,Yes,M,No,No
-85,2014-08-27 12:05:37,United States,No,M,No,Don't know
-86,2014-08-27 12:07:08,United Kingdom,No,M,No,No
-87,2014-08-27 12:10:43,United States,Yes,F,Don't know,Yes
-88,2014-08-27 12:11:00,United States,No,F,No,Yes
-89,2014-08-27 12:11:07,United States,No,M,Don't know,Don't know
-90,2014-08-27 12:12:47,United States,No,M,Yes,Yes
-91,2014-08-27 12:13:30,United States,No,M,No,No
-92,2014-08-27 12:14:13,United States,No,M,No,Don't know
-94,2014-08-27 12:15:19,Canada,No,F,Don't know,Yes
-95,2014-08-27 12:15:30,United States,No,M,Don't know,Don't know
-96,2014-08-27 12:16:21,United States,Yes,M,Don't know,Don't know
-97,2014-08-27 12:17:01,Mexico,Yes,M,No,Don't know
-99,2014-08-27 12:18:04,United States,No,M,No,No
-100,2014-08-27 12:18:14,Canada,Yes,F,No,No
-101,2014-08-27 12:18:38,United States,No,F,Don't know,Yes
-102,2014-08-27 12:19:52,United States,Yes,M,Don't know,Don't know
-103,2014-08-27 12:20:10,United States,Yes,M,Yes,Yes
-104,2014-08-27 12:22:55,United States,No,M,Don't know,Yes
-105,2014-08-27 12:23:48,United States,Yes,M,No,Yes
-106,2014-08-27 12:23:59,United States,Yes,M,No,Don't know
-107,2014-08-27 12:25:09,Brazil,Yes,M,No,No
-108,2014-08-27 12:28:12,United States,Yes,M,No,Yes
-109,2014-08-27 12:28:16,United States,No,M,Yes,Yes
-110,2014-08-27 12:29:25,United States,No,M,Don't know,Yes
-111,2014-08-27 12:31:02,United States,No,M,Yes,Yes
-112,2014-08-27 12:31:03,United States,Yes,M,Yes,Yes
-113,2014-08-27 12:31:14,United States,No,M,Don't know,Yes
-114,2014-08-27 12:31:28,United States,No,M,Don't know,Don't know
-115,2014-08-27 12:31:34,United Kingdom,No,M,Don't know,Don't know
-116,2014-08-27 12:31:41,United Kingdom,No,M,No,No
-117,2014-08-27 12:31:41,Canada,No,M,Yes,Yes
-118,2014-08-27 12:31:43,United States,No,M,No,No
-119,2014-08-27 12:32:24,United States,No,M,Don't know,Don't know
-120,2014-08-27 12:32:59,United States,No,M,Yes,Yes
-121,2014-08-27 12:33:00,United States,No,M,No,Don't know
-122,2014-08-27 12:33:23,United States,Yes,M,Don't know,Don't know
-123,2014-08-27 12:33:36,United States,No,M,No,Yes
-124,2014-08-27 12:33:56,Canada,No,M,No,Yes
-125,2014-08-27 12:34:11,United States,Yes,M,Yes,Yes
-126,2014-08-27 12:34:13,United Kingdom,No,M,No,No
-127,2014-08-27 12:34:35,United States,No,M,Yes,Yes
-128,2014-08-27 12:34:48,United Kingdom,Yes,M,No,No
-129,2014-08-27 12:34:51,Slovenia,No,M,No,Don't know
-130,2014-08-27 12:34:57,United States,Yes,M,No,Yes
-131,2014-08-27 12:35:23,United States,No,M,No,No
-132,2014-08-27 12:36:03,United States,No,M,Don't know,Don't know
-133,2014-08-27 12:36:18,Costa Rica,No,M,No,No
-134,2014-08-27 12:36:53,Canada,No,M,No,Don't know
-135,2014-08-27 12:37:09,United Kingdom,No,M,No,No
-136,2014-08-27 12:37:26,United Kingdom,No,M,No,Don't know
-137,2014-08-27 12:37:31,United States,No,M,No,Yes
-138,2014-08-27 12:37:50,United States,No,F,Don't know,Don't know
-139,2014-08-27 12:37:50,Austria,No,M,No,Don't know
-140,2014-08-27 12:38:11,United States,Yes,M,Don't know,Don't know
-141,2014-08-27 12:38:18,United Kingdom,No,M,Yes,No
-142,2014-08-27 12:38:25,United States,No,M,Don't know,Don't know
-143,2014-08-27 12:39:14,United States,No,M,Yes,Yes
-144,2014-08-27 12:39:18,United States,Yes,F,Don't know,Don't know
-145,2014-08-27 12:39:21,United States,Yes,M,Yes,Yes
-146,2014-08-27 12:39:48,United Kingdom,No,M,No,No
-147,2014-08-27 12:39:57,United States,No,M,No,No
-148,2014-08-27 12:40:03,Ireland,No,M,Yes,No
-149,2014-08-27 12:40:06,United States,No,F,Don't know,Don't know
-150,2014-08-27 12:40:36,Canada,Yes,M,Yes,Don't know
-151,2014-08-27 12:40:53,United States,Yes,M,No,Don't know
-152,2014-08-27 12:41:04,Poland,No,M,No,No
-153,2014-08-27 12:41:20,United States,No,M,Don't know,Don't know
-154,2014-08-27 12:41:59,United Kingdom,Yes,M,Yes,Yes
-155,2014-08-27 12:42:24,United States,Yes,M,Don't know,Don't know
-156,2014-08-27 12:42:52,United States,Yes,M,Don't know,Don't know
-157,2014-08-27 12:43:28,United States,No,M,No,Don't know
-158,2014-08-27 12:43:28,United States,No,M,No,No
-159,2014-08-27 12:43:40,United States,Yes,M,No,Don't know
-160,2014-08-27 12:43:53,United Kingdom,No,M,Yes,Yes
-161,2014-08-27 12:44:51,United States,Yes,F,No,Yes
-162,2014-08-27 12:44:51,United States,No,M,Yes,Yes
-163,2014-08-27 12:45:44,United States,Yes,M,No,Don't know
-164,2014-08-27 12:46:03,United States,Yes,F,Yes,No
-166,2014-08-27 12:48:06,United States,No,M,No,No
-167,2014-08-27 12:48:29,United States,No,M,No,No
-168,2014-08-27 12:48:37,Ireland,Yes,M,No,No
-169,2014-08-27 12:48:39,United Kingdom,No,M,Don't know,Don't know
-170,2014-08-27 12:48:40,United Kingdom,No,M,Don't know,Yes
-171,2014-08-27 12:48:51,United Kingdom,No,M,No,Don't know
-172,2014-08-27 12:49:21,India,No,M,No,Don't know
-173,2014-08-27 12:49:27,United States,No,F,Don't know,Don't know
-174,2014-08-27 12:49:30,Canada,Yes,F,No,Yes
-175,2014-08-27 12:49:39,United States,No,M,Don't know,Don't know
-176,2014-08-27 12:50:36,United Kingdom,No,M,Yes,No
-177,2014-08-27 12:50:57,United States,No,F,Don't know,Yes
-178,2014-08-27 12:51:25,United States,No,F,No,Yes
-179,2014-08-27 12:51:36,United States,No,M,No,Don't know
-180,2014-08-27 12:51:42,Mexico,No,M,No,No
-181,2014-08-27 12:51:50,India,No,F,No,No
-182,2014-08-27 12:51:51,United Kingdom,No,F,Don't know,Don't know
-183,2014-08-27 12:51:55,United States,No,M,Don't know,Don't know
-184,2014-08-27 12:52:08,United States,Yes,M,Don't know,Yes
-185,2014-08-27 12:52:46,United States,No,M,No,Yes
-186,2014-08-27 12:52:49,United Kingdom,No,M,Don't know,Don't know
-187,2014-08-27 12:53:00,France,No,M,No,No
-188,2014-08-27 12:53:05,United Kingdom,Yes,M,No,Don't know
-189,2014-08-27 12:53:13,United States,Yes,F,No,Yes
-190,2014-08-27 12:53:15,South Africa,Yes,F,No,No
-191,2014-08-27 12:53:40,United States,Yes,M,No,Yes
-192,2014-08-27 12:54:11,Russia,No,M,No,No
-193,2014-08-27 12:54:11,United States,No,M,No,No
-194,2014-08-27 12:54:30,Germany,No,F,No,No
-196,2014-08-27 12:55:01,United States,No,F,No,Don't know
-197,2014-08-27 12:55:38,United States,No,M,No,Yes
-198,2014-08-27 12:56:13,United States,Yes,M,No,Yes
-199,2014-08-27 12:56:56,United Kingdom,Yes,M,No,Don't know
-200,2014-08-27 12:57:38,United States,Yes,F,No,Yes
-201,2014-08-27 12:57:52,United States,No,F,Yes,Yes
-202,2014-08-27 12:58:10,United States,No,M,No,No
-203,2014-08-27 12:58:42,Ireland,No,M,No,No
-204,2014-08-27 13:00:38,Austria,Yes,M,Don't know,Don't know
-205,2014-08-27 13:02:14,United Kingdom,Yes,M,No,Don't know
-206,2014-08-27 13:03:05,Canada,No,M,No,No
-207,2014-08-27 13:04:18,United States,No,M,No,No
-208,2014-08-27 13:04:45,United States,No,M,Don't know,Don't know
-209,2014-08-27 13:05:45,Bulgaria,No,M,No,No
-210,2014-08-27 13:06:00,United States,No,F,Yes,Yes
-211,2014-08-27 13:06:12,United Kingdom,Yes,M,No,No
-212,2014-08-27 13:07:24,United Kingdom,No,M,No,No
-213,2014-08-27 13:07:40,United States,Yes,F,No,Don't know
-214,2014-08-27 13:07:42,United States,No,F,Don't know,Yes
-215,2014-08-27 13:07:46,United States,Yes,F,Don't know,No
-216,2014-08-27 13:08:17,Germany,No,M,No,Yes
-217,2014-08-27 13:09:24,Canada,No,M,Don't know,Yes
-218,2014-08-27 13:09:37,United States,No,F,Don't know,Yes
-220,2014-08-27 13:12:31,United States,No,F,No,Yes
-221,2014-08-27 13:12:43,United Kingdom,No,M,No,Don't know
-222,2014-08-27 13:14:53,United States,No,M,No,Don't know
-223,2014-08-27 13:15:19,United States,No,M,No,No
-224,2014-08-27 13:15:25,United States,No,M,Don't know,Don't know
-225,2014-08-27 13:18:18,United States,No,M,No,Don't know
-226,2014-08-27 13:18:44,United States,No,M,No,No
-227,2014-08-27 13:19:40,Australia,No,M,Yes,Don't know
-228,2014-08-27 13:21:00,United States,No,M,Don't know,Yes
-229,2014-08-27 13:22:42,United Kingdom,No,M,No,No
-230,2014-08-27 13:22:49,United States,No,M,Yes,Yes
-231,2014-08-27 13:23:38,United States,No,M,Don't know,Yes
-232,2014-08-27 13:24:34,United Kingdom,No,M,Don't know,Don't know
-233,2014-08-27 13:24:57,United States,No,M,Don't know,Don't know
-234,2014-08-27 13:26:35,Netherlands,No,M,Don't know,Don't know
-235,2014-08-27 13:26:54,United Kingdom,No,M,No,No
-236,2014-08-27 13:27:18,Canada,Yes,M,Don't know,Yes
-237,2014-08-27 13:29:45,United Kingdom,Yes,M,No,No
-238,2014-08-27 13:29:57,United States,Yes,F,Yes,Yes
-239,2014-08-27 13:31:03,Canada,Yes,F,Yes,Yes
-240,2014-08-27 13:31:35,Sweden,No,M,No,Don't know
-241,2014-08-27 13:32:31,United States,Yes,M,No,No
-242,2014-08-27 13:32:48,United States,Yes,M,Yes,Yes
-243,2014-08-27 13:33:32,South Africa,No,M,No,No
-244,2014-08-27 13:34:03,United States,No,M,Don't know,Yes
-245,2014-08-27 13:35:23,United States,No,M,Yes,Yes
-246,2014-08-27 13:35:40,United States,No,M,Don't know,Don't know
-247,2014-08-27 13:37:18,United Kingdom,No,M,No,No
-248,2014-08-27 13:37:47,United States,Yes,M,No,No
-249,2014-08-27 13:38:17,United States,Yes,F,Don't know,Yes
-250,2014-08-27 13:39:00,United States,Yes,M,Don't know,Don't know
-251,2014-08-27 13:40:58,United States,Yes,M,Don't know,Yes
-252,2014-08-27 13:42:38,United States,Yes,M,Don't know,Yes
-253,2014-08-27 13:44:05,United Kingdom,No,M,Don't know,Don't know
-254,2014-08-27 13:44:47,United States,No,M,Don't know,Don't know
-255,2014-08-27 13:46:03,Canada,No,M,No,No
-256,2014-08-27 13:47:05,United Kingdom,No,F,Don't know,Don't know
-257,2014-08-27 13:47:27,United States,No,M,Yes,No
-258,2014-08-27 13:48:01,United Kingdom,No,M,No,No
-259,2014-08-27 13:49:15,Australia,Yes,M,No,No
-260,2014-08-27 13:49:32,United States,No,F,No,Yes
-261,2014-08-27 13:52:05,Canada,No,M,No,No
-262,2014-08-27 13:52:57,United States,No,M,Yes,Yes
-263,2014-08-27 13:53:21,Poland,Yes,M,No,No
-264,2014-08-27 13:53:44,Canada,No,M,No,No
-265,2014-08-27 13:53:51,United States,No,M,Don't know,No
-266,2014-08-27 13:54:00,United States,No,M,No,Yes
-267,2014-08-27 13:54:24,United Kingdom,Yes,M,Don't know,Don't know
-268,2014-08-27 13:55:16,United States,Yes,F,No,Yes
-269,2014-08-27 13:55:22,United States,No,M,No,No
-270,2014-08-27 13:55:38,Ireland,No,M,No,No
-271,2014-08-27 13:56:27,United States,Yes,F,Don't know,Yes
-272,2014-08-27 13:56:35,United States,No,M,Yes,Yes
-273,2014-08-27 13:59:24,United Kingdom,No,M,No,No
-274,2014-08-27 13:59:35,United States,No,M,No,Yes
-275,2014-08-27 14:01:25,Canada,No,M,Yes,Yes
-276,2014-08-27 14:01:35,United States,No,M,No,Yes
-277,2014-08-27 14:01:54,Colombia,No,M,No,No
-278,2014-08-27 14:03:16,United States,No,M,Don't know,Yes
-279,2014-08-27 14:03:54,United States,Yes,M,Don't know,Don't know
-280,2014-08-27 14:03:59,Australia,Yes,M,Yes,Don't know
-281,2014-08-27 14:06:26,Portugal,No,M,No,No
-282,2014-08-27 14:10:15,United States,No,M,Don't know,Don't know
-283,2014-08-27 14:10:47,United States,Yes,M,No,Yes
-284,2014-08-27 14:10:53,Canada,No,M,No,Don't know
-285,2014-08-27 14:11:46,United Kingdom,Yes,M,No,No
-286,2014-08-27 14:11:52,United States,Yes,F,Don't know,Yes
-287,2014-08-27 14:11:55,United States,No,M,Don't know,Don't know
-288,2014-08-27 14:13:02,United States,No,F,No,No
-289,2014-08-27 14:13:16,United States,Yes,F,Don't know,Yes
-290,2014-08-27 14:13:24,Switzerland,No,M,No,No
-291,2014-08-27 14:14:52,United States,No,M,Don't know,Don't know
-292,2014-08-27 14:15:13,United States,Yes,M,Don't know,Yes
-293,2014-08-27 14:15:21,United States,No,M,Don't know,Yes
-294,2014-08-27 14:15:57,United States,No,M,Don't know,Yes
-295,2014-08-27 14:16:00,United States,No,F,Don't know,Don't know
-296,2014-08-27 14:18:20,United States,Yes,F,Don't know,Yes
-297,2014-08-27 14:18:41,United States,No,M,Yes,Yes
-298,2014-08-27 14:18:44,United States,Yes,M,Yes,Yes
-299,2014-08-27 14:19:08,United States,No,M,Yes,Yes
-300,2014-08-27 14:19:12,United States,No,F,Yes,Yes
-301,2014-08-27 14:20:08,United States,No,F,Don't know,Yes
-302,2014-08-27 14:20:43,United States,No,M,Don't know,Yes
-303,2014-08-27 14:21:37,United States,Yes,F,Yes,Yes
-304,2014-08-27 14:21:42,United States,No,F,Yes,Yes
-305,2014-08-27 14:22:00,Canada,Yes,M,Don't know,Yes
-307,2014-08-27 14:22:43,United States,No,M,No,No
-308,2014-08-27 14:22:43,United States,No,M,Don't know,Don't know
-309,2014-08-27 14:23:51,United States,No,M,Yes,Yes
-310,2014-08-27 14:23:53,Canada,No,M,Don't know,Don't know
-311,2014-08-27 14:24:15,United States,No,M,Yes,Yes
-312,2014-08-27 14:25:41,United States,No,M,No,No
-313,2014-08-27 14:25:54,United States,Yes,M,Don't know,Yes
-314,2014-08-27 14:26:32,United States,Yes,M,Don't know,Don't know
-315,2014-08-27 14:27:20,United States,No,M,Don't know,Don't know
-316,2014-08-27 14:27:27,United States,No,M,Don't know,Don't know
-317,2014-08-27 14:27:28,United States,No,M,Yes,Yes
-318,2014-08-27 14:27:51,United States,Yes,F,Yes,Yes
-319,2014-08-27 14:28:28,Latvia,No,M,No,No
-320,2014-08-27 14:28:41,United States,Yes,M,Yes,Yes
-321,2014-08-27 14:28:43,United States,No,M,Don't know,Yes
-322,2014-08-27 14:28:49,United States,No,M,Yes,Yes
-323,2014-08-27 14:28:51,United States,Yes,F,Yes,Yes
-324,2014-08-27 14:29:19,United States,No,M,No,Yes
-325,2014-08-27 14:30:33,United States,No,M,Don't know,Don't know
-326,2014-08-27 14:31:06,United States,No,F,Yes,Yes
-327,2014-08-27 14:31:28,United States,Yes,M,Yes,Don't know
-328,2014-08-27 14:31:44,United States,No,M,No,No
-329,2014-08-27 14:32:22,Germany,Yes,M,No,No
-330,2014-08-27 14:32:46,United States,No,M,Yes,Yes
-331,2014-08-27 14:33:44,Canada,Yes,M,Don't know,Yes
-332,2014-08-27 14:34:47,United States,No,M,No,Don't know
-333,2014-08-27 14:37:33,Ireland,No,M,No,No
-334,2014-08-27 14:37:35,Romania,No,M,No,No
-335,2014-08-27 14:37:46,United States,No,M,Don't know,Yes
-336,2014-08-27 14:38:06,United Kingdom,No,M,Don't know,Don't know
-337,2014-08-27 14:38:13,United States,No,F,No,Yes
-338,2014-08-27 14:38:26,United States,No,M,Don't know,Yes
-339,2014-08-27 14:38:49,United States,No,M,Yes,Yes
-340,2014-08-27 14:38:54,United States,No,M,Don't know,Don't know
-341,2014-08-27 14:39:07,United States,Yes,F,No,No
-342,2014-08-27 14:39:20,United States,No,M,Don't know,Don't know
-343,2014-08-27 14:41:09,United States,No,M,Don't know,Don't know
-344,2014-08-27 14:41:16,United Kingdom,No,M,No,Don't know
-345,2014-08-27 14:44:29,United States,Yes,F,No,Yes
-346,2014-08-27 14:45:12,United States,Yes,M,No,Don't know
-347,2014-08-27 14:45:45,United States,Yes,M,Yes,Don't know
-348,2014-08-27 14:47:10,United States,No,M,Don't know,Don't know
-350,2014-08-27 14:49:08,Belgium,No,M,No,Don't know
-351,2014-08-27 14:49:30,United States,No,M,Yes,Yes
-352,2014-08-27 14:51:29,United Kingdom,No,M,Don't know,No
-353,2014-08-27 14:52:44,United States,Yes,M,Yes,Yes
-354,2014-08-27 14:52:53,Sweden,Yes,F,No,Yes
-355,2014-08-27 14:53:11,United States,No,M,Don't know,No
-356,2014-08-27 14:54:23,United States,Yes,M,No,Don't know
-357,2014-08-27 14:54:56,United States,Yes,M,Yes,Yes
-358,2014-08-27 14:57:46,United States,No,M,No,No
-359,2014-08-27 14:58:01,United States,No,M,No,No
-361,2014-08-27 15:03:56,Germany,Yes,M,Don't know,No
-362,2014-08-27 15:04:41,United States,Yes,M,Don't know,No
-363,2014-08-27 15:05:00,United States,Yes,M,Yes,Yes
-364,2014-08-27 15:05:21,United States,No,M,No,Yes
-365,2014-08-27 15:09:58,United States,Yes,M,Don't know,Don't know
-366,2014-08-27 15:11:30,United States,Yes,M,Yes,Yes
-367,2014-08-27 15:13:33,United States,Yes,M,No,No
-368,2014-08-27 15:14:50,United States,Yes,M,Don't know,Yes
-369,2014-08-27 15:15:29,United Kingdom,No,M,No,Don't know
-370,2014-08-27 15:15:42,United States,No,F,Yes,Yes
-371,2014-08-27 15:20:53,United States,Yes,M,Yes,Yes
-372,2014-08-27 15:21:59,United States,Yes,M,Yes,Yes
-373,2014-08-27 15:22:20,United States,No,F,Yes,Yes
-374,2014-08-27 15:22:26,United States,Yes,F,No,Don't know
-375,2014-08-27 15:22:43,United States,No,M,Don't know,Yes
-376,2014-08-27 15:22:45,United States,No,F,No,Yes
-377,2014-08-27 15:22:50,United States,Yes,F,No,Don't know
-379,2014-08-27 15:23:06,United States,Yes,F,Yes,Yes
-380,2014-08-27 15:23:07,Canada,No,M,Don't know,Yes
-381,2014-08-27 15:23:19,United States,No,M,Yes,Yes
-383,2014-08-27 15:23:33,Germany,Yes,M,No,No
-384,2014-08-27 15:23:51,United States,No,M,No,Don't know
-385,2014-08-27 15:23:51,United States,Yes,F,Don't know,Yes
-386,2014-08-27 15:23:54,New Zealand,No,M,No,Don't know
-388,2014-08-27 15:24:27,United States,No,F,No,Don't know
-389,2014-08-27 15:24:28,Sweden,Yes,F,Yes,Yes
-391,2014-08-27 15:24:47,United States,Yes,F,Don't know,Yes
-392,2014-08-27 15:24:49,United States,No,M,Don't know,Don't know
-393,2014-08-27 15:24:55,Canada,Yes,M,Don't know,Don't know
-394,2014-08-27 15:24:56,United States,Yes,F,No,No
-395,2014-08-27 15:25:03,United States,No,M,Don't know,Yes
-396,2014-08-27 15:25:09,United Kingdom,No,M,No,Don't know
-397,2014-08-27 15:25:16,United Kingdom,No,M,No,No
-398,2014-08-27 15:25:41,United States,No,F,No,Don't know
-399,2014-08-27 15:25:47,Canada,No,M,Don't know,Don't know
-400,2014-08-27 15:26:05,United States,Yes,M,No,Yes
-401,2014-08-27 15:26:37,United States,Yes,M,No,Yes
-402,2014-08-27 15:26:40,United States,No,M,Don't know,Don't know
-403,2014-08-27 15:26:57,United States,Yes,M,No,Yes
-404,2014-08-27 15:27:25,Germany,Yes,M,No,Don't know
-405,2014-08-27 15:27:31,United States,Yes,M,Yes,Yes
-406,2014-08-27 15:27:38,United States,Yes,M,Yes,Yes
-407,2014-08-27 15:27:39,United States,No,M,Don't know,Don't know
-408,2014-08-27 15:28:34,Brazil,No,M,No,Don't know
-409,2014-08-27 15:28:50,Spain,Yes,F,No,No
-410,2014-08-27 15:29:03,United States,Yes,M,No,Yes
-411,2014-08-27 15:29:07,United States,Yes,F,Don't know,Don't know
-412,2014-08-27 15:29:23,United States,Yes,M,Don't know,Don't know
-414,2014-08-27 15:31:10,United States,No,F,Don't know,Don't know
-415,2014-08-27 15:31:18,United States,Yes,M,Don't know,Don't know
-417,2014-08-27 15:31:31,India,No,M,No,No
-418,2014-08-27 15:31:38,Finland,No,M,No,No
-419,2014-08-27 15:31:40,United States,Yes,M,Don't know,No
-420,2014-08-27 15:32:09,Germany,Yes,M,No,Yes
-421,2014-08-27 15:32:19,Uruguay,No,M,No,Don't know
-422,2014-08-27 15:32:43,New Zealand,Yes,M,No,Yes
-423,2014-08-27 15:34:23,United Kingdom,Yes,M,Don't know,No
-424,2014-08-27 15:34:31,United States,No,F,Don't know,Yes
-425,2014-08-27 15:34:32,United States,No,M,Yes,Don't know
-426,2014-08-27 15:35:21,United States,Yes,M,No,No
-427,2014-08-27 15:35:37,United States,No,F,Don't know,Yes
-428,2014-08-27 15:35:50,United States,No,M,No,Yes
-429,2014-08-27 15:36:13,United States,No,F,Yes,Yes
-430,2014-08-27 15:36:41,Canada,No,M,No,Don't know
-431,2014-08-27 15:38:07,United States,Yes,F,No,No
-432,2014-08-27 15:38:27,United States,No,M,No,No
-433,2014-08-27 15:38:31,United States,No,M,No,Don't know
-434,2014-08-27 15:38:32,United States,No,F,No,Don't know
-435,2014-08-27 15:38:37,United States,No,M,Don't know,Don't know
-436,2014-08-27 15:39:31,United States,No,M,Don't know,Don't know
-437,2014-08-27 15:40:03,Australia,No,M,Don't know,Don't know
-438,2014-08-27 15:43:17,United States,No,F,Don't know,Yes
-439,2014-08-27 15:43:27,United States,Yes,M,Yes,Yes
-440,2014-08-27 15:43:30,United Kingdom,Yes,M,No,No
-441,2014-08-27 15:43:45,United States,No,M,Don't know,Yes
-442,2014-08-27 15:44:16,United States,No,M,Yes,Yes
-443,2014-08-27 15:44:20,United States,No,F,No,Yes
-444,2014-08-27 15:46:12,Canada,Yes,M,No,Yes
-445,2014-08-27 15:46:39,United States,Yes,M,Don't know,Yes
-446,2014-08-27 15:47:26,United States,Yes,M,Don't know,Yes
-447,2014-08-27 15:47:33,United States,No,F,No,Yes
-448,2014-08-27 15:50:26,United States,No,M,No,Yes
-449,2014-08-27 15:51:36,Canada,Yes,M,Yes,Yes
-450,2014-08-27 15:53:39,United States,Yes,M,No,Yes
-452,2014-08-27 15:54:45,United States,Yes,M,No,Yes
-453,2014-08-27 15:55:07,United States,No,M,No,Don't know
-454,2014-08-27 15:55:07,United States,Yes,M,Don't know,Don't know
-455,2014-08-27 15:55:08,United States,No,M,No,Don't know
-456,2014-08-27 15:56:37,Brazil,No,M,No,No
-457,2014-08-27 15:58:23,Netherlands,Yes,M,No,Yes
-458,2014-08-27 15:59:41,United Kingdom,No,M,No,No
-459,2014-08-27 15:59:47,United States,No,M,No,Yes
-460,2014-08-27 16:00:16,United Kingdom,No,M,Don't know,Don't know
-463,2014-08-27 16:02:16,United States,Yes,F,No,Don't know
-464,2014-08-27 16:03:20,United States,Yes,M,Don't know,Don't know
-465,2014-08-27 16:04:01,United Kingdom,No,M,No,No
-466,2014-08-27 16:06:46,United States,Yes,M,No,Yes
-467,2014-08-27 16:07:32,United Kingdom,No,M,No,No
-468,2014-08-27 16:10:10,France,No,M,No,No
-469,2014-08-27 16:11:36,Netherlands,No,F,No,Yes
-470,2014-08-27 16:13:31,United States,No,M,Yes,Yes
-471,2014-08-27 16:13:40,United States,No,M,Yes,Yes
-472,2014-08-27 16:13:42,United States,No,M,No,Don't know
-473,2014-08-27 16:14:04,United Kingdom,No,F,Yes,Yes
-474,2014-08-27 16:14:43,United States,No,M,No,Don't know
-475,2014-08-27 16:15:26,United States,No,M,Yes,Yes
-476,2014-08-27 16:15:33,Germany,Yes,M,No,No
-477,2014-08-27 16:16:40,Germany,Yes,M,Don't know,Don't know
-478,2014-08-27 16:16:51,Finland,No,M,Don't know,Don't know
-479,2014-08-27 16:17:05,United States,No,F,No,Don't know
-480,2014-08-27 16:17:41,United States,No,M,Don't know,Don't know
-481,2014-08-27 16:18:44,United States,No,M,Yes,Yes
-482,2014-08-27 16:19:05,United Kingdom,Yes,F,Don't know,Don't know
-483,2014-08-27 16:19:25,United States,No,M,No,Yes
-484,2014-08-27 16:20:36,United States,No,M,Don't know,Don't know
-485,2014-08-27 16:20:40,Germany,No,M,No,No
-486,2014-08-27 16:21:11,United States,Yes,F,No,Don't know
-487,2014-08-27 16:21:24,United States,Yes,M,No,No
-488,2014-08-27 16:21:54,Israel,No,M,No,No
-489,2014-08-27 16:21:55,Italy,No,M,No,No
-490,2014-08-27 16:22:10,United States,No,M,Don't know,Yes
-491,2014-08-27 16:22:17,United States,No,M,No,Don't know
-492,2014-08-27 16:23:14,Israel,No,M,No,No
-493,2014-08-27 16:25:26,United States,Yes,F,Don't know,No
-494,2014-08-27 16:26:03,United States,No,M,Don't know,Don't know
-495,2014-08-27 16:27:04,United States,Yes,F,No,Yes
-496,2014-08-27 16:27:47,United States,No,M,No,Yes
-497,2014-08-27 16:28:10,United States,Yes,F,No,Don't know
-498,2014-08-27 16:28:20,United Kingdom,No,M,Yes,No
-499,2014-08-27 16:29:05,Netherlands,No,M,Don't know,Don't know
-500,2014-08-27 16:29:23,United States,No,F,No,Yes
-501,2014-08-27 16:31:16,Ireland,Yes,M,No,No
-502,2014-08-27 16:32:31,United Kingdom,No,M,Don't know,No
-503,2014-08-27 16:34:18,Germany,No,M,Yes,Don't know
-504,2014-08-27 16:35:02,United States,No,F,No,No
-505,2014-08-27 16:36:57,United States,No,M,Yes,Yes
-506,2014-08-27 16:39:00,United States,No,M,No,Yes
-507,2014-08-27 16:39:01,United Kingdom,Yes,M,No,Yes
-508,2014-08-27 16:40:35,United States,Yes,M,Yes,Yes
-509,2014-08-27 16:42:00,United States,No,M,Don't know,Yes
-510,2014-08-27 16:42:55,United States,No,F,Yes,Yes
-511,2014-08-27 16:47:48,United States,No,F,No,No
-512,2014-08-27 16:53:54,United States,No,M,Don't know,Don't know
-513,2014-08-27 16:55:04,United States,No,M,Yes,Yes
-514,2014-08-27 17:00:15,United States,Yes,M,Yes,Yes
-515,2014-08-27 17:03:02,United States,No,M,Don't know,Don't know
-516,2014-08-27 17:04:29,United States,No,M,Yes,Yes
-517,2014-08-27 17:08:18,United States,Yes,F,Yes,Yes
-518,2014-08-27 17:09:23,Germany,No,M,No,Yes
-519,2014-08-27 17:10:56,United Kingdom,Yes,M,No,No
-520,2014-08-27 17:12:01,United States,No,M,Yes,Yes
-521,2014-08-27 17:14:36,United States,No,F,Don't know,Don't know
-522,2014-08-27 17:15:25,United States,No,M,No,No
-523,2014-08-27 17:19:05,Bosnia and Herzegovina,Yes,M,Don't know,Don't know
-524,2014-08-27 17:22:29,United States,Yes,M,No,Don't know
-525,2014-08-27 17:32:04,United States,Yes,F,Yes,Yes
-526,2014-08-27 17:33:51,Austria,No,M,Don't know,Yes
-527,2014-08-27 17:33:52,New Zealand,No,M,No,No
-528,2014-08-27 17:33:52,United States,No,M,Yes,Yes
-529,2014-08-27 17:37:41,Canada,Yes,F,Don't know,Don't know
-530,2014-08-27 17:39:58,United Kingdom,No,M,No,No
-531,2014-08-27 17:41:44,Australia,No,M,Yes,Yes
-532,2014-08-27 17:42:49,Hungary,Yes,F,No,No
-533,2014-08-27 17:46:17,Sweden,No,M,Don't know,Don't know
-534,2014-08-27 17:47:45,Canada,No,M,No,Don't know
-535,2014-08-27 17:48:54,Australia,Yes,F,No,No
-536,2014-08-27 17:49:21,United States,Yes,M,Yes,Yes
-537,2014-08-27 17:49:30,United States,Yes,M,Don't know,Don't know
-538,2014-08-27 17:52:31,United Kingdom,No,M,No,Don't know
-539,2014-08-27 17:56:50,United States,Yes,F,Don't know,Yes
-540,2014-08-27 18:00:39,United States,Yes,F,No,Don't know
-541,2014-08-27 18:02:32,United States,Yes,F,No,Yes
-542,2014-08-27 18:02:42,United Kingdom,No,M,No,Don't know
-543,2014-08-27 18:12:55,United States,Yes,F,Don't know,Yes
-545,2014-08-27 18:14:59,United Kingdom,No,F,No,Don't know
-546,2014-08-27 18:16:52,United Kingdom,No,M,Don't know,Don't know
-547,2014-08-27 18:18:18,United States,Yes,M,Yes,Yes
-548,2014-08-27 18:22:05,United States,Yes,M,Yes,Yes
-549,2014-08-27 18:29:32,Germany,No,M,No,No
-551,2014-08-27 18:41:00,New Zealand,No,M,No,No
-552,2014-08-27 18:43:06,Canada,No,F,No,No
-554,2014-08-27 18:59:44,New Zealand,Yes,F,No,No
-555,2014-08-27 19:05:52,Canada,No,F,Don't know,Don't know
-556,2014-08-27 19:08:31,Australia,No,M,Yes,Yes
-557,2014-08-27 19:13:21,United States,No,M,Don't know,Don't know
-558,2014-08-27 19:13:27,Netherlands,Yes,M,Don't know,No
-559,2014-08-27 19:16:15,United States,No,M,Don't know,Don't know
-560,2014-08-27 19:17:07,United States,No,M,No,No
-561,2014-08-27 19:25:42,United States,Yes,M,Don't know,Don't know
-562,2014-08-27 19:27:25,Australia,No,M,Don't know,Don't know
-563,2014-08-27 19:28:35,United States,No,M,Don't know,Don't know
-564,2014-08-27 19:34:26,Canada,No,M,No,No
-565,2014-08-27 19:34:56,United States,No,M,No,Yes
-566,2014-08-27 19:38:44,United States,No,M,Don't know,Yes
-567,2014-08-27 19:41:28,United States,No,M,Yes,Yes
-568,2014-08-27 19:45:36,United States,Yes,M,Don't know,Yes
-570,2014-08-27 20:13:06,United States,Yes,M,No,No
-572,2014-08-27 20:33:33,United States,No,F,Yes,Don't know
-573,2014-08-27 20:48:54,United States,Yes,F,No,Yes
-574,2014-08-27 20:52:20,United States,No,M,No,No
-575,2014-08-27 20:52:31,United States,Yes,M,Don't know,Don't know
-576,2014-08-27 20:53:22,United States,No,M,No,Don't know
-577,2014-08-27 20:55:48,United States,Yes,M,No,Don't know
-578,2014-08-27 21:05:41,Canada,No,M,No,Yes
-579,2014-08-27 21:15:09,United States,Yes,M,No,Yes
-580,2014-08-27 21:17:31,United States,Yes,M,No,Yes
-581,2014-08-27 21:21:31,United States,Yes,M,Don't know,Don't know
-582,2014-08-27 21:35:24,Canada,No,M,Yes,Yes
-583,2014-08-27 21:39:23,United States,No,M,No,No
-584,2014-08-27 21:45:31,Singapore,No,M,No,No
-585,2014-08-27 21:54:29,United States,No,F,No,Don't know
-586,2014-08-27 21:54:32,Australia,No,M,No,No
-587,2014-08-27 21:55:28,United States,No,F,No,Yes
-588,2014-08-27 22:00:36,United States,Yes,M,No,No
-589,2014-08-27 22:04:43,United States,No,M,No,No
-590,2014-08-27 22:04:47,United States,Yes,M,No,Yes
-591,2014-08-27 22:06:14,United States,Yes,M,No,Don't know
-592,2014-08-27 22:07:34,Canada,Yes,M,No,No
-593,2014-08-27 22:11:16,United States,Yes,M,Yes,Yes
-594,2014-08-27 22:12:55,United States,Yes,M,Yes,Yes
-595,2014-08-27 22:13:55,United States,No,M,Don't know,Yes
-596,2014-08-27 22:14:23,United States,Yes,F,No,Yes
-597,2014-08-27 22:14:46,United States,No,M,Don't know,Don't know
-598,2014-08-27 22:21:48,United States,No,M,Don't know,Don't know
-599,2014-08-27 22:26:03,United States,Yes,M,Don't know,No
-600,2014-08-27 22:32:36,United States,Yes,M,Yes,Yes
-601,2014-08-27 22:35:40,United States,Yes,M,Yes,No
-602,2014-08-27 22:36:34,United States,Yes,M,No,Yes
-604,2014-08-27 22:59:23,United States,No,M,Don't know,Yes
-605,2014-08-27 23:09:46,United States,No,M,No,No
-606,2014-08-27 23:10:16,United States,No,M,Don't know,Don't know
-607,2014-08-27 23:10:23,United States,No,M,No,Don't know
-608,2014-08-27 23:14:58,United States,No,M,No,Don't know
-609,2014-08-27 23:30:52,Australia,No,M,No,No
-610,2014-08-27 23:54:08,United States,No,M,No,No
-611,2014-08-27 23:56:33,United States,No,M,No,No
-612,2014-08-27 23:57:16,United States,No,M,No,Don't know
-613,2014-08-27 23:59:59,Singapore,No,M,No,Don't know
-614,2014-08-28 00:02:36,United States,No,M,No,Yes
-615,2014-08-28 00:05:34,United States,No,M,Yes,No
-616,2014-08-28 00:17:24,United States,No,M,Don't know,Yes
-617,2014-08-28 00:43:40,United States,Yes,M,No,Yes
-618,2014-08-28 00:47:55,Netherlands,Yes,M,Don't know,No
-619,2014-08-28 01:04:45,United Kingdom,Yes,M,No,Yes
-620,2014-08-28 01:14:11,Germany,Yes,M,No,Don't know
-621,2014-08-28 01:19:34,Netherlands,No,M,No,Don't know
-622,2014-08-28 01:30:12,United States,No,F,No,Yes
-623,2014-08-28 01:38:53,United States,Yes,F,Yes,Yes
-624,2014-08-28 01:41:17,United States,Yes,F,No,Don't know
-625,2014-08-28 01:56:43,United States,Yes,F,Yes,Yes
-627,2014-08-28 02:17:42,United States,Yes,M,No,No
-629,2014-08-28 02:30:00,United States,Yes,M,Don't know,Yes
-630,2014-08-28 02:32:11,United Kingdom,No,F,No,No
-632,2014-08-28 02:46:56,Germany,No,M,No,No
-633,2014-08-28 02:49:34,United States,No,F,Don't know,Yes
-634,2014-08-28 02:52:45,Germany,No,M,Don't know,Don't know
-635,2014-08-28 02:54:44,Germany,No,M,No,No
-636,2014-08-28 03:05:52,Poland,Yes,M,No,No
-637,2014-08-28 03:06:14,United Kingdom,No,M,No,No
-638,2014-08-28 03:13:10,United States,No,M,No,Yes
-639,2014-08-28 03:13:20,Japan,Yes,M,No,No
-640,2014-08-28 03:15:01,Germany,No,M,No,Yes
-641,2014-08-28 03:16:53,Germany,No,M,No,No
-642,2014-08-28 03:29:19,Australia,Yes,F,Yes,Yes
-643,2014-08-28 03:36:10,United States,No,M,Yes,Yes
-644,2014-08-28 03:42:58,Belgium,Yes,F,No,Yes
-645,2014-08-28 03:47:30,Ireland,No,M,No,No
-646,2014-08-28 03:49:56,Ireland,Yes,M,No,No
-647,2014-08-28 03:52:05,Australia,No,M,No,No
-648,2014-08-28 04:00:30,Australia,Yes,F,Yes,No
-649,2014-08-28 04:02:47,Netherlands,No,F,No,No
-650,2014-08-28 04:07:34,United States,No,M,Yes,Don't know
-651,2014-08-28 04:09:14,United Kingdom,Yes,M,Don't know,Don't know
-652,2014-08-28 04:11:27,United Kingdom,Yes,M,No,Don't know
-653,2014-08-28 04:16:30,Australia,Yes,F,Yes,Don't know
-654,2014-08-28 04:23:01,United States,No,M,Yes,Yes
-655,2014-08-28 04:24:03,Nigeria,No,M,No,No
-656,2014-08-28 04:30:08,Poland,No,M,No,No
-657,2014-08-28 04:34:32,Germany,No,M,No,No
-658,2014-08-28 04:37:54,United Kingdom,Yes,M,Don't know,Yes
-659,2014-08-28 04:53:52,Germany,No,M,Don't know,Don't know
-660,2014-08-28 05:05:32,Switzerland,No,F,Yes,Yes
-661,2014-08-28 05:12:15,United Kingdom,No,M,Don't know,Don't know
-662,2014-08-28 05:14:28,United States,No,M,Don't know,Don't know
-663,2014-08-28 06:02:05,Ireland,No,M,No,No
-664,2014-08-28 06:05:18,Italy,No,M,No,Don't know
-665,2014-08-28 06:10:25,Ireland,No,M,No,No
-666,2014-08-28 06:11:06,India,No,M,Don't know,Don't know
-667,2014-08-28 06:27:59,Ireland,No,M,Don't know,Don't know
-668,2014-08-28 06:30:18,Netherlands,No,M,No,No
-669,2014-08-28 07:01:30,France,No,M,No,Don't know
-670,2014-08-28 07:03:00,Russia,No,M,Don't know,No
-671,2014-08-28 07:03:03,United States,Yes,M,Don't know,Don't know
-673,2014-08-28 08:00:40,Israel,Yes,F,Don't know,Don't know
-674,2014-08-28 08:06:43,Canada,Yes,M,No,Don't know
-675,2014-08-28 08:18:06,United States,No,M,Don't know,Don't know
-676,2014-08-28 08:23:11,India,No,M,No,No
-677,2014-08-28 08:39:49,United States,Yes,F,No,Don't know
-678,2014-08-28 08:40:55,Germany,No,M,No,No
-679,2014-08-28 08:43:23,United States,No,M,Yes,Yes
-680,2014-08-28 08:43:57,Bulgaria,No,M,No,No
-681,2014-08-28 08:43:58,United States,No,M,Yes,Yes
-683,2014-08-28 09:09:30,Canada,No,F,Don't know,Yes
-684,2014-08-28 09:16:21,United Kingdom,No,F,No,No
-685,2014-08-28 09:18:13,India,Yes,F,Don't know,Don't know
-686,2014-08-28 09:40:42,United States,Yes,F,Yes,Yes
-687,2014-08-28 09:53:42,United States,Yes,M,Yes,Yes
-688,2014-08-28 09:53:57,United States,No,M,No,Don't know
-689,2014-08-28 09:54:21,United Kingdom,No,F,Don't know,Don't know
-690,2014-08-28 09:54:38,Canada,No,M,No,Yes
-691,2014-08-28 09:54:47,Netherlands,No,M,No,No
-692,2014-08-28 09:54:51,Germany,No,M,Don't know,Don't know
-693,2014-08-28 09:55:14,Canada,No,F,Don't know,Yes
-694,2014-08-28 09:56:03,United Kingdom,No,M,No,No
-695,2014-08-28 09:56:04,United Kingdom,No,M,No,Yes
-696,2014-08-28 09:56:10,France,No,M,No,No
-697,2014-08-28 09:56:21,United States,No,F,No,No
-698,2014-08-28 09:56:30,France,No,M,Don't know,Don't know
-699,2014-08-28 09:57:02,United States,No,M,Don't know,No
-700,2014-08-28 09:57:10,United States,No,M,Don't know,Yes
-701,2014-08-28 09:57:25,United States,Yes,M,Yes,No
-702,2014-08-28 09:58:08,United States,Yes,M,Don't know,Yes
-703,2014-08-28 09:59:39,United States,No,M,No,Yes
-704,2014-08-28 09:59:39,United States,Yes,M,Yes,Yes
-705,2014-08-28 10:00:48,United Kingdom,No,M,No,Don't know
-706,2014-08-28 10:01:15,United States,No,M,No,Don't know
-707,2014-08-28 10:01:31,United States,No,M,Don't know,Don't know
-708,2014-08-28 10:02:09,United States,No,F,Don't know,Don't know
-709,2014-08-28 10:02:23,United States,No,M,No,Yes
-710,2014-08-28 10:02:45,United Kingdom,No,M,No,No
-711,2014-08-28 10:04:34,France,No,M,Don't know,Don't know
-712,2014-08-28 10:04:41,United States,Yes,M,Don't know,Don't know
-713,2014-08-28 10:05:43,United States,No,M,Yes,Yes
-714,2014-08-28 10:07:37,United States,Yes,M,Don't know,Yes
-715,2014-08-28 10:07:53,United Kingdom,No,M,No,No
-716,2014-08-28 10:08:19,Germany,No,M,Yes,Yes
-717,2014-08-28 10:08:34,United States,No,M,No,Yes
-718,2014-08-28 10:10:29,Netherlands,Yes,M,No,No
-720,2014-08-28 10:13:44,United Kingdom,No,M,No,Don't know
-721,2014-08-28 10:15:52,Canada,Yes,M,No,Don't know
-722,2014-08-28 10:16:55,Canada,No,M,No,No
-723,2014-08-28 10:17:19,United States,Yes,M,Don't know,Don't know
-724,2014-08-28 10:18:34,United States,Yes,M,No,No
-725,2014-08-28 10:18:46,South Africa,No,M,No,No
-726,2014-08-28 10:20:37,Germany,No,M,No,Don't know
-727,2014-08-28 10:22:06,Switzerland,Yes,M,No,Don't know
-728,2014-08-28 10:24:19,United States,No,M,Don't know,Don't know
-729,2014-08-28 10:25:39,Croatia,No,M,No,No
-730,2014-08-28 10:29:47,United Kingdom,No,M,No,No
-731,2014-08-28 10:30:04,France,No,M,No,No
-732,2014-08-28 10:30:44,United States,No,M,No,Don't know
-733,2014-08-28 10:34:01,United States,No,M,Yes,Yes
-734,2014-08-28 10:35:55,United States,No,M,No,Don't know
-735,2014-08-28 10:42:09,United Kingdom,No,M,No,No
-736,2014-08-28 10:45:21,United States,No,M,Yes,Yes
-737,2014-08-28 10:47:12,United Kingdom,No,M,No,Don't know
-738,2014-08-28 10:51:08,United Kingdom,No,M,Yes,No
-739,2014-08-28 10:52:33,United States,Yes,M,Don't know,Don't know
-740,2014-08-28 10:54:31,Australia,Yes,M,No,No
-741,2014-08-28 10:57:23,Belgium,No,M,No,No
-742,2014-08-28 11:02:41,United Kingdom,No,M,No,No
-743,2014-08-28 11:04:00,United States,Yes,M,Don't know,Yes
-744,2014-08-28 11:04:17,United States,No,M,No,Yes
-745,2014-08-28 11:07:23,United States,No,M,Don't know,Don't know
-746,2014-08-28 11:09:03,Canada,No,M,Don't know,Yes
-747,2014-08-28 11:10:53,Italy,No,M,No,No
-748,2014-08-28 11:14:21,United States,Yes,M,Yes,Yes
-749,2014-08-28 11:15:42,Canada,No,M,No,Don't know
-750,2014-08-28 11:19:35,Norway,Yes,M,No,Yes
-751,2014-08-28 11:20:14,Germany,No,M,Yes,Don't know
-752,2014-08-28 11:21:17,United States,Yes,M,Don't know,Don't know
-753,2014-08-28 11:21:48,Thailand,No,M,No,No
-754,2014-08-28 11:22:04,United States,No,M,Yes,Yes
-755,2014-08-28 11:26:15,United States,Yes,F,Don't know,Don't know
-756,2014-08-28 11:27:56,United States,Yes,F,Don't know,Yes
-757,2014-08-28 11:29:20,United States,Yes,M,Don't know,Yes
-758,2014-08-28 11:32:37,Germany,No,M,No,No
-759,2014-08-28 11:34:36,United States,No,M,No,No
-760,2014-08-28 11:36:48,Canada,Yes,M,No,No
-761,2014-08-28 11:38:30,United States,Yes,F,Yes,Yes
-762,2014-08-28 11:40:11,Ireland,Yes,M,No,No
-763,2014-08-28 11:44:43,Ireland,Yes,M,No,No
-764,2014-08-28 11:47:35,United States,No,F,Don't know,Don't know
-765,2014-08-28 11:48:12,Netherlands,No,M,No,No
-766,2014-08-28 11:50:06,United States,Yes,F,Yes,Yes
-767,2014-08-28 11:50:28,United Kingdom,No,M,Don't know,Don't know
-768,2014-08-28 11:54:23,United States,No,F,No,Yes
-769,2014-08-28 11:58:21,United Kingdom,No,M,No,Don't know
-770,2014-08-28 11:59:23,United Kingdom,No,M,No,Don't know
-771,2014-08-28 12:02:59,United States,Yes,M,No,No
-772,2014-08-28 12:05:41,United Kingdom,No,M,Don't know,Don't know
-773,2014-08-28 12:06:55,United Kingdom,No,M,Don't know,Don't know
-774,2014-08-28 12:07:28,United Kingdom,Yes,M,No,No
-775,2014-08-28 12:08:30,Canada,No,M,Yes,Yes
-778,2014-08-28 12:10:42,United States,No,F,Yes,Don't know
-779,2014-08-28 12:12:49,United Kingdom,No,F,No,Don't know
-780,2014-08-28 12:15:08,United Kingdom,No,M,Don't know,Don't know
-781,2014-08-28 12:19:34,United States,No,M,No,No
-782,2014-08-28 12:19:42,United Kingdom,Yes,M,Don't know,Don't know
-783,2014-08-28 12:22:14,United States,No,M,No,Don't know
-784,2014-08-28 12:23:37,United States,No,M,No,Don't know
-785,2014-08-28 12:30:20,United States,Yes,M,Yes,Yes
-786,2014-08-28 12:40:46,United Kingdom,Yes,M,No,No
-787,2014-08-28 12:42:12,United States,Yes,M,Don't know,Yes
-788,2014-08-28 12:42:30,Netherlands,No,M,Don't know,Don't know
-789,2014-08-28 12:44:55,Switzerland,No,M,Yes,Yes
-790,2014-08-28 12:53:21,United Kingdom,No,M,No,Don't know
-791,2014-08-28 13:01:26,United States,No,M,Don't know,Yes
-792,2014-08-28 13:04:30,United States,No,F,No,Don't know
-793,2014-08-28 13:08:36,United States,No,F,No,Yes
-794,2014-08-28 13:11:05,United States,Yes,F,Don't know,Don't know
-795,2014-08-28 13:17:40,United States,No,M,No,Yes
-796,2014-08-28 13:26:17,United States,Yes,F,Don't know,Yes
-797,2014-08-28 13:32:37,Brazil,No,M,No,Don't know
-798,2014-08-28 13:34:57,Switzerland,Yes,M,No,No
-799,2014-08-28 13:35:25,United States,No,F,Don't know,Don't know
-800,2014-08-28 13:39:12,United States,No,M,No,Yes
-801,2014-08-28 13:39:40,United States,Yes,M,No,No
-802,2014-08-28 13:40:08,United States,No,M,No,Yes
-803,2014-08-28 13:41:51,United States,No,F,Yes,Yes
-804,2014-08-28 13:47:37,United Kingdom,No,M,Don't know,Don't know
-806,2014-08-28 13:48:30,United States,Yes,F,Yes,Yes
-807,2014-08-28 13:54:47,United States,Yes,F,Don't know,Don't know
-808,2014-08-28 13:57:01,United States,No,M,Don't know,Don't know
-809,2014-08-28 14:00:02,United States,Yes,M,Yes,Yes
-810,2014-08-28 14:01:56,United Kingdom,No,M,No,Don't know
-811,2014-08-28 14:02:07,United Kingdom,No,M,No,No
-812,2014-08-28 14:04:54,United States,No,M,No,No
-813,2014-08-28 14:12:58,United States,No,M,No,No
-814,2014-08-28 14:15:02,United Kingdom,No,F,Don't know,Don't know
-815,2014-08-28 14:31:00,United States,No,F,Don't know,Don't know
-816,2014-08-28 14:38:50,United States,Yes,M,Yes,Yes
-817,2014-08-28 14:41:47,United States,Yes,M,No,No
-819,2014-08-28 14:51:46,Denmark,Yes,M,No,No
-820,2014-08-28 14:52:46,United States,Yes,F,Don't know,Yes
-821,2014-08-28 14:53:02,Denmark,Yes,M,No,No
-822,2014-08-28 14:53:32,United States,No,M,No,No
-823,2014-08-28 14:57:10,United States,No,M,Don't know,Don't know
-824,2014-08-28 15:01:46,United States,No,M,Yes,Yes
-826,2014-08-28 15:32:03,United States,No,M,Don't know,Don't know
-827,2014-08-28 15:37:04,United States,No,M,No,Don't know
-828,2014-08-28 15:40:32,United Kingdom,No,F,No,Don't know
-829,2014-08-28 15:43:37,United States,Yes,M,No,No
-830,2014-08-28 15:48:12,United States,Yes,M,Yes,Yes
-831,2014-08-28 15:50:12,United States,No,M,Don't know,Yes
-832,2014-08-28 15:50:44,Sweden,No,M,No,No
-833,2014-08-28 15:54:35,United States,Yes,F,No,Yes
-834,2014-08-28 15:56:47,United States,No,M,No,No
-835,2014-08-28 16:09:35,United Kingdom,Yes,M,No,Don't know
-836,2014-08-28 16:17:09,United States,Yes,F,No,Yes
-837,2014-08-28 16:31:00,United States,No,F,Don't know,Don't know
-838,2014-08-28 16:42:49,United Kingdom,Yes,M,No,Don't know
-839,2014-08-28 16:52:23,United States,No,M,Yes,Yes
-840,2014-08-28 16:52:34,United States,No,M,Don't know,Don't know
-841,2014-08-28 16:52:34,United Kingdom,No,M,No,No
-842,2014-08-28 16:54:49,United States,Yes,F,No,Yes
-843,2014-08-28 16:55:07,United States,No,M,Don't know,Don't know
-844,2014-08-28 16:55:31,United States,Yes,M,No,Yes
-845,2014-08-28 16:56:26,Italy,No,M,Don't know,Don't know
-846,2014-08-28 16:56:57,United States,No,M,Don't know,Don't know
-847,2014-08-28 16:56:58,Netherlands,No,M,No,No
-848,2014-08-28 16:57:07,United States,Yes,M,No,No
-849,2014-08-28 16:57:46,United States,No,M,Yes,Yes
-850,2014-08-28 16:57:49,United States,No,M,No,No
-851,2014-08-28 16:58:33,United States,Yes,M,Don't know,Yes
-852,2014-08-28 16:58:33,United Kingdom,Yes,M,No,No
-853,2014-08-28 16:58:50,Canada,No,M,No,No
-854,2014-08-28 17:01:06,United States,Yes,M,No,Don't know
-855,2014-08-28 17:01:21,United States,Yes,M,Yes,Yes
-856,2014-08-28 17:01:25,United States,No,M,Yes,Yes
-857,2014-08-28 17:02:27,United States,No,M,No,Don't know
-858,2014-08-28 17:02:29,United States,No,M,No,No
-859,2014-08-28 17:02:56,United Kingdom,Yes,M,No,No
-860,2014-08-28 17:02:44,United Kingdom,Yes,M,No,No
-861,2014-08-28 17:03:42,United Kingdom,No,M,Don't know,No
-862,2014-08-28 17:07:11,United States,No,M,Don't know,Don't know
-863,2014-08-28 17:07:28,United States,Yes,M,No,No
-864,2014-08-28 17:07:39,United States,No,M,Yes,Yes
-865,2014-08-28 17:08:16,United Kingdom,No,M,No,No
-866,2014-08-28 17:09:03,United States,Yes,M,No,Yes
-867,2014-08-28 17:10:00,United States,No,M,No,No
-868,2014-08-28 17:10:04,Germany,No,M,No,No
-869,2014-08-28 17:10:08,Mexico,No,M,Don't know,Don't know
-870,2014-08-28 17:11:48,United States,No,M,Yes,Yes
-871,2014-08-28 17:12:30,United Kingdom,Yes,F,No,Don't know
-872,2014-08-28 17:14:31,United Kingdom,No,M,Yes,Yes
-873,2014-08-28 17:16:53,United States,No,M,Don't know,Don't know
-874,2014-08-28 17:19:05,United States,Yes,M,No,Yes
-875,2014-08-28 17:19:27,United States,Yes,M,Don't know,Don't know
-876,2014-08-28 17:19:53,United States,No,M,No,Yes
-877,2014-08-28 17:20:23,United States,No,M,Don't know,Don't know
-878,2014-08-28 17:20:41,United Kingdom,Yes,F,Yes,No
-879,2014-08-28 17:21:01,United States,No,M,Don't know,Yes
-880,2014-08-28 17:21:43,United States,Yes,M,Don't know,Don't know
-882,2014-08-28 17:22:53,United States,No,M,Don't know,Yes
-883,2014-08-28 17:23:19,United States,No,M,Don't know,Yes
-884,2014-08-28 17:27:03,United States,Yes,M,Don't know,Yes
-885,2014-08-28 17:27:47,United States,Yes,M,No,Don't know
-886,2014-08-28 17:28:46,United Kingdom,No,M,No,Don't know
-887,2014-08-28 17:28:58,United Kingdom,Yes,M,Yes,Yes
-888,2014-08-28 17:31:06,India,No,M,No,No
-889,2014-08-28 17:33:05,United States,Yes,M,Yes,Yes
-890,2014-08-28 17:33:20,United States,Yes,M,Yes,Yes
-891,2014-08-28 17:34:30,United States,Yes,M,No,No
-892,2014-08-28 17:35:14,United States,Yes,M,Don't know,Don't know
-893,2014-08-28 17:36:48,United States,Yes,M,Yes,Yes
-894,2014-08-28 17:39:06,United States,Yes,M,Don't know,Don't know
-895,2014-08-28 17:45:21,United States,No,M,Don't know,Don't know
-896,2014-08-28 17:46:37,United States,No,M,Yes,Yes
-897,2014-08-28 17:47:45,Germany,No,M,No,No
-898,2014-08-28 17:47:49,United States,No,M,No,No
-899,2014-08-28 17:50:32,United States,No,M,Don't know,Don't know
-900,2014-08-28 17:56:02,United States,Yes,M,No,No
-901,2014-08-28 17:57:39,United Kingdom,Yes,M,No,No
-902,2014-08-28 17:57:42,United States,No,F,Yes,Yes
-903,2014-08-28 17:59:31,United Kingdom,No,M,No,No
-904,2014-08-28 17:59:54,United States,No,M,No,No
-905,2014-08-28 17:59:57,United States,Yes,M,Yes,Yes
-906,2014-08-28 18:01:00,United States,No,M,Yes,Yes
-907,2014-08-28 18:02:09,United States,Yes,F,No,Yes
-908,2014-08-28 18:07:42,United States,No,M,Don't know,Yes
-909,2014-08-28 18:17:41,United States,No,M,Yes,Yes
-910,2014-08-28 18:18:43,Australia,No,M,No,No
-911,2014-08-28 18:21:23,United States,No,M,Yes,Yes
-912,2014-08-28 18:21:58,United Kingdom,Yes,F,No,No
-913,2014-08-28 18:26:35,United States,Yes,M,Yes,Don't know
-914,2014-08-28 18:50:47,Canada,Yes,F,No,Yes
-915,2014-08-28 19:03:47,United Kingdom,No,M,No,No
-916,2014-08-28 19:04:05,United States,No,M,No,No
-917,2014-08-28 19:15:35,United Kingdom,No,M,No,No
-918,2014-08-28 19:26:03,United States,No,M,Yes,Yes
-919,2014-08-28 19:28:27,United States,Yes,F,Don't know,Don't know
-920,2014-08-28 19:35:39,United States,Yes,M,Don't know,Don't know
-921,2014-08-28 20:12:08,United States,Yes,M,Yes,Yes
-922,2014-08-28 20:31:02,United States,Yes,M,No,Yes
-923,2014-08-28 20:49:55,New Zealand,No,M,No,No
-924,2014-08-28 21:22:40,United States,Yes,M,Don't know,Yes
-925,2014-08-28 21:24:48,United States,No,M,No,Yes
-926,2014-08-28 21:27:19,United States,Yes,M,Don't know,Yes
-927,2014-08-28 21:30:35,United States,No,M,Yes,Yes
-928,2014-08-28 21:33:32,United States,No,M,No,Yes
-929,2014-08-28 21:38:12,United States,Yes,M,Don't know,Don't know
-930,2014-08-28 21:41:53,United States,Yes,F,Yes,Yes
-931,2014-08-28 21:47:33,United States,No,M,Yes,Don't know
-933,2014-08-28 22:17:15,United States,Yes,M,No,No
-934,2014-08-28 22:18:41,United States,Yes,M,Yes,Don't know
-935,2014-08-28 22:20:33,United Kingdom,Yes,M,No,No
-936,2014-08-28 22:22:39,United States,No,M,Don't know,Don't know
-937,2014-08-28 22:23:47,Netherlands,Yes,M,Don't know,Don't know
-938,2014-08-28 22:35:10,United States,No,M,Yes,Yes
-939,2014-08-28 22:39:57,United States,Yes,M,Yes,Yes
-940,2014-08-28 22:46:40,United States,Yes,M,Don't know,Yes
-941,2014-08-28 23:03:05,United States,Yes,M,Yes,Yes
-942,2014-08-28 23:13:18,United States,Yes,F,Don't know,Yes
-943,2014-08-28 23:16:30,United States,Yes,M,Yes,Yes
-944,2014-08-28 23:57:07,United States,Yes,M,Don't know,Don't know
-945,2014-08-29 00:05:07,United States,Yes,M,No,Yes
-946,2014-08-29 00:06:49,United States,No,M,Yes,Yes
-947,2014-08-29 00:11:17,United States,No,M,Yes,Yes
-948,2014-08-29 00:41:25,United States,No,M,Yes,Yes
-949,2014-08-29 00:43:37,United States,Yes,M,Don't know,Yes
-950,2014-08-29 00:47:09,Netherlands,No,M,No,No
-951,2014-08-29 01:14:09,United Kingdom,Yes,M,No,Don't know
-952,2014-08-29 01:20:32,South Africa,No,M,No,No
-954,2014-08-29 02:10:57,United States,No,M,No,No
-955,2014-08-29 02:24:13,Germany,Yes,M,No,Don't know
-956,2014-08-29 03:02:16,United States,Yes,M,Don't know,Don't know
-957,2014-08-29 03:02:45,Netherlands,Yes,M,Yes,Yes
-958,2014-08-29 03:08:25,United States,No,M,Don't know,Yes
-959,2014-08-29 04:39:23,United Kingdom,No,M,Don't know,Don't know
-960,2014-08-29 04:53:12,United Kingdom,No,M,No,Don't know
-961,2014-08-29 05:15:30,Germany,No,M,No,No
-962,2014-08-29 05:24:07,Germany,No,M,No,Don't know
-963,2014-08-29 05:39:21,United Kingdom,Yes,M,No,Don't know
-964,2014-08-29 05:47:19,United Kingdom,No,M,Yes,Yes
-965,2014-08-29 05:54:26,United Kingdom,Yes,M,No,No
-966,2014-08-29 05:57:48,United Kingdom,Yes,F,No,No
-967,2014-08-29 06:06:46,United Kingdom,No,M,Don't know,Don't know
-968,2014-08-29 06:37:49,United Kingdom,Yes,M,No,Don't know
-969,2014-08-29 06:42:57,United Kingdom,No,F,Yes,No
-970,2014-08-29 07:12:43,United States,No,M,No,No
-971,2014-08-29 07:21:30,United Kingdom,No,M,No,No
-972,2014-08-29 07:28:17,United States,Yes,M,Don't know,Don't know
-973,2014-08-29 07:51:42,United States,Yes,M,Yes,Yes
-974,2014-08-29 08:26:36,Germany,No,M,No,Don't know
-975,2014-08-29 08:36:24,Germany,No,M,Don't know,Don't know
-977,2014-08-29 08:53:19,France,Yes,M,No,Yes
-978,2014-08-29 08:54:23,Belgium,No,M,No,Yes
-979,2014-08-29 08:57:14,United Kingdom,Yes,M,No,No
-980,2014-08-29 08:57:42,United States,Yes,M,No,No
-981,2014-08-29 08:59:08,Canada,Yes,F,No,No
-982,2014-08-29 08:59:40,United Kingdom,Yes,F,Yes,Yes
-983,2014-08-29 09:01:01,United States,Yes,M,Don't know,Don't know
-984,2014-08-29 09:01:45,Canada,No,M,No,Yes
-985,2014-08-29 09:02:04,United Kingdom,No,M,No,No
-986,2014-08-29 09:02:56,United Kingdom,Yes,F,No,Don't know
-987,2014-08-29 09:03:50,United Kingdom,No,M,No,No
-988,2014-08-29 09:10:08,United States,Yes,M,Yes,Yes
-990,2014-08-29 09:12:16,United Kingdom,No,M,No,No
-991,2014-08-29 09:13:43,United Kingdom,No,M,Yes,Yes
-992,2014-08-29 09:14:45,United States,Yes,F,Don't know,Yes
-993,2014-08-29 09:15:05,United Kingdom,No,M,No,No
-994,2014-08-29 09:15:52,India,No,M,No,Don't know
-995,2014-08-29 09:19:25,United Kingdom,No,M,Don't know,Don't know
-996,2014-08-29 09:24:34,United States,No,M,No,Yes
-997,2014-08-29 09:23:22,United States,Yes,F,Don't know,Yes
-998,2014-08-29 09:23:44,United Kingdom,No,M,No,No
-999,2014-08-29 09:27:12,Sweden,No,M,No,No
-1000,2014-08-29 09:29:37,United States,Yes,M,Don't know,Yes
-1001,2014-08-29 09:31:37,United States,Yes,M,Don't know,Don't know
-1002,2014-08-29 09:31:49,United States,Yes,M,No,Yes
-1003,2014-08-29 09:33:43,United States,No,F,Don't know,Don't know
-1004,2014-08-29 09:35:46,United Kingdom,Yes,M,No,No
-1005,2014-08-29 09:36:04,United Kingdom,No,M,Don't know,Don't know
-1006,2014-08-29 09:36:46,United States,Yes,M,Yes,Yes
-1007,2014-08-29 09:40:13,United States,No,M,No,Don't know
-1008,2014-08-29 09:42:23,United States,Yes,M,No,No
-1009,2014-08-29 09:46:56,United States,No,F,No,Don't know
-1010,2014-08-29 09:47:10,United States,No,M,Yes,Yes
-1011,2014-08-29 09:47:30,United States,No,F,Don't know,No
-1012,2014-08-29 09:51:35,United States,Yes,F,Don't know,Yes
-1013,2014-08-29 09:53:38,United States,Yes,F,Don't know,Don't know
-1014,2014-08-29 09:53:50,United States,No,M,Yes,Yes
-1015,2014-08-29 09:54:01,Israel,No,M,No,Don't know
-1016,2014-08-29 09:54:11,United States,No,F,No,Don't know
-1018,2014-08-29 09:59:39,United States,Yes,M,No,Yes
-1019,2014-08-29 10:03:24,United States,No,M,No,Don't know
-1020,2014-08-29 10:05:57,Canada,No,M,No,Don't know
-1021,2014-08-29 10:06:29,United States,Yes,F,Yes,Yes
-1022,2014-08-29 10:12:10,United States,No,M,Yes,Yes
-1023,2014-08-29 10:13:39,United Kingdom,No,M,No,No
-1024,2014-08-29 10:13:43,United States,Yes,M,No,Don't know
-1025,2014-08-29 10:16:45,United States,Yes,M,Don't know,Don't know
-1026,2014-08-29 10:27:15,United States,No,F,Yes,Yes
-1027,2014-08-29 10:30:09,United States,No,M,No,Don't know
-1028,2014-08-29 10:32:24,United States,Yes,F,No,Yes
-1029,2014-08-29 10:33:45,United States,No,M,Don't know,Yes
-1030,2014-08-29 10:38:23,United States,Yes,M,No,Don't know
-1031,2014-08-29 10:38:29,United States,Yes,M,Don't know,Don't know
-1032,2014-08-29 10:55:24,United States,Yes,M,Don't know,Yes
-1033,2014-08-29 10:59:57,United States,Yes,F,No,No
-1034,2014-08-29 11:01:41,United States,No,M,Don't know,Don't know
-1035,2014-08-29 11:02:23,Canada,Yes,M,No,No
-1036,2014-08-29 11:04:19,Australia,Yes,M,No,No
-1037,2014-08-29 11:05:00,United States,No,M,Don't know,Don't know
-1038,2014-08-29 11:11:00,United States,No,F,No,No
-1039,2014-08-29 11:12:22,United States,No,M,No,No
-1040,2014-08-29 11:19:46,United States,Yes,F,No,Don't know
-1041,2014-08-29 11:20:13,United States,No,M,Yes,Yes
-1042,2014-08-29 11:20:28,United States,Yes,M,Yes,Yes
-1043,2014-08-29 11:20:52,United States,No,M,No,Yes
-1044,2014-08-29 11:22:46,United Kingdom,No,F,No,Yes
-1045,2014-08-29 11:23:21,Canada,Yes,F,No,Yes
-1047,2014-08-29 11:25:30,Brazil,Yes,M,No,No
-1048,2014-08-29 11:27:47,United States,No,M,Yes,No
-1049,2014-08-29 11:32:22,United Kingdom,Yes,M,Yes,No
-1050,2014-08-29 11:32:44,United States,Yes,F,No,Yes
-1051,2014-08-29 11:33:54,United States,Yes,F,No,No
-1052,2014-08-29 11:34:07,Switzerland,Yes,M,No,Don't know
-1053,2014-08-29 11:36:38,United States,No,M,Don't know,Don't know
-1054,2014-08-29 11:39:33,United States,No,M,Don't know,Don't know
-1055,2014-08-29 11:40:29,United States,Yes,M,Don't know,Yes
-1056,2014-08-29 11:43:12,United States,No,M,Don't know,Don't know
-1057,2014-08-29 11:44:33,United States,No,M,No,Don't know
-1059,2014-08-29 11:53:59,United States,No,F,Yes,Yes
-1060,2014-08-29 11:54:38,United States,No,F,No,Yes
-1061,2014-08-29 11:56:18,United States,No,M,No,Don't know
-1062,2014-08-29 12:00:33,United States,No,M,No,Don't know
-1063,2014-08-29 12:08:12,United States,No,M,No,Don't know
-1064,2014-08-29 12:15:57,Germany,Yes,M,No,No
-1065,2014-08-29 12:20:01,South Africa,Yes,M,No,Don't know
-1066,2014-08-29 12:26:21,United States,No,M,Don't know,Yes
-1067,2014-08-29 12:27:54,United States,No,M,Don't know,Yes
-1068,2014-08-29 12:45:11,United States,No,M,Yes,Yes
-1069,2014-08-29 12:48:20,Greece,No,M,No,No
-1070,2014-08-29 12:54:31,United States,No,F,No,No
-1071,2014-08-29 13:17:33,United States,No,M,Yes,Yes
-1072,2014-08-29 13:23:40,United States,No,M,Yes,Yes
-1073,2014-08-29 13:58:25,United States,No,M,No,Don't know
-1074,2014-08-29 14:04:59,United States,No,M,No,Yes
-1075,2014-08-29 14:09:21,United States,Yes,M,Yes,Yes
-1076,2014-08-29 14:31:00,United States,Yes,M,Don't know,Yes
-1077,2014-08-29 14:51:49,United States,Yes,F,Yes,Yes
-1078,2014-08-29 14:59:43,United States,Yes,F,Don't know,Yes
-1079,2014-08-29 15:10:39,Netherlands,No,M,No,No
-1080,2014-08-29 15:59:55,United States,Yes,M,No,No
-1081,2014-08-29 16:07:05,Netherlands,Yes,M,Yes,Don't know
-1082,2014-08-29 16:17:32,United States,Yes,F,No,Yes
-1083,2014-08-29 16:21:16,Canada,Yes,F,Don't know,Don't know
-1084,2014-08-29 16:30:50,United Kingdom,Yes,M,Yes,Yes
-1085,2014-08-29 16:50:08,Germany,No,M,No,Don't know
-1086,2014-08-29 16:51:31,Germany,No,M,No,Don't know
-1087,2014-08-29 16:56:06,United States,Yes,M,Yes,Yes
-1088,2014-08-29 17:04:07,United States,No,M,Don't know,Yes
-1089,2014-08-29 17:04:12,United States,Yes,F,Don't know,Yes
-1090,2014-08-29 17:26:15,United States,No,M,No,No
-1091,2014-08-29 17:32:31,United States,Yes,M,Don't know,Yes
-1092,2014-08-29 17:35:16,United States,Yes,M,No,No
-1093,2014-08-29 17:54:32,United States,No,M,Don't know,Yes
-1094,2014-08-29 18:33:32,United States,No,M,Yes,Yes
-1095,2014-08-29 18:39:07,United States,No,M,No,No
-1096,2014-08-29 19:32:13,United States,Yes,M,No,Don't know
-1097,2014-08-29 19:34:40,United States,Yes,M,Don't know,Yes
-1098,2014-08-29 20:53:09,United States,No,M,Don't know,Don't know
-1099,2014-08-29 20:53:58,United States,No,M,Don't know,Don't know
-1100,2014-08-29 21:26:44,United States,No,M,Yes,Yes
-1101,2014-08-29 21:28:14,United States,Yes,M,No,Don't know
-1102,2014-08-29 21:40:26,Canada,Yes,F,No,No
-1103,2014-08-29 22:08:51,United States,Yes,F,No,Don't know
-1104,2014-08-29 23:51:01,United States,No,M,No,Yes
-1105,2014-08-30 00:09:55,United States,No,M,Don't know,No
-1106,2014-08-30 03:55:19,France,No,M,No,No
-1107,2014-08-30 05:05:44,Australia,Yes,M,Don't know,No
-1108,2014-08-30 05:47:08,United States,No,F,Don't know,Yes
-1109,2014-08-30 06:48:28,India,No,M,No,No
-1110,2014-08-30 07:31:05,Croatia,Yes,M,Don't know,Yes
-1111,2014-08-30 11:48:52,France,No,M,No,Yes
-1112,2014-08-30 12:35:06,Germany,No,M,No,No
-1113,2014-08-30 13:23:57,United States,Yes,M,Don't know,Don't know
-1114,2014-08-30 13:48:34,United States,No,M,Don't know,Yes
-1115,2014-08-30 13:55:45,Canada,No,M,No,Yes
-1116,2014-08-30 14:00:22,United Kingdom,No,M,Don't know,Don't know
-1117,2014-08-30 15:57:04,United States,Yes,M,Don't know,Don't know
-1118,2014-08-30 16:13:40,United States,Yes,M,Yes,Yes
-1119,2014-08-30 16:38:02,United States,No,M,No,No
-1120,2014-08-30 18:29:00,United Kingdom,No,M,Yes,No
-1121,2014-08-30 19:35:58,United Kingdom,No,M,Yes,No
-1122,2014-08-30 19:56:23,United Kingdom,No,F,Don't know,Don't know
-1123,2014-08-30 20:12:33,United States,No,F,Don't know,Don't know
-1124,2014-08-30 20:19:37,United States,No,M,Don't know,Don't know
-1125,2014-08-30 20:43:51,Germany,Yes,M,No,No
-1126,2014-08-30 20:46:35,United States,No,F,Don't know,Don't know
-1128,2014-08-31 04:31:11,Netherlands,Yes,M,No,No
-1129,2014-08-31 09:19:43,United States,No,M,No,Yes
-1130,2014-08-31 15:03:12,United States,Yes,F,No,Yes
-1131,2014-08-31 15:23:16,United Kingdom,No,M,No,No
-1132,2014-08-31 16:48:13,United States,Yes,F,No,Yes
-1133,2014-08-31 22:11:48,New Zealand,No,M,Yes,No
-1134,2014-08-31 22:16:40,New Zealand,No,M,Yes,No
-1135,2014-09-01 04:28:55,United Kingdom,No,M,No,No
-1136,2014-09-01 06:52:31,United Kingdom,Yes,M,No,No
-1137,2014-09-01 06:53:28,United Kingdom,Yes,M,No,No
-1138,2014-09-01 08:19:15,Germany,Yes,M,No,Don't know
-1139,2014-09-01 08:23:15,United Kingdom,No,M,Don't know,Don't know
-1140,2014-09-01 09:12:15,Moldova,No,M,No,No
-1141,2014-09-01 09:15:34,Sweden,No,M,Don't know,Don't know
-1142,2014-09-01 10:06:14,Belgium,No,M,No,No
-1143,2014-09-01 10:40:32,United Kingdom,Yes,F,No,No
-1144,2014-09-01 12:00:28,Israel,No,M,Yes,No
-1145,2014-09-01 12:45:24,United States,Yes,F,No,Don't know
-1146,2014-09-01 17:59:14,United Kingdom,Yes,M,Don't know,No
-1147,2014-09-01 21:03:25,United Kingdom,Yes,M,No,No
-1148,2014-09-01 21:34:12,United States,Yes,M,Yes,Yes
-1149,2014-09-01 22:58:47,United States,No,M,Don't know,Yes
-1150,2014-09-02 03:13:53,United States,No,M,Yes,Yes
-1151,2014-09-02 04:00:58,United Kingdom,No,M,No,No
-1152,2014-09-02 08:00:33,Canada,Yes,M,Don't know,Don't know
-1153,2014-09-02 08:24:43,United Kingdom,Yes,F,Yes,Yes
-1154,2014-09-02 09:57:22,United States,Yes,M,No,Don't know
-1155,2014-09-02 13:18:35,Canada,No,M,No,Don't know
-1156,2014-09-02 17:04:56,Netherlands,No,M,Don't know,Don't know
-1157,2014-09-02 20:23:49,United Kingdom,Yes,M,Don't know,Don't know
-1158,2014-09-02 20:57:56,United States,Yes,M,No,No
-1159,2014-09-03 01:32:51,Singapore,No,M,Don't know,Don't know
-1160,2014-09-03 13:09:52,United States,No,M,No,Yes
-1161,2014-09-04 06:23:48,United Kingdom,No,M,Yes,Yes
-1162,2014-09-04 08:35:49,India,No,M,No,Don't know
-1163,2014-09-04 17:38:22,United States,Yes,M,Don't know,Don't know
-1164,2014-09-04 23:42:28,United States,No,F,No,Yes
-1165,2014-09-05 14:15:48,United States,Yes,M,Don't know,Yes
-1166,2014-09-05 14:19:00,United States,Yes,M,Yes,Yes
-1167,2014-09-08 00:52:31,Poland,No,M,No,Don't know
-1168,2014-09-08 16:46:53,Colombia,No,M,No,No
-1169,2014-09-08 21:30:59,United States,No,F,Don't know,Yes
-1170,2014-09-09 13:49:50,United States,No,M,No,Don't know
-1171,2014-09-11 17:00:30,United States,No,M,Yes,Yes
-1172,2014-09-12 19:18:18,United States,Yes,F,Yes,Yes
-1173,2014-09-13 07:52:27,United Kingdom,No,M,No,No
-1174,2014-09-14 09:04:08,Georgia,No,M,No,No
-1175,2014-09-14 20:50:05,United States,Yes,M,No,Don't know
-1176,2014-09-20 13:51:05,United States,Yes,F,No,Yes
-1177,2014-09-23 20:05:05,United States,No,M,Don't know,No
-1178,2014-09-26 08:45:56,China,No,M,No,No
-1179,2014-09-26 10:05:55,Bulgaria,No,F,No,No
-1181,2014-09-30 09:19:01,United States,Yes,M,Yes,Yes
-1182,2014-10-02 21:25:16,United States,Yes,F,Yes,Yes
-1183,2014-10-05 21:16:10,United States,Yes,F,No,No
-1184,2014-10-09 11:14:59,United States,No,F,No,No
-1186,2014-11-06 11:24:38,United States,No,F,Don't know,Don't know
-1187,2014-11-16 08:42:35,United States,Yes,M,No,Yes
-1188,2014-12-01 09:58:28,Belgium,No,F,No,Don't know
-1189,2014-12-15 00:43:49,United States,Yes,M,No,Yes
-1190,2015-01-03 03:38:30,United States,Yes,M,Yes,Yes
-1191,2015-02-21 04:16:05,Canada,Yes,M,Yes,Yes
-1192,2015-02-21 04:16:23,United Kingdom,No,M,No,Don't know
-1193,2015-02-21 04:18:48,Italy,No,M,Don't know,Don't know
-1194,2015-02-21 04:19:28,Germany,No,M,No,Don't know
-1195,2015-02-21 04:23:05,Ireland,No,F,No,Yes
-1196,2015-02-21 04:32:45,Ireland,No,F,No,Don't know
-1197,2015-02-21 04:34:56,Ireland,No,M,No,No
-1198,2015-02-21 04:41:28,United States,No,M,Don't know,Yes
-1199,2015-02-21 04:51:53,Ireland,No,M,Don't know,Don't know
-1200,2015-02-21 04:55:11,Australia,No,M,No,No
-1201,2015-02-21 05:11:37,United States,No,F,No,Yes
-1202,2015-02-21 05:34:27,Brazil,No,M,No,No
-1203,2015-02-21 05:55:13,United Kingdom,No,M,No,Don't know
-1204,2015-02-21 05:55:17,Ireland,Yes,M,No,No
-1205,2015-02-21 06:06:09,Ireland,No,M,No,No
-1206,2015-02-21 06:19:41,United Kingdom,Yes,M,No,Don't know
-1207,2015-02-21 08:21:36,United States,No,M,No,No
-1208,2015-02-21 08:54:40,Czech Republic,Yes,M,No,No
-1209,2015-02-21 08:56:27,Singapore,Yes,M,No,Don't know
-1210,2015-02-21 09:10:26,Ireland,Yes,M,No,No
-1211,2015-02-21 09:16:45,Ireland,No,M,No,Don't know
-1212,2015-02-21 09:18:20,United Kingdom,No,F,Yes,No
-1213,2015-02-21 09:19:12,Philippines,No,M,No,Don't know
-1214,2015-02-21 09:22:23,United States,No,M,No,Yes
-1215,2015-02-21 09:29:20,Netherlands,No,M,No,No
-1216,2015-02-21 09:30:14,United Kingdom,No,M,Yes,Don't know
-1217,2015-02-21 09:30:29,Ireland,No,M,No,No
-1218,2015-02-21 09:33:29,Netherlands,No,M,No,No
-1219,2015-02-21 09:48:13,United States,No,M,Yes,Yes
-1220,2015-02-21 10:00:50,United States,Yes,M,No,Don't know
-1221,2015-02-21 10:45:51,United States,Yes,M,Don't know,Don't know
-1222,2015-02-21 11:48:52,Netherlands,No,F,Yes,Don't know
-1224,2015-02-21 13:19:11,Ireland,Yes,M,Yes,Yes
-1225,2015-02-21 15:28:57,Ireland,No,F,No,No
-1226,2015-02-21 17:19:18,Netherlands,No,M,Don't know,Yes
-1227,2015-02-21 18:54:12,Ireland,Yes,F,Yes,Yes
-1228,2015-02-21 18:59:05,United States,Yes,M,No,Don't know
-1229,2015-02-22 02:40:32,Greece,No,M,No,No
-1230,2015-02-24 08:54:35,United Kingdom,Yes,F,Yes,No
-1232,2015-02-24 09:00:56,United Kingdom,Yes,M,Yes,Yes
-1233,2015-02-24 09:13:49,United Kingdom,No,M,No,No
-1235,2015-02-24 09:18:25,Canada,No,M,Don't know,Yes
-1236,2015-02-24 10:32:32,United States,No,M,Don't know,Don't know
-1237,2015-02-26 05:44:16,Ireland,No,M,No,No
-1238,2015-04-02 15:47:43,United States,Yes,M,Yes,Yes
-1239,2015-04-04 11:22:05,Netherlands,No,M,No,Don't know
-1240,2015-04-06 14:58:29,Germany,Yes,M,No,Don't know
-1241,2015-04-11 14:35:22,Poland,No,M,No,No
-1242,2015-04-23 14:03:51,Ireland,No,M,Don't know,Don't know
-1243,2015-05-05 14:22:18,United States,Yes,F,Yes,Yes
-1244,2015-05-05 15:16:25,United Kingdom,No,F,Don't know,No
-1245,2015-05-06 10:14:50,Australia,Yes,M,Yes,Yes
-1246,2015-05-06 16:55:58,United States,No,M,Yes,Yes
-1247,2015-05-07 10:08:50,Finland,No,M,No,No
-1248,2015-06-25 12:24:31,United States,Yes,F,Don't know,Yes
-1249,2015-07-22 18:57:54,United States,Yes,M,No,Yes
-1250,2015-07-27 23:25:34,United States,Yes,M,Yes,Yes
-1251,2015-08-17 09:38:35,South Africa,Yes,M,No,No
-1252,2015-08-20 16:52:09,United States,Yes,M,No,Yes
-1253,2015-08-25 19:59:38,United States,Yes,M,Yes,Don't know
-1254,2015-09-12 11:17:21,United Kingdom,No,M,No,No
-1255,2015-09-26 01:07:35,United States,Yes,M,No,Yes
-1256,2015-11-07 12:36:58,United States,Yes,M,No,Yes
-1257,2015-11-30 21:25:06,United States,No,F,No,No
-1258,2016-02-01 23:04:31,United States,Yes,M,No,Yes
+,Timestamp,Country,family_history,Gender,seek_help,benefits,work_interfere
+0,2014-08-27 11:29:31,United States,No,F,Yes,Yes,Yes
+1,2014-08-27 11:29:37,United States,No,M,Don't know,Don't know,Yes
+2,2014-08-27 11:29:44,Canada,No,M,No,No,Yes
+3,2014-08-27 11:29:46,United Kingdom,Yes,M,No,No,Yes
+4,2014-08-27 11:30:22,United States,No,M,Don't know,Yes,No
+5,2014-08-27 11:31:22,United States,Yes,M,Don't know,Yes,Yes
+6,2014-08-27 11:31:50,United States,Yes,F,No,No,Yes
+7,2014-08-27 11:32:05,Canada,No,M,No,No,No
+8,2014-08-27 11:32:39,United States,Yes,F,No,Yes,Yes
+9,2014-08-27 11:32:43,Canada,No,M,Don't know,Don't know,No
+10,2014-08-27 11:32:44,United States,No,M,No,Don't know,Yes
+11,2014-08-27 11:32:49,Bulgaria,No,M,No,Don't know,No
+12,2014-08-27 11:33:23,United States,Yes,F,No,Yes,Yes
+13,2014-08-27 11:33:26,United States,Yes,M,Don't know,Don't know,No
+14,2014-08-27 11:33:57,Canada,No,M,Don't know,Don't know,No
+15,2014-08-27 11:34:00,United States,Yes,F,No,Yes,Yes
+16,2014-08-27 11:34:20,United Kingdom,No,M,Don't know,Don't know,Yes
+17,2014-08-27 11:34:37,United States,No,M,Don't know,Yes,Yes
+18,2014-08-27 11:34:53,United States,Yes,M,Don't know,Yes,Yes
+19,2014-08-27 11:35:08,France,Yes,M,No,No,No
+20,2014-08-27 11:35:12,United States,Yes,M,No,Yes,Yes
+21,2014-08-27 11:35:24,United States,No,M,No,No,No
+22,2014-08-27 11:35:48,United States,No,M,No,Yes,Yes
+23,2014-08-27 11:36:24,United States,No,M,Don't know,Don't know,No
+24,2014-08-27 11:36:48,United States,Yes,M,Yes,Yes,Yes
+25,2014-08-27 11:37:08,United States,Yes,M,Don't know,Yes,Yes
+26,2014-08-27 11:37:23,United States,No,M,Don't know,Don't know,No
+27,2014-08-27 11:37:59,United States,Yes,F,Don't know,Yes,Yes
+28,2014-08-27 11:38:12,United States,No,M,Don't know,Don't know,Yes
+29,2014-08-27 11:38:18,United Kingdom,No,M,No,No,Yes
+30,2014-08-27 11:39:03,United Kingdom,No,M,No,No,No
+31,2014-08-27 11:38:55,United States,Yes,M,No,No,Yes
+32,2014-08-27 11:39:31,United Kingdom,Yes,M,No,Don't know,Yes
+33,2014-08-27 11:39:36,United States,Yes,M,Yes,Yes,Yes
+34,2014-08-27 11:40:51,United States,No,F,No,Yes,Yes
+35,2014-08-27 11:41:17,United States,No,M,No,No,Yes
+36,2014-08-27 11:41:37,Canada,No,M,No,No,Yes
+37,2014-08-27 11:41:50,Portugal,No,M,No,No,No
+38,2014-08-27 11:42:08,United States,No,M,Don't know,Yes,No
+39,2014-08-27 11:42:15,United States,No,M,Yes,Yes,Yes
+40,2014-08-27 11:42:25,United Kingdom,No,M,No,No,Yes
+41,2014-08-27 11:42:31,United States,No,M,Yes,Yes,No
+42,2014-08-27 11:43:07,Canada,Yes,M,No,No,Yes
+43,2014-08-27 11:43:10,Netherlands,No,M,No,No,Yes
+44,2014-08-27 11:43:22,United States,No,M,No,Don't know,Yes
+45,2014-08-27 11:43:36,United States,Yes,F,Yes,Yes,Yes
+46,2014-08-27 11:43:45,United Kingdom,No,M,No,Don't know,No
+47,2014-08-27 11:43:48,United States,No,M,No,No,No
+48,2014-08-27 11:43:56,Canada,No,M,No,No,Yes
+49,2014-08-27 11:44:43,United States,Yes,M,Don't know,Yes,Yes
+50,2014-08-27 11:44:55,United States,Yes,M,No,No,Yes
+51,2014-08-27 11:45:32,United States,No,M,Don't know,Don't know,No
+52,2014-08-27 11:45:33,United States,No,M,Don't know,Don't know,No
+53,2014-08-27 11:45:51,United States,No,M,No,Don't know,No
+54,2014-08-27 11:46:36,Switzerland,No,M,No,No,No
+57,2014-08-27 11:47:10,United States,Yes,M,No,Don't know,Yes
+58,2014-08-27 11:47:33,United States,No,M,No,No,No
+59,2014-08-27 11:47:56,Canada,Yes,M,No,Don't know,Yes
+60,2014-08-27 11:48:57,United States,Yes,M,Don't know,Yes,Yes
+61,2014-08-27 11:49:51,Poland,No,F,Yes,Don't know,Yes
+62,2014-08-27 11:50:27,United Kingdom,No,M,Yes,Yes,No
+63,2014-08-27 11:50:28,France,No,M,No,No,No
+64,2014-08-27 11:50:46,Canada,No,M,No,Don't know,Yes
+65,2014-08-27 11:51:07,United States,Yes,M,Yes,Yes,Yes
+66,2014-08-27 11:51:34,Australia,Yes,F,No,No,Yes
+67,2014-08-27 11:52:07,United States,No,M,Yes,Yes,Yes
+68,2014-08-27 11:52:41,United States,No,F,Don't know,Don't know,No
+69,2014-08-27 11:52:44,United States,No,M,No,No,Yes
+70,2014-08-27 11:53:05,France,No,M,No,No,No
+71,2014-08-27 11:53:25,Canada,No,M,Don't know,Don't know,No
+73,2014-08-27 11:56:17,United Kingdom,No,M,Don't know,No,No
+74,2014-08-27 11:56:29,United States,No,M,Don't know,Don't know,No
+75,2014-08-27 11:57:30,United Kingdom,No,M,No,No,No
+76,2014-08-27 11:57:33,United States,No,M,Yes,Yes,No
+77,2014-08-27 11:57:54,United States,Yes,M,No,No,Yes
+78,2014-08-27 11:59:31,United States,Yes,M,No,No,Yes
+79,2014-08-27 12:00:02,Germany,No,M,Don't know,Don't know,No
+80,2014-08-27 12:01:50,United States,Yes,M,Yes,Yes,Yes
+81,2014-08-27 12:02:40,United Kingdom,No,M,Don't know,Yes,No
+82,2014-08-27 12:02:52,Canada,No,M,No,No,No
+84,2014-08-27 12:05:13,United States,Yes,M,No,No,No
+85,2014-08-27 12:05:37,United States,No,M,No,Don't know,No
+86,2014-08-27 12:07:08,United Kingdom,No,M,No,No,Yes
+87,2014-08-27 12:10:43,United States,Yes,F,Don't know,Yes,Yes
+88,2014-08-27 12:11:00,United States,No,F,No,Yes,Yes
+89,2014-08-27 12:11:07,United States,No,M,Don't know,Don't know,No
+90,2014-08-27 12:12:47,United States,No,M,Yes,Yes,No
+91,2014-08-27 12:13:30,United States,No,M,No,No,Yes
+92,2014-08-27 12:14:13,United States,No,M,No,Don't know,No
+94,2014-08-27 12:15:19,Canada,No,F,Don't know,Yes,Yes
+95,2014-08-27 12:15:30,United States,No,M,Don't know,Don't know,No
+96,2014-08-27 12:16:21,United States,Yes,M,Don't know,Don't know,Yes
+97,2014-08-27 12:17:01,Mexico,Yes,M,No,Don't know,Yes
+99,2014-08-27 12:18:04,United States,No,M,No,No,Yes
+100,2014-08-27 12:18:14,Canada,Yes,F,No,No,Yes
+101,2014-08-27 12:18:38,United States,No,F,Don't know,Yes,No
+102,2014-08-27 12:19:52,United States,Yes,M,Don't know,Don't know,No
+103,2014-08-27 12:20:10,United States,Yes,M,Yes,Yes,Yes
+104,2014-08-27 12:22:55,United States,No,M,Don't know,Yes,No
+105,2014-08-27 12:23:48,United States,Yes,M,No,Yes,Yes
+106,2014-08-27 12:23:59,United States,Yes,M,No,Don't know,Yes
+107,2014-08-27 12:25:09,Brazil,Yes,M,No,No,Yes
+108,2014-08-27 12:28:12,United States,Yes,M,No,Yes,No
+109,2014-08-27 12:28:16,United States,No,M,Yes,Yes,Yes
+110,2014-08-27 12:29:25,United States,No,M,Don't know,Yes,Yes
+111,2014-08-27 12:31:02,United States,No,M,Yes,Yes,Yes
+112,2014-08-27 12:31:03,United States,Yes,M,Yes,Yes,Yes
+113,2014-08-27 12:31:14,United States,No,M,Don't know,Yes,No
+114,2014-08-27 12:31:28,United States,No,M,Don't know,Don't know,No
+115,2014-08-27 12:31:34,United Kingdom,No,M,Don't know,Don't know,No
+116,2014-08-27 12:31:41,United Kingdom,No,M,No,No,Yes
+117,2014-08-27 12:31:41,Canada,No,M,Yes,Yes,Yes
+118,2014-08-27 12:31:43,United States,No,M,No,No,Yes
+119,2014-08-27 12:32:24,United States,No,M,Don't know,Don't know,No
+120,2014-08-27 12:32:59,United States,No,M,Yes,Yes,No
+121,2014-08-27 12:33:00,United States,No,M,No,Don't know,No
+122,2014-08-27 12:33:23,United States,Yes,M,Don't know,Don't know,Yes
+123,2014-08-27 12:33:36,United States,No,M,No,Yes,Yes
+124,2014-08-27 12:33:56,Canada,No,M,No,Yes,No
+125,2014-08-27 12:34:11,United States,Yes,M,Yes,Yes,No
+126,2014-08-27 12:34:13,United Kingdom,No,M,No,No,No
+127,2014-08-27 12:34:35,United States,No,M,Yes,Yes,Yes
+128,2014-08-27 12:34:48,United Kingdom,Yes,M,No,No,Yes
+129,2014-08-27 12:34:51,Slovenia,No,M,No,Don't know,Yes
+130,2014-08-27 12:34:57,United States,Yes,M,No,Yes,Yes
+131,2014-08-27 12:35:23,United States,No,M,No,No,Yes
+132,2014-08-27 12:36:03,United States,No,M,Don't know,Don't know,No
+133,2014-08-27 12:36:18,Costa Rica,No,M,No,No,No
+134,2014-08-27 12:36:53,Canada,No,M,No,Don't know,No
+135,2014-08-27 12:37:09,United Kingdom,No,M,No,No,No
+136,2014-08-27 12:37:26,United Kingdom,No,M,No,Don't know,No
+137,2014-08-27 12:37:31,United States,No,M,No,Yes,Yes
+138,2014-08-27 12:37:50,United States,No,F,Don't know,Don't know,No
+139,2014-08-27 12:37:50,Austria,No,M,No,Don't know,No
+140,2014-08-27 12:38:11,United States,Yes,M,Don't know,Don't know,Yes
+141,2014-08-27 12:38:18,United Kingdom,No,M,Yes,No,Yes
+142,2014-08-27 12:38:25,United States,No,M,Don't know,Don't know,No
+143,2014-08-27 12:39:14,United States,No,M,Yes,Yes,No
+144,2014-08-27 12:39:18,United States,Yes,F,Don't know,Don't know,No
+145,2014-08-27 12:39:21,United States,Yes,M,Yes,Yes,Yes
+146,2014-08-27 12:39:48,United Kingdom,No,M,No,No,No
+147,2014-08-27 12:39:57,United States,No,M,No,No,Yes
+148,2014-08-27 12:40:03,Ireland,No,M,Yes,No,Yes
+149,2014-08-27 12:40:06,United States,No,F,Don't know,Don't know,No
+150,2014-08-27 12:40:36,Canada,Yes,M,Yes,Don't know,No
+151,2014-08-27 12:40:53,United States,Yes,M,No,Don't know,No
+152,2014-08-27 12:41:04,Poland,No,M,No,No,Yes
+153,2014-08-27 12:41:20,United States,No,M,Don't know,Don't know,No
+154,2014-08-27 12:41:59,United Kingdom,Yes,M,Yes,Yes,Yes
+155,2014-08-27 12:42:24,United States,Yes,M,Don't know,Don't know,Yes
+156,2014-08-27 12:42:52,United States,Yes,M,Don't know,Don't know,Yes
+157,2014-08-27 12:43:28,United States,No,M,No,Don't know,Yes
+158,2014-08-27 12:43:28,United States,No,M,No,No,Yes
+159,2014-08-27 12:43:40,United States,Yes,M,No,Don't know,Yes
+160,2014-08-27 12:43:53,United Kingdom,No,M,Yes,Yes,Yes
+161,2014-08-27 12:44:51,United States,Yes,F,No,Yes,Yes
+162,2014-08-27 12:44:51,United States,No,M,Yes,Yes,No
+163,2014-08-27 12:45:44,United States,Yes,M,No,Don't know,Yes
+164,2014-08-27 12:46:03,United States,Yes,F,Yes,No,Yes
+166,2014-08-27 12:48:06,United States,No,M,No,No,No
+167,2014-08-27 12:48:29,United States,No,M,No,No,No
+168,2014-08-27 12:48:37,Ireland,Yes,M,No,No,Yes
+169,2014-08-27 12:48:39,United Kingdom,No,M,Don't know,Don't know,Yes
+170,2014-08-27 12:48:40,United Kingdom,No,M,Don't know,Yes,Yes
+171,2014-08-27 12:48:51,United Kingdom,No,M,No,Don't know,Yes
+172,2014-08-27 12:49:21,India,No,M,No,Don't know,No
+173,2014-08-27 12:49:27,United States,No,F,Don't know,Don't know,No
+174,2014-08-27 12:49:30,Canada,Yes,F,No,Yes,Yes
+175,2014-08-27 12:49:39,United States,No,M,Don't know,Don't know,No
+176,2014-08-27 12:50:36,United Kingdom,No,M,Yes,No,No
+177,2014-08-27 12:50:57,United States,No,F,Don't know,Yes,Yes
+178,2014-08-27 12:51:25,United States,No,F,No,Yes,Yes
+179,2014-08-27 12:51:36,United States,No,M,No,Don't know,No
+180,2014-08-27 12:51:42,Mexico,No,M,No,No,No
+181,2014-08-27 12:51:50,India,No,F,No,No,Yes
+182,2014-08-27 12:51:51,United Kingdom,No,F,Don't know,Don't know,No
+183,2014-08-27 12:51:55,United States,No,M,Don't know,Don't know,Yes
+184,2014-08-27 12:52:08,United States,Yes,M,Don't know,Yes,Yes
+185,2014-08-27 12:52:46,United States,No,M,No,Yes,No
+186,2014-08-27 12:52:49,United Kingdom,No,M,Don't know,Don't know,Yes
+187,2014-08-27 12:53:00,France,No,M,No,No,No
+188,2014-08-27 12:53:05,United Kingdom,Yes,M,No,Don't know,No
+189,2014-08-27 12:53:13,United States,Yes,F,No,Yes,No
+190,2014-08-27 12:53:15,South Africa,Yes,F,No,No,Yes
+191,2014-08-27 12:53:40,United States,Yes,M,No,Yes,Yes
+192,2014-08-27 12:54:11,Russia,No,M,No,No,Yes
+193,2014-08-27 12:54:11,United States,No,M,No,No,Yes
+194,2014-08-27 12:54:30,Germany,No,F,No,No,Yes
+196,2014-08-27 12:55:01,United States,No,F,No,Don't know,No
+197,2014-08-27 12:55:38,United States,No,M,No,Yes,Yes
+198,2014-08-27 12:56:13,United States,Yes,M,No,Yes,No
+199,2014-08-27 12:56:56,United Kingdom,Yes,M,No,Don't know,Yes
+200,2014-08-27 12:57:38,United States,Yes,F,No,Yes,Yes
+201,2014-08-27 12:57:52,United States,No,F,Yes,Yes,Yes
+202,2014-08-27 12:58:10,United States,No,M,No,No,Yes
+203,2014-08-27 12:58:42,Ireland,No,M,No,No,Yes
+204,2014-08-27 13:00:38,Austria,Yes,M,Don't know,Don't know,No
+205,2014-08-27 13:02:14,United Kingdom,Yes,M,No,Don't know,Yes
+206,2014-08-27 13:03:05,Canada,No,M,No,No,Yes
+207,2014-08-27 13:04:18,United States,No,M,No,No,Yes
+208,2014-08-27 13:04:45,United States,No,M,Don't know,Don't know,No
+209,2014-08-27 13:05:45,Bulgaria,No,M,No,No,No
+210,2014-08-27 13:06:00,United States,No,F,Yes,Yes,No
+211,2014-08-27 13:06:12,United Kingdom,Yes,M,No,No,Yes
+212,2014-08-27 13:07:24,United Kingdom,No,M,No,No,Yes
+213,2014-08-27 13:07:40,United States,Yes,F,No,Don't know,Yes
+214,2014-08-27 13:07:42,United States,No,F,Don't know,Yes,Yes
+215,2014-08-27 13:07:46,United States,Yes,F,Don't know,No,Yes
+216,2014-08-27 13:08:17,Germany,No,M,No,Yes,Yes
+217,2014-08-27 13:09:24,Canada,No,M,Don't know,Yes,No
+218,2014-08-27 13:09:37,United States,No,F,Don't know,Yes,No
+220,2014-08-27 13:12:31,United States,No,F,No,Yes,No
+221,2014-08-27 13:12:43,United Kingdom,No,M,No,Don't know,No
+222,2014-08-27 13:14:53,United States,No,M,No,Don't know,Yes
+223,2014-08-27 13:15:19,United States,No,M,No,No,Yes
+224,2014-08-27 13:15:25,United States,No,M,Don't know,Don't know,No
+225,2014-08-27 13:18:18,United States,No,M,No,Don't know,No
+226,2014-08-27 13:18:44,United States,No,M,No,No,Yes
+227,2014-08-27 13:19:40,Australia,No,M,Yes,Don't know,Yes
+228,2014-08-27 13:21:00,United States,No,M,Don't know,Yes,No
+229,2014-08-27 13:22:42,United Kingdom,No,M,No,No,Yes
+230,2014-08-27 13:22:49,United States,No,M,Yes,Yes,Yes
+231,2014-08-27 13:23:38,United States,No,M,Don't know,Yes,Yes
+232,2014-08-27 13:24:34,United Kingdom,No,M,Don't know,Don't know,Yes
+233,2014-08-27 13:24:57,United States,No,M,Don't know,Don't know,Yes
+234,2014-08-27 13:26:35,Netherlands,No,M,Don't know,Don't know,No
+235,2014-08-27 13:26:54,United Kingdom,No,M,No,No,No
+236,2014-08-27 13:27:18,Canada,Yes,M,Don't know,Yes,Yes
+237,2014-08-27 13:29:45,United Kingdom,Yes,M,No,No,No
+238,2014-08-27 13:29:57,United States,Yes,F,Yes,Yes,Yes
+239,2014-08-27 13:31:03,Canada,Yes,F,Yes,Yes,Yes
+240,2014-08-27 13:31:35,Sweden,No,M,No,Don't know,No
+241,2014-08-27 13:32:31,United States,Yes,M,No,No,Yes
+242,2014-08-27 13:32:48,United States,Yes,M,Yes,Yes,Yes
+243,2014-08-27 13:33:32,South Africa,No,M,No,No,No
+244,2014-08-27 13:34:03,United States,No,M,Don't know,Yes,No
+245,2014-08-27 13:35:23,United States,No,M,Yes,Yes,Yes
+246,2014-08-27 13:35:40,United States,No,M,Don't know,Don't know,Yes
+247,2014-08-27 13:37:18,United Kingdom,No,M,No,No,No
+248,2014-08-27 13:37:47,United States,Yes,M,No,No,Yes
+249,2014-08-27 13:38:17,United States,Yes,F,Don't know,Yes,Yes
+250,2014-08-27 13:39:00,United States,Yes,M,Don't know,Don't know,Yes
+251,2014-08-27 13:40:58,United States,Yes,M,Don't know,Yes,No
+252,2014-08-27 13:42:38,United States,Yes,M,Don't know,Yes,Yes
+253,2014-08-27 13:44:05,United Kingdom,No,M,Don't know,Don't know,No
+254,2014-08-27 13:44:47,United States,No,M,Don't know,Don't know,Yes
+255,2014-08-27 13:46:03,Canada,No,M,No,No,Yes
+256,2014-08-27 13:47:05,United Kingdom,No,F,Don't know,Don't know,Yes
+257,2014-08-27 13:47:27,United States,No,M,Yes,No,No
+258,2014-08-27 13:48:01,United Kingdom,No,M,No,No,No
+259,2014-08-27 13:49:15,Australia,Yes,M,No,No,Yes
+260,2014-08-27 13:49:32,United States,No,F,No,Yes,Yes
+261,2014-08-27 13:52:05,Canada,No,M,No,No,Yes
+262,2014-08-27 13:52:57,United States,No,M,Yes,Yes,Yes
+263,2014-08-27 13:53:21,Poland,Yes,M,No,No,Yes
+264,2014-08-27 13:53:44,Canada,No,M,No,No,No
+265,2014-08-27 13:53:51,United States,No,M,Don't know,No,No
+266,2014-08-27 13:54:00,United States,No,M,No,Yes,Yes
+267,2014-08-27 13:54:24,United Kingdom,Yes,M,Don't know,Don't know,Yes
+268,2014-08-27 13:55:16,United States,Yes,F,No,Yes,Yes
+269,2014-08-27 13:55:22,United States,No,M,No,No,No
+270,2014-08-27 13:55:38,Ireland,No,M,No,No,Yes
+271,2014-08-27 13:56:27,United States,Yes,F,Don't know,Yes,No
+272,2014-08-27 13:56:35,United States,No,M,Yes,Yes,No
+273,2014-08-27 13:59:24,United Kingdom,No,M,No,No,Yes
+274,2014-08-27 13:59:35,United States,No,M,No,Yes,Yes
+275,2014-08-27 14:01:25,Canada,No,M,Yes,Yes,No
+276,2014-08-27 14:01:35,United States,No,M,No,Yes,No
+277,2014-08-27 14:01:54,Colombia,No,M,No,No,Yes
+278,2014-08-27 14:03:16,United States,No,M,Don't know,Yes,Yes
+279,2014-08-27 14:03:54,United States,Yes,M,Don't know,Don't know,Yes
+280,2014-08-27 14:03:59,Australia,Yes,M,Yes,Don't know,Yes
+281,2014-08-27 14:06:26,Portugal,No,M,No,No,No
+282,2014-08-27 14:10:15,United States,No,M,Don't know,Don't know,Yes
+283,2014-08-27 14:10:47,United States,Yes,M,No,Yes,Yes
+284,2014-08-27 14:10:53,Canada,No,M,No,Don't know,No
+285,2014-08-27 14:11:46,United Kingdom,Yes,M,No,No,Yes
+286,2014-08-27 14:11:52,United States,Yes,F,Don't know,Yes,Yes
+287,2014-08-27 14:11:55,United States,No,M,Don't know,Don't know,No
+288,2014-08-27 14:13:02,United States,No,F,No,No,Yes
+289,2014-08-27 14:13:16,United States,Yes,F,Don't know,Yes,Yes
+290,2014-08-27 14:13:24,Switzerland,No,M,No,No,No
+291,2014-08-27 14:14:52,United States,No,M,Don't know,Don't know,No
+292,2014-08-27 14:15:13,United States,Yes,M,Don't know,Yes,Yes
+293,2014-08-27 14:15:21,United States,No,M,Don't know,Yes,No
+294,2014-08-27 14:15:57,United States,No,M,Don't know,Yes,No
+295,2014-08-27 14:16:00,United States,No,F,Don't know,Don't know,No
+296,2014-08-27 14:18:20,United States,Yes,F,Don't know,Yes,Yes
+297,2014-08-27 14:18:41,United States,No,M,Yes,Yes,No
+298,2014-08-27 14:18:44,United States,Yes,M,Yes,Yes,Yes
+299,2014-08-27 14:19:08,United States,No,M,Yes,Yes,No
+300,2014-08-27 14:19:12,United States,No,F,Yes,Yes,Yes
+301,2014-08-27 14:20:08,United States,No,F,Don't know,Yes,Yes
+302,2014-08-27 14:20:43,United States,No,M,Don't know,Yes,Yes
+303,2014-08-27 14:21:37,United States,Yes,F,Yes,Yes,Yes
+304,2014-08-27 14:21:42,United States,No,F,Yes,Yes,Yes
+305,2014-08-27 14:22:00,Canada,Yes,M,Don't know,Yes,Yes
+307,2014-08-27 14:22:43,United States,No,M,No,No,No
+308,2014-08-27 14:22:43,United States,No,M,Don't know,Don't know,No
+309,2014-08-27 14:23:51,United States,No,M,Yes,Yes,Yes
+310,2014-08-27 14:23:53,Canada,No,M,Don't know,Don't know,Yes
+311,2014-08-27 14:24:15,United States,No,M,Yes,Yes,Yes
+312,2014-08-27 14:25:41,United States,No,M,No,No,No
+313,2014-08-27 14:25:54,United States,Yes,M,Don't know,Yes,Yes
+314,2014-08-27 14:26:32,United States,Yes,M,Don't know,Don't know,No
+315,2014-08-27 14:27:20,United States,No,M,Don't know,Don't know,No
+316,2014-08-27 14:27:27,United States,No,M,Don't know,Don't know,No
+317,2014-08-27 14:27:28,United States,No,M,Yes,Yes,No
+318,2014-08-27 14:27:51,United States,Yes,F,Yes,Yes,Yes
+319,2014-08-27 14:28:28,Latvia,No,M,No,No,No
+320,2014-08-27 14:28:41,United States,Yes,M,Yes,Yes,Yes
+321,2014-08-27 14:28:43,United States,No,M,Don't know,Yes,Yes
+322,2014-08-27 14:28:49,United States,No,M,Yes,Yes,No
+323,2014-08-27 14:28:51,United States,Yes,F,Yes,Yes,Yes
+324,2014-08-27 14:29:19,United States,No,M,No,Yes,Yes
+325,2014-08-27 14:30:33,United States,No,M,Don't know,Don't know,No
+326,2014-08-27 14:31:06,United States,No,F,Yes,Yes,No
+327,2014-08-27 14:31:28,United States,Yes,M,Yes,Don't know,Yes
+328,2014-08-27 14:31:44,United States,No,M,No,No,No
+329,2014-08-27 14:32:22,Germany,Yes,M,No,No,Yes
+330,2014-08-27 14:32:46,United States,No,M,Yes,Yes,No
+331,2014-08-27 14:33:44,Canada,Yes,M,Don't know,Yes,Yes
+332,2014-08-27 14:34:47,United States,No,M,No,Don't know,No
+333,2014-08-27 14:37:33,Ireland,No,M,No,No,Yes
+334,2014-08-27 14:37:35,Romania,No,M,No,No,No
+335,2014-08-27 14:37:46,United States,No,M,Don't know,Yes,No
+336,2014-08-27 14:38:06,United Kingdom,No,M,Don't know,Don't know,Yes
+337,2014-08-27 14:38:13,United States,No,F,No,Yes,Yes
+338,2014-08-27 14:38:26,United States,No,M,Don't know,Yes,No
+339,2014-08-27 14:38:49,United States,No,M,Yes,Yes,No
+340,2014-08-27 14:38:54,United States,No,M,Don't know,Don't know,No
+341,2014-08-27 14:39:07,United States,Yes,F,No,No,Yes
+342,2014-08-27 14:39:20,United States,No,M,Don't know,Don't know,Yes
+343,2014-08-27 14:41:09,United States,No,M,Don't know,Don't know,No
+344,2014-08-27 14:41:16,United Kingdom,No,M,No,Don't know,Yes
+345,2014-08-27 14:44:29,United States,Yes,F,No,Yes,Yes
+346,2014-08-27 14:45:12,United States,Yes,M,No,Don't know,Yes
+347,2014-08-27 14:45:45,United States,Yes,M,Yes,Don't know,No
+348,2014-08-27 14:47:10,United States,No,M,Don't know,Don't know,Yes
+350,2014-08-27 14:49:08,Belgium,No,M,No,Don't know,Yes
+351,2014-08-27 14:49:30,United States,No,M,Yes,Yes,Yes
+352,2014-08-27 14:51:29,United Kingdom,No,M,Don't know,No,No
+353,2014-08-27 14:52:44,United States,Yes,M,Yes,Yes,Yes
+354,2014-08-27 14:52:53,Sweden,Yes,F,No,Yes,Yes
+355,2014-08-27 14:53:11,United States,No,M,Don't know,No,Yes
+356,2014-08-27 14:54:23,United States,Yes,M,No,Don't know,Yes
+357,2014-08-27 14:54:56,United States,Yes,M,Yes,Yes,Yes
+358,2014-08-27 14:57:46,United States,No,M,No,No,Yes
+359,2014-08-27 14:58:01,United States,No,M,No,No,No
+361,2014-08-27 15:03:56,Germany,Yes,M,Don't know,No,Yes
+362,2014-08-27 15:04:41,United States,Yes,M,Don't know,No,Yes
+363,2014-08-27 15:05:00,United States,Yes,M,Yes,Yes,Yes
+364,2014-08-27 15:05:21,United States,No,M,No,Yes,Yes
+365,2014-08-27 15:09:58,United States,Yes,M,Don't know,Don't know,Yes
+366,2014-08-27 15:11:30,United States,Yes,M,Yes,Yes,No
+367,2014-08-27 15:13:33,United States,Yes,M,No,No,Yes
+368,2014-08-27 15:14:50,United States,Yes,M,Don't know,Yes,Yes
+369,2014-08-27 15:15:29,United Kingdom,No,M,No,Don't know,Yes
+370,2014-08-27 15:15:42,United States,No,F,Yes,Yes,No
+371,2014-08-27 15:20:53,United States,Yes,M,Yes,Yes,Yes
+372,2014-08-27 15:21:59,United States,Yes,M,Yes,Yes,Yes
+373,2014-08-27 15:22:20,United States,No,F,Yes,Yes,Yes
+374,2014-08-27 15:22:26,United States,Yes,F,No,Don't know,Yes
+375,2014-08-27 15:22:43,United States,No,M,Don't know,Yes,No
+376,2014-08-27 15:22:45,United States,No,F,No,Yes,Yes
+377,2014-08-27 15:22:50,United States,Yes,F,No,Don't know,Yes
+379,2014-08-27 15:23:06,United States,Yes,F,Yes,Yes,No
+380,2014-08-27 15:23:07,Canada,No,M,Don't know,Yes,No
+381,2014-08-27 15:23:19,United States,No,M,Yes,Yes,Yes
+383,2014-08-27 15:23:33,Germany,Yes,M,No,No,Yes
+384,2014-08-27 15:23:51,United States,No,M,No,Don't know,Yes
+385,2014-08-27 15:23:51,United States,Yes,F,Don't know,Yes,Yes
+386,2014-08-27 15:23:54,New Zealand,No,M,No,Don't know,No
+388,2014-08-27 15:24:27,United States,No,F,No,Don't know,Yes
+389,2014-08-27 15:24:28,Sweden,Yes,F,Yes,Yes,Yes
+391,2014-08-27 15:24:47,United States,Yes,F,Don't know,Yes,Yes
+392,2014-08-27 15:24:49,United States,No,M,Don't know,Don't know,No
+393,2014-08-27 15:24:55,Canada,Yes,M,Don't know,Don't know,Yes
+394,2014-08-27 15:24:56,United States,Yes,F,No,No,No
+395,2014-08-27 15:25:03,United States,No,M,Don't know,Yes,No
+396,2014-08-27 15:25:09,United Kingdom,No,M,No,Don't know,No
+397,2014-08-27 15:25:16,United Kingdom,No,M,No,No,Yes
+398,2014-08-27 15:25:41,United States,No,F,No,Don't know,No
+399,2014-08-27 15:25:47,Canada,No,M,Don't know,Don't know,Yes
+400,2014-08-27 15:26:05,United States,Yes,M,No,Yes,Yes
+401,2014-08-27 15:26:37,United States,Yes,M,No,Yes,Yes
+402,2014-08-27 15:26:40,United States,No,M,Don't know,Don't know,No
+403,2014-08-27 15:26:57,United States,Yes,M,No,Yes,Yes
+404,2014-08-27 15:27:25,Germany,Yes,M,No,Don't know,Yes
+405,2014-08-27 15:27:31,United States,Yes,M,Yes,Yes,No
+406,2014-08-27 15:27:38,United States,Yes,M,Yes,Yes,No
+407,2014-08-27 15:27:39,United States,No,M,Don't know,Don't know,No
+408,2014-08-27 15:28:34,Brazil,No,M,No,Don't know,No
+409,2014-08-27 15:28:50,Spain,Yes,F,No,No,No
+410,2014-08-27 15:29:03,United States,Yes,M,No,Yes,Yes
+411,2014-08-27 15:29:07,United States,Yes,F,Don't know,Don't know,Yes
+412,2014-08-27 15:29:23,United States,Yes,M,Don't know,Don't know,No
+414,2014-08-27 15:31:10,United States,No,F,Don't know,Don't know,Yes
+415,2014-08-27 15:31:18,United States,Yes,M,Don't know,Don't know,Yes
+417,2014-08-27 15:31:31,India,No,M,No,No,No
+418,2014-08-27 15:31:38,Finland,No,M,No,No,No
+419,2014-08-27 15:31:40,United States,Yes,M,Don't know,No,Yes
+420,2014-08-27 15:32:09,Germany,Yes,M,No,Yes,Yes
+421,2014-08-27 15:32:19,Uruguay,No,M,No,Don't know,No
+422,2014-08-27 15:32:43,New Zealand,Yes,M,No,Yes,Yes
+423,2014-08-27 15:34:23,United Kingdom,Yes,M,Don't know,No,Yes
+424,2014-08-27 15:34:31,United States,No,F,Don't know,Yes,Yes
+425,2014-08-27 15:34:32,United States,No,M,Yes,Don't know,Yes
+426,2014-08-27 15:35:21,United States,Yes,M,No,No,Yes
+427,2014-08-27 15:35:37,United States,No,F,Don't know,Yes,No
+428,2014-08-27 15:35:50,United States,No,M,No,Yes,No
+429,2014-08-27 15:36:13,United States,No,F,Yes,Yes,No
+430,2014-08-27 15:36:41,Canada,No,M,No,Don't know,No
+431,2014-08-27 15:38:07,United States,Yes,F,No,No,Yes
+432,2014-08-27 15:38:27,United States,No,M,No,No,Yes
+433,2014-08-27 15:38:31,United States,No,M,No,Don't know,Yes
+434,2014-08-27 15:38:32,United States,No,F,No,Don't know,Yes
+435,2014-08-27 15:38:37,United States,No,M,Don't know,Don't know,No
+436,2014-08-27 15:39:31,United States,No,M,Don't know,Don't know,No
+437,2014-08-27 15:40:03,Australia,No,M,Don't know,Don't know,No
+438,2014-08-27 15:43:17,United States,No,F,Don't know,Yes,Yes
+439,2014-08-27 15:43:27,United States,Yes,M,Yes,Yes,Yes
+440,2014-08-27 15:43:30,United Kingdom,Yes,M,No,No,Yes
+441,2014-08-27 15:43:45,United States,No,M,Don't know,Yes,Yes
+442,2014-08-27 15:44:16,United States,No,M,Yes,Yes,Yes
+443,2014-08-27 15:44:20,United States,No,F,No,Yes,No
+444,2014-08-27 15:46:12,Canada,Yes,M,No,Yes,Yes
+445,2014-08-27 15:46:39,United States,Yes,M,Don't know,Yes,Yes
+446,2014-08-27 15:47:26,United States,Yes,M,Don't know,Yes,No
+447,2014-08-27 15:47:33,United States,No,F,No,Yes,Yes
+448,2014-08-27 15:50:26,United States,No,M,No,Yes,Yes
+449,2014-08-27 15:51:36,Canada,Yes,M,Yes,Yes,Yes
+450,2014-08-27 15:53:39,United States,Yes,M,No,Yes,Yes
+452,2014-08-27 15:54:45,United States,Yes,M,No,Yes,Yes
+453,2014-08-27 15:55:07,United States,No,M,No,Don't know,Yes
+454,2014-08-27 15:55:07,United States,Yes,M,Don't know,Don't know,Yes
+455,2014-08-27 15:55:08,United States,No,M,No,Don't know,Yes
+456,2014-08-27 15:56:37,Brazil,No,M,No,No,Yes
+457,2014-08-27 15:58:23,Netherlands,Yes,M,No,Yes,No
+458,2014-08-27 15:59:41,United Kingdom,No,M,No,No,No
+459,2014-08-27 15:59:47,United States,No,M,No,Yes,No
+460,2014-08-27 16:00:16,United Kingdom,No,M,Don't know,Don't know,No
+463,2014-08-27 16:02:16,United States,Yes,F,No,Don't know,No
+464,2014-08-27 16:03:20,United States,Yes,M,Don't know,Don't know,Yes
+465,2014-08-27 16:04:01,United Kingdom,No,M,No,No,Yes
+466,2014-08-27 16:06:46,United States,Yes,M,No,Yes,Yes
+467,2014-08-27 16:07:32,United Kingdom,No,M,No,No,Yes
+468,2014-08-27 16:10:10,France,No,M,No,No,No
+469,2014-08-27 16:11:36,Netherlands,No,F,No,Yes,Yes
+470,2014-08-27 16:13:31,United States,No,M,Yes,Yes,Yes
+471,2014-08-27 16:13:40,United States,No,M,Yes,Yes,Yes
+472,2014-08-27 16:13:42,United States,No,M,No,Don't know,Yes
+473,2014-08-27 16:14:04,United Kingdom,No,F,Yes,Yes,Yes
+474,2014-08-27 16:14:43,United States,No,M,No,Don't know,Yes
+475,2014-08-27 16:15:26,United States,No,M,Yes,Yes,Yes
+476,2014-08-27 16:15:33,Germany,Yes,M,No,No,Yes
+477,2014-08-27 16:16:40,Germany,Yes,M,Don't know,Don't know,Yes
+478,2014-08-27 16:16:51,Finland,No,M,Don't know,Don't know,No
+479,2014-08-27 16:17:05,United States,No,F,No,Don't know,No
+480,2014-08-27 16:17:41,United States,No,M,Don't know,Don't know,No
+481,2014-08-27 16:18:44,United States,No,M,Yes,Yes,Yes
+482,2014-08-27 16:19:05,United Kingdom,Yes,F,Don't know,Don't know,Yes
+483,2014-08-27 16:19:25,United States,No,M,No,Yes,Yes
+484,2014-08-27 16:20:36,United States,No,M,Don't know,Don't know,No
+485,2014-08-27 16:20:40,Germany,No,M,No,No,Yes
+486,2014-08-27 16:21:11,United States,Yes,F,No,Don't know,Yes
+487,2014-08-27 16:21:24,United States,Yes,M,No,No,Yes
+488,2014-08-27 16:21:54,Israel,No,M,No,No,Yes
+489,2014-08-27 16:21:55,Italy,No,M,No,No,No
+490,2014-08-27 16:22:10,United States,No,M,Don't know,Yes,No
+491,2014-08-27 16:22:17,United States,No,M,No,Don't know,Yes
+492,2014-08-27 16:23:14,Israel,No,M,No,No,No
+493,2014-08-27 16:25:26,United States,Yes,F,Don't know,No,Yes
+494,2014-08-27 16:26:03,United States,No,M,Don't know,Don't know,No
+495,2014-08-27 16:27:04,United States,Yes,F,No,Yes,Yes
+496,2014-08-27 16:27:47,United States,No,M,No,Yes,Yes
+497,2014-08-27 16:28:10,United States,Yes,F,No,Don't know,Yes
+498,2014-08-27 16:28:20,United Kingdom,No,M,Yes,No,Yes
+499,2014-08-27 16:29:05,Netherlands,No,M,Don't know,Don't know,Yes
+500,2014-08-27 16:29:23,United States,No,F,No,Yes,No
+501,2014-08-27 16:31:16,Ireland,Yes,M,No,No,No
+502,2014-08-27 16:32:31,United Kingdom,No,M,Don't know,No,No
+503,2014-08-27 16:34:18,Germany,No,M,Yes,Don't know,No
+504,2014-08-27 16:35:02,United States,No,F,No,No,Yes
+505,2014-08-27 16:36:57,United States,No,M,Yes,Yes,Yes
+506,2014-08-27 16:39:00,United States,No,M,No,Yes,No
+507,2014-08-27 16:39:01,United Kingdom,Yes,M,No,Yes,Yes
+508,2014-08-27 16:40:35,United States,Yes,M,Yes,Yes,Yes
+509,2014-08-27 16:42:00,United States,No,M,Don't know,Yes,No
+510,2014-08-27 16:42:55,United States,No,F,Yes,Yes,Yes
+511,2014-08-27 16:47:48,United States,No,F,No,No,Yes
+512,2014-08-27 16:53:54,United States,No,M,Don't know,Don't know,No
+513,2014-08-27 16:55:04,United States,No,M,Yes,Yes,No
+514,2014-08-27 17:00:15,United States,Yes,M,Yes,Yes,Yes
+515,2014-08-27 17:03:02,United States,No,M,Don't know,Don't know,No
+516,2014-08-27 17:04:29,United States,No,M,Yes,Yes,Yes
+517,2014-08-27 17:08:18,United States,Yes,F,Yes,Yes,Yes
+518,2014-08-27 17:09:23,Germany,No,M,No,Yes,Yes
+519,2014-08-27 17:10:56,United Kingdom,Yes,M,No,No,Yes
+520,2014-08-27 17:12:01,United States,No,M,Yes,Yes,No
+521,2014-08-27 17:14:36,United States,No,F,Don't know,Don't know,No
+522,2014-08-27 17:15:25,United States,No,M,No,No,No
+523,2014-08-27 17:19:05,Bosnia and Herzegovina,Yes,M,Don't know,Don't know,Yes
+524,2014-08-27 17:22:29,United States,Yes,M,No,Don't know,Yes
+525,2014-08-27 17:32:04,United States,Yes,F,Yes,Yes,Yes
+526,2014-08-27 17:33:51,Austria,No,M,Don't know,Yes,Yes
+527,2014-08-27 17:33:52,New Zealand,No,M,No,No,Yes
+528,2014-08-27 17:33:52,United States,No,M,Yes,Yes,Yes
+529,2014-08-27 17:37:41,Canada,Yes,F,Don't know,Don't know,Yes
+530,2014-08-27 17:39:58,United Kingdom,No,M,No,No,No
+531,2014-08-27 17:41:44,Australia,No,M,Yes,Yes,Yes
+532,2014-08-27 17:42:49,Hungary,Yes,F,No,No,Yes
+533,2014-08-27 17:46:17,Sweden,No,M,Don't know,Don't know,Yes
+534,2014-08-27 17:47:45,Canada,No,M,No,Don't know,No
+535,2014-08-27 17:48:54,Australia,Yes,F,No,No,Yes
+536,2014-08-27 17:49:21,United States,Yes,M,Yes,Yes,Yes
+537,2014-08-27 17:49:30,United States,Yes,M,Don't know,Don't know,No
+538,2014-08-27 17:52:31,United Kingdom,No,M,No,Don't know,No
+539,2014-08-27 17:56:50,United States,Yes,F,Don't know,Yes,Yes
+540,2014-08-27 18:00:39,United States,Yes,F,No,Don't know,Yes
+541,2014-08-27 18:02:32,United States,Yes,F,No,Yes,Yes
+542,2014-08-27 18:02:42,United Kingdom,No,M,No,Don't know,No
+543,2014-08-27 18:12:55,United States,Yes,F,Don't know,Yes,Yes
+545,2014-08-27 18:14:59,United Kingdom,No,F,No,Don't know,No
+546,2014-08-27 18:16:52,United Kingdom,No,M,Don't know,Don't know,No
+547,2014-08-27 18:18:18,United States,Yes,M,Yes,Yes,Yes
+548,2014-08-27 18:22:05,United States,Yes,M,Yes,Yes,No
+549,2014-08-27 18:29:32,Germany,No,M,No,No,Yes
+551,2014-08-27 18:41:00,New Zealand,No,M,No,No,Yes
+552,2014-08-27 18:43:06,Canada,No,F,No,No,Yes
+554,2014-08-27 18:59:44,New Zealand,Yes,F,No,No,Yes
+555,2014-08-27 19:05:52,Canada,No,F,Don't know,Don't know,Yes
+556,2014-08-27 19:08:31,Australia,No,M,Yes,Yes,Yes
+557,2014-08-27 19:13:21,United States,No,M,Don't know,Don't know,No
+558,2014-08-27 19:13:27,Netherlands,Yes,M,Don't know,No,Yes
+559,2014-08-27 19:16:15,United States,No,M,Don't know,Don't know,No
+560,2014-08-27 19:17:07,United States,No,M,No,No,No
+561,2014-08-27 19:25:42,United States,Yes,M,Don't know,Don't know,Yes
+562,2014-08-27 19:27:25,Australia,No,M,Don't know,Don't know,No
+563,2014-08-27 19:28:35,United States,No,M,Don't know,Don't know,Yes
+564,2014-08-27 19:34:26,Canada,No,M,No,No,No
+565,2014-08-27 19:34:56,United States,No,M,No,Yes,Yes
+566,2014-08-27 19:38:44,United States,No,M,Don't know,Yes,Yes
+567,2014-08-27 19:41:28,United States,No,M,Yes,Yes,Yes
+568,2014-08-27 19:45:36,United States,Yes,M,Don't know,Yes,Yes
+570,2014-08-27 20:13:06,United States,Yes,M,No,No,Yes
+572,2014-08-27 20:33:33,United States,No,F,Yes,Don't know,Yes
+573,2014-08-27 20:48:54,United States,Yes,F,No,Yes,Yes
+574,2014-08-27 20:52:20,United States,No,M,No,No,No
+575,2014-08-27 20:52:31,United States,Yes,M,Don't know,Don't know,No
+576,2014-08-27 20:53:22,United States,No,M,No,Don't know,No
+577,2014-08-27 20:55:48,United States,Yes,M,No,Don't know,Yes
+578,2014-08-27 21:05:41,Canada,No,M,No,Yes,No
+579,2014-08-27 21:15:09,United States,Yes,M,No,Yes,Yes
+580,2014-08-27 21:17:31,United States,Yes,M,No,Yes,Yes
+581,2014-08-27 21:21:31,United States,Yes,M,Don't know,Don't know,No
+582,2014-08-27 21:35:24,Canada,No,M,Yes,Yes,No
+583,2014-08-27 21:39:23,United States,No,M,No,No,No
+584,2014-08-27 21:45:31,Singapore,No,M,No,No,Yes
+585,2014-08-27 21:54:29,United States,No,F,No,Don't know,No
+586,2014-08-27 21:54:32,Australia,No,M,No,No,Yes
+587,2014-08-27 21:55:28,United States,No,F,No,Yes,No
+588,2014-08-27 22:00:36,United States,Yes,M,No,No,Yes
+589,2014-08-27 22:04:43,United States,No,M,No,No,Yes
+590,2014-08-27 22:04:47,United States,Yes,M,No,Yes,Yes
+591,2014-08-27 22:06:14,United States,Yes,M,No,Don't know,Yes
+592,2014-08-27 22:07:34,Canada,Yes,M,No,No,Yes
+593,2014-08-27 22:11:16,United States,Yes,M,Yes,Yes,Yes
+594,2014-08-27 22:12:55,United States,Yes,M,Yes,Yes,No
+595,2014-08-27 22:13:55,United States,No,M,Don't know,Yes,Yes
+596,2014-08-27 22:14:23,United States,Yes,F,No,Yes,Yes
+597,2014-08-27 22:14:46,United States,No,M,Don't know,Don't know,No
+598,2014-08-27 22:21:48,United States,No,M,Don't know,Don't know,No
+599,2014-08-27 22:26:03,United States,Yes,M,Don't know,No,Yes
+600,2014-08-27 22:32:36,United States,Yes,M,Yes,Yes,Yes
+601,2014-08-27 22:35:40,United States,Yes,M,Yes,No,No
+602,2014-08-27 22:36:34,United States,Yes,M,No,Yes,Yes
+604,2014-08-27 22:59:23,United States,No,M,Don't know,Yes,No
+605,2014-08-27 23:09:46,United States,No,M,No,No,Yes
+606,2014-08-27 23:10:16,United States,No,M,Don't know,Don't know,Yes
+607,2014-08-27 23:10:23,United States,No,M,No,Don't know,No
+608,2014-08-27 23:14:58,United States,No,M,No,Don't know,No
+609,2014-08-27 23:30:52,Australia,No,M,No,No,No
+610,2014-08-27 23:54:08,United States,No,M,No,No,Yes
+611,2014-08-27 23:56:33,United States,No,M,No,No,Yes
+612,2014-08-27 23:57:16,United States,No,M,No,Don't know,Yes
+613,2014-08-27 23:59:59,Singapore,No,M,No,Don't know,Yes
+614,2014-08-28 00:02:36,United States,No,M,No,Yes,Yes
+615,2014-08-28 00:05:34,United States,No,M,Yes,No,Yes
+616,2014-08-28 00:17:24,United States,No,M,Don't know,Yes,No
+617,2014-08-28 00:43:40,United States,Yes,M,No,Yes,Yes
+618,2014-08-28 00:47:55,Netherlands,Yes,M,Don't know,No,Yes
+619,2014-08-28 01:04:45,United Kingdom,Yes,M,No,Yes,Yes
+620,2014-08-28 01:14:11,Germany,Yes,M,No,Don't know,Yes
+621,2014-08-28 01:19:34,Netherlands,No,M,No,Don't know,No
+622,2014-08-28 01:30:12,United States,No,F,No,Yes,Yes
+623,2014-08-28 01:38:53,United States,Yes,F,Yes,Yes,Yes
+624,2014-08-28 01:41:17,United States,Yes,F,No,Don't know,Yes
+625,2014-08-28 01:56:43,United States,Yes,F,Yes,Yes,Yes
+627,2014-08-28 02:17:42,United States,Yes,M,No,No,Yes
+629,2014-08-28 02:30:00,United States,Yes,M,Don't know,Yes,Yes
+630,2014-08-28 02:32:11,United Kingdom,No,F,No,No,Yes
+632,2014-08-28 02:46:56,Germany,No,M,No,No,Yes
+633,2014-08-28 02:49:34,United States,No,F,Don't know,Yes,Yes
+634,2014-08-28 02:52:45,Germany,No,M,Don't know,Don't know,Yes
+635,2014-08-28 02:54:44,Germany,No,M,No,No,No
+636,2014-08-28 03:05:52,Poland,Yes,M,No,No,Yes
+637,2014-08-28 03:06:14,United Kingdom,No,M,No,No,Yes
+638,2014-08-28 03:13:10,United States,No,M,No,Yes,No
+639,2014-08-28 03:13:20,Japan,Yes,M,No,No,Yes
+640,2014-08-28 03:15:01,Germany,No,M,No,Yes,No
+641,2014-08-28 03:16:53,Germany,No,M,No,No,No
+642,2014-08-28 03:29:19,Australia,Yes,F,Yes,Yes,Yes
+643,2014-08-28 03:36:10,United States,No,M,Yes,Yes,No
+644,2014-08-28 03:42:58,Belgium,Yes,F,No,Yes,Yes
+645,2014-08-28 03:47:30,Ireland,No,M,No,No,No
+646,2014-08-28 03:49:56,Ireland,Yes,M,No,No,Yes
+647,2014-08-28 03:52:05,Australia,No,M,No,No,Yes
+648,2014-08-28 04:00:30,Australia,Yes,F,Yes,No,Yes
+649,2014-08-28 04:02:47,Netherlands,No,F,No,No,Yes
+650,2014-08-28 04:07:34,United States,No,M,Yes,Don't know,Yes
+651,2014-08-28 04:09:14,United Kingdom,Yes,M,Don't know,Don't know,No
+652,2014-08-28 04:11:27,United Kingdom,Yes,M,No,Don't know,Yes
+653,2014-08-28 04:16:30,Australia,Yes,F,Yes,Don't know,No
+654,2014-08-28 04:23:01,United States,No,M,Yes,Yes,No
+655,2014-08-28 04:24:03,Nigeria,No,M,No,No,No
+656,2014-08-28 04:30:08,Poland,No,M,No,No,Yes
+657,2014-08-28 04:34:32,Germany,No,M,No,No,No
+658,2014-08-28 04:37:54,United Kingdom,Yes,M,Don't know,Yes,Yes
+659,2014-08-28 04:53:52,Germany,No,M,Don't know,Don't know,No
+660,2014-08-28 05:05:32,Switzerland,No,F,Yes,Yes,Yes
+661,2014-08-28 05:12:15,United Kingdom,No,M,Don't know,Don't know,No
+662,2014-08-28 05:14:28,United States,No,M,Don't know,Don't know,No
+663,2014-08-28 06:02:05,Ireland,No,M,No,No,No
+664,2014-08-28 06:05:18,Italy,No,M,No,Don't know,Yes
+665,2014-08-28 06:10:25,Ireland,No,M,No,No,Yes
+666,2014-08-28 06:11:06,India,No,M,Don't know,Don't know,No
+667,2014-08-28 06:27:59,Ireland,No,M,Don't know,Don't know,No
+668,2014-08-28 06:30:18,Netherlands,No,M,No,No,No
+669,2014-08-28 07:01:30,France,No,M,No,Don't know,No
+670,2014-08-28 07:03:00,Russia,No,M,Don't know,No,No
+671,2014-08-28 07:03:03,United States,Yes,M,Don't know,Don't know,Yes
+673,2014-08-28 08:00:40,Israel,Yes,F,Don't know,Don't know,No
+674,2014-08-28 08:06:43,Canada,Yes,M,No,Don't know,Yes
+675,2014-08-28 08:18:06,United States,No,M,Don't know,Don't know,Yes
+676,2014-08-28 08:23:11,India,No,M,No,No,No
+677,2014-08-28 08:39:49,United States,Yes,F,No,Don't know,Yes
+678,2014-08-28 08:40:55,Germany,No,M,No,No,No
+679,2014-08-28 08:43:23,United States,No,M,Yes,Yes,Yes
+680,2014-08-28 08:43:57,Bulgaria,No,M,No,No,Yes
+681,2014-08-28 08:43:58,United States,No,M,Yes,Yes,Yes
+683,2014-08-28 09:09:30,Canada,No,F,Don't know,Yes,Yes
+684,2014-08-28 09:16:21,United Kingdom,No,F,No,No,No
+685,2014-08-28 09:18:13,India,Yes,F,Don't know,Don't know,Yes
+686,2014-08-28 09:40:42,United States,Yes,F,Yes,Yes,Yes
+687,2014-08-28 09:53:42,United States,Yes,M,Yes,Yes,Yes
+688,2014-08-28 09:53:57,United States,No,M,No,Don't know,No
+689,2014-08-28 09:54:21,United Kingdom,No,F,Don't know,Don't know,Yes
+690,2014-08-28 09:54:38,Canada,No,M,No,Yes,Yes
+691,2014-08-28 09:54:47,Netherlands,No,M,No,No,No
+692,2014-08-28 09:54:51,Germany,No,M,Don't know,Don't know,No
+693,2014-08-28 09:55:14,Canada,No,F,Don't know,Yes,No
+694,2014-08-28 09:56:03,United Kingdom,No,M,No,No,No
+695,2014-08-28 09:56:04,United Kingdom,No,M,No,Yes,Yes
+696,2014-08-28 09:56:10,France,No,M,No,No,No
+697,2014-08-28 09:56:21,United States,No,F,No,No,No
+698,2014-08-28 09:56:30,France,No,M,Don't know,Don't know,No
+699,2014-08-28 09:57:02,United States,No,M,Don't know,No,No
+700,2014-08-28 09:57:10,United States,No,M,Don't know,Yes,No
+701,2014-08-28 09:57:25,United States,Yes,M,Yes,No,Yes
+702,2014-08-28 09:58:08,United States,Yes,M,Don't know,Yes,Yes
+703,2014-08-28 09:59:39,United States,No,M,No,Yes,Yes
+704,2014-08-28 09:59:39,United States,Yes,M,Yes,Yes,Yes
+705,2014-08-28 10:00:48,United Kingdom,No,M,No,Don't know,Yes
+706,2014-08-28 10:01:15,United States,No,M,No,Don't know,No
+707,2014-08-28 10:01:31,United States,No,M,Don't know,Don't know,Yes
+708,2014-08-28 10:02:09,United States,No,F,Don't know,Don't know,No
+709,2014-08-28 10:02:23,United States,No,M,No,Yes,Yes
+710,2014-08-28 10:02:45,United Kingdom,No,M,No,No,No
+711,2014-08-28 10:04:34,France,No,M,Don't know,Don't know,No
+712,2014-08-28 10:04:41,United States,Yes,M,Don't know,Don't know,No
+713,2014-08-28 10:05:43,United States,No,M,Yes,Yes,No
+714,2014-08-28 10:07:37,United States,Yes,M,Don't know,Yes,Yes
+715,2014-08-28 10:07:53,United Kingdom,No,M,No,No,Yes
+716,2014-08-28 10:08:19,Germany,No,M,Yes,Yes,No
+717,2014-08-28 10:08:34,United States,No,M,No,Yes,No
+718,2014-08-28 10:10:29,Netherlands,Yes,M,No,No,No
+720,2014-08-28 10:13:44,United Kingdom,No,M,No,Don't know,No
+721,2014-08-28 10:15:52,Canada,Yes,M,No,Don't know,Yes
+722,2014-08-28 10:16:55,Canada,No,M,No,No,No
+723,2014-08-28 10:17:19,United States,Yes,M,Don't know,Don't know,No
+724,2014-08-28 10:18:34,United States,Yes,M,No,No,Yes
+725,2014-08-28 10:18:46,South Africa,No,M,No,No,No
+726,2014-08-28 10:20:37,Germany,No,M,No,Don't know,Yes
+727,2014-08-28 10:22:06,Switzerland,Yes,M,No,Don't know,Yes
+728,2014-08-28 10:24:19,United States,No,M,Don't know,Don't know,No
+729,2014-08-28 10:25:39,Croatia,No,M,No,No,Yes
+730,2014-08-28 10:29:47,United Kingdom,No,M,No,No,Yes
+731,2014-08-28 10:30:04,France,No,M,No,No,No
+732,2014-08-28 10:30:44,United States,No,M,No,Don't know,No
+733,2014-08-28 10:34:01,United States,No,M,Yes,Yes,No
+734,2014-08-28 10:35:55,United States,No,M,No,Don't know,No
+735,2014-08-28 10:42:09,United Kingdom,No,M,No,No,No
+736,2014-08-28 10:45:21,United States,No,M,Yes,Yes,No
+737,2014-08-28 10:47:12,United Kingdom,No,M,No,Don't know,Yes
+738,2014-08-28 10:51:08,United Kingdom,No,M,Yes,No,No
+739,2014-08-28 10:52:33,United States,Yes,M,Don't know,Don't know,Yes
+740,2014-08-28 10:54:31,Australia,Yes,M,No,No,Yes
+741,2014-08-28 10:57:23,Belgium,No,M,No,No,No
+742,2014-08-28 11:02:41,United Kingdom,No,M,No,No,Yes
+743,2014-08-28 11:04:00,United States,Yes,M,Don't know,Yes,Yes
+744,2014-08-28 11:04:17,United States,No,M,No,Yes,Yes
+745,2014-08-28 11:07:23,United States,No,M,Don't know,Don't know,Yes
+746,2014-08-28 11:09:03,Canada,No,M,Don't know,Yes,No
+747,2014-08-28 11:10:53,Italy,No,M,No,No,No
+748,2014-08-28 11:14:21,United States,Yes,M,Yes,Yes,Yes
+749,2014-08-28 11:15:42,Canada,No,M,No,Don't know,Yes
+750,2014-08-28 11:19:35,Norway,Yes,M,No,Yes,No
+751,2014-08-28 11:20:14,Germany,No,M,Yes,Don't know,No
+752,2014-08-28 11:21:17,United States,Yes,M,Don't know,Don't know,Yes
+753,2014-08-28 11:21:48,Thailand,No,M,No,No,No
+754,2014-08-28 11:22:04,United States,No,M,Yes,Yes,No
+755,2014-08-28 11:26:15,United States,Yes,F,Don't know,Don't know,Yes
+756,2014-08-28 11:27:56,United States,Yes,F,Don't know,Yes,Yes
+757,2014-08-28 11:29:20,United States,Yes,M,Don't know,Yes,Yes
+758,2014-08-28 11:32:37,Germany,No,M,No,No,Yes
+759,2014-08-28 11:34:36,United States,No,M,No,No,Yes
+760,2014-08-28 11:36:48,Canada,Yes,M,No,No,Yes
+761,2014-08-28 11:38:30,United States,Yes,F,Yes,Yes,Yes
+762,2014-08-28 11:40:11,Ireland,Yes,M,No,No,Yes
+763,2014-08-28 11:44:43,Ireland,Yes,M,No,No,Yes
+764,2014-08-28 11:47:35,United States,No,F,Don't know,Don't know,Yes
+765,2014-08-28 11:48:12,Netherlands,No,M,No,No,No
+766,2014-08-28 11:50:06,United States,Yes,F,Yes,Yes,Yes
+767,2014-08-28 11:50:28,United Kingdom,No,M,Don't know,Don't know,No
+768,2014-08-28 11:54:23,United States,No,F,No,Yes,No
+769,2014-08-28 11:58:21,United Kingdom,No,M,No,Don't know,No
+770,2014-08-28 11:59:23,United Kingdom,No,M,No,Don't know,Yes
+771,2014-08-28 12:02:59,United States,Yes,M,No,No,Yes
+772,2014-08-28 12:05:41,United Kingdom,No,M,Don't know,Don't know,No
+773,2014-08-28 12:06:55,United Kingdom,No,M,Don't know,Don't know,No
+774,2014-08-28 12:07:28,United Kingdom,Yes,M,No,No,Yes
+775,2014-08-28 12:08:30,Canada,No,M,Yes,Yes,Yes
+778,2014-08-28 12:10:42,United States,No,F,Yes,Don't know,No
+779,2014-08-28 12:12:49,United Kingdom,No,F,No,Don't know,No
+780,2014-08-28 12:15:08,United Kingdom,No,M,Don't know,Don't know,No
+781,2014-08-28 12:19:34,United States,No,M,No,No,Yes
+782,2014-08-28 12:19:42,United Kingdom,Yes,M,Don't know,Don't know,Yes
+783,2014-08-28 12:22:14,United States,No,M,No,Don't know,No
+784,2014-08-28 12:23:37,United States,No,M,No,Don't know,No
+785,2014-08-28 12:30:20,United States,Yes,M,Yes,Yes,Yes
+786,2014-08-28 12:40:46,United Kingdom,Yes,M,No,No,No
+787,2014-08-28 12:42:12,United States,Yes,M,Don't know,Yes,Yes
+788,2014-08-28 12:42:30,Netherlands,No,M,Don't know,Don't know,No
+789,2014-08-28 12:44:55,Switzerland,No,M,Yes,Yes,No
+790,2014-08-28 12:53:21,United Kingdom,No,M,No,Don't know,Yes
+791,2014-08-28 13:01:26,United States,No,M,Don't know,Yes,Yes
+792,2014-08-28 13:04:30,United States,No,F,No,Don't know,Yes
+793,2014-08-28 13:08:36,United States,No,F,No,Yes,Yes
+794,2014-08-28 13:11:05,United States,Yes,F,Don't know,Don't know,Yes
+795,2014-08-28 13:17:40,United States,No,M,No,Yes,No
+796,2014-08-28 13:26:17,United States,Yes,F,Don't know,Yes,Yes
+797,2014-08-28 13:32:37,Brazil,No,M,No,Don't know,No
+798,2014-08-28 13:34:57,Switzerland,Yes,M,No,No,No
+799,2014-08-28 13:35:25,United States,No,F,Don't know,Don't know,Yes
+800,2014-08-28 13:39:12,United States,No,M,No,Yes,No
+801,2014-08-28 13:39:40,United States,Yes,M,No,No,Yes
+802,2014-08-28 13:40:08,United States,No,M,No,Yes,No
+803,2014-08-28 13:41:51,United States,No,F,Yes,Yes,No
+804,2014-08-28 13:47:37,United Kingdom,No,M,Don't know,Don't know,No
+806,2014-08-28 13:48:30,United States,Yes,F,Yes,Yes,Yes
+807,2014-08-28 13:54:47,United States,Yes,F,Don't know,Don't know,No
+808,2014-08-28 13:57:01,United States,No,M,Don't know,Don't know,No
+809,2014-08-28 14:00:02,United States,Yes,M,Yes,Yes,Yes
+810,2014-08-28 14:01:56,United Kingdom,No,M,No,Don't know,No
+811,2014-08-28 14:02:07,United Kingdom,No,M,No,No,Yes
+812,2014-08-28 14:04:54,United States,No,M,No,No,Yes
+813,2014-08-28 14:12:58,United States,No,M,No,No,No
+814,2014-08-28 14:15:02,United Kingdom,No,F,Don't know,Don't know,Yes
+815,2014-08-28 14:31:00,United States,No,F,Don't know,Don't know,Yes
+816,2014-08-28 14:38:50,United States,Yes,M,Yes,Yes,Yes
+817,2014-08-28 14:41:47,United States,Yes,M,No,No,Yes
+819,2014-08-28 14:51:46,Denmark,Yes,M,No,No,Yes
+820,2014-08-28 14:52:46,United States,Yes,F,Don't know,Yes,Yes
+821,2014-08-28 14:53:02,Denmark,Yes,M,No,No,Yes
+822,2014-08-28 14:53:32,United States,No,M,No,No,No
+823,2014-08-28 14:57:10,United States,No,M,Don't know,Don't know,No
+824,2014-08-28 15:01:46,United States,No,M,Yes,Yes,No
+826,2014-08-28 15:32:03,United States,No,M,Don't know,Don't know,No
+827,2014-08-28 15:37:04,United States,No,M,No,Don't know,Yes
+828,2014-08-28 15:40:32,United Kingdom,No,F,No,Don't know,Yes
+829,2014-08-28 15:43:37,United States,Yes,M,No,No,Yes
+830,2014-08-28 15:48:12,United States,Yes,M,Yes,Yes,Yes
+831,2014-08-28 15:50:12,United States,No,M,Don't know,Yes,No
+832,2014-08-28 15:50:44,Sweden,No,M,No,No,Yes
+833,2014-08-28 15:54:35,United States,Yes,F,No,Yes,Yes
+834,2014-08-28 15:56:47,United States,No,M,No,No,Yes
+835,2014-08-28 16:09:35,United Kingdom,Yes,M,No,Don't know,Yes
+836,2014-08-28 16:17:09,United States,Yes,F,No,Yes,Yes
+837,2014-08-28 16:31:00,United States,No,F,Don't know,Don't know,No
+838,2014-08-28 16:42:49,United Kingdom,Yes,M,No,Don't know,No
+839,2014-08-28 16:52:23,United States,No,M,Yes,Yes,Yes
+840,2014-08-28 16:52:34,United States,No,M,Don't know,Don't know,Yes
+841,2014-08-28 16:52:34,United Kingdom,No,M,No,No,Yes
+842,2014-08-28 16:54:49,United States,Yes,F,No,Yes,Yes
+843,2014-08-28 16:55:07,United States,No,M,Don't know,Don't know,Yes
+844,2014-08-28 16:55:31,United States,Yes,M,No,Yes,No
+845,2014-08-28 16:56:26,Italy,No,M,Don't know,Don't know,Yes
+846,2014-08-28 16:56:57,United States,No,M,Don't know,Don't know,Yes
+847,2014-08-28 16:56:58,Netherlands,No,M,No,No,Yes
+848,2014-08-28 16:57:07,United States,Yes,M,No,No,Yes
+849,2014-08-28 16:57:46,United States,No,M,Yes,Yes,Yes
+850,2014-08-28 16:57:49,United States,No,M,No,No,Yes
+851,2014-08-28 16:58:33,United States,Yes,M,Don't know,Yes,No
+852,2014-08-28 16:58:33,United Kingdom,Yes,M,No,No,No
+853,2014-08-28 16:58:50,Canada,No,M,No,No,Yes
+854,2014-08-28 17:01:06,United States,Yes,M,No,Don't know,No
+855,2014-08-28 17:01:21,United States,Yes,M,Yes,Yes,No
+856,2014-08-28 17:01:25,United States,No,M,Yes,Yes,No
+857,2014-08-28 17:02:27,United States,No,M,No,Don't know,No
+858,2014-08-28 17:02:29,United States,No,M,No,No,No
+859,2014-08-28 17:02:56,United Kingdom,Yes,M,No,No,Yes
+860,2014-08-28 17:02:44,United Kingdom,Yes,M,No,No,Yes
+861,2014-08-28 17:03:42,United Kingdom,No,M,Don't know,No,Yes
+862,2014-08-28 17:07:11,United States,No,M,Don't know,Don't know,No
+863,2014-08-28 17:07:28,United States,Yes,M,No,No,Yes
+864,2014-08-28 17:07:39,United States,No,M,Yes,Yes,Yes
+865,2014-08-28 17:08:16,United Kingdom,No,M,No,No,No
+866,2014-08-28 17:09:03,United States,Yes,M,No,Yes,Yes
+867,2014-08-28 17:10:00,United States,No,M,No,No,No
+868,2014-08-28 17:10:04,Germany,No,M,No,No,Yes
+869,2014-08-28 17:10:08,Mexico,No,M,Don't know,Don't know,No
+870,2014-08-28 17:11:48,United States,No,M,Yes,Yes,Yes
+871,2014-08-28 17:12:30,United Kingdom,Yes,F,No,Don't know,Yes
+872,2014-08-28 17:14:31,United Kingdom,No,M,Yes,Yes,No
+873,2014-08-28 17:16:53,United States,No,M,Don't know,Don't know,No
+874,2014-08-28 17:19:05,United States,Yes,M,No,Yes,No
+875,2014-08-28 17:19:27,United States,Yes,M,Don't know,Don't know,Yes
+876,2014-08-28 17:19:53,United States,No,M,No,Yes,No
+877,2014-08-28 17:20:23,United States,No,M,Don't know,Don't know,No
+878,2014-08-28 17:20:41,United Kingdom,Yes,F,Yes,No,No
+879,2014-08-28 17:21:01,United States,No,M,Don't know,Yes,No
+880,2014-08-28 17:21:43,United States,Yes,M,Don't know,Don't know,Yes
+882,2014-08-28 17:22:53,United States,No,M,Don't know,Yes,No
+883,2014-08-28 17:23:19,United States,No,M,Don't know,Yes,No
+884,2014-08-28 17:27:03,United States,Yes,M,Don't know,Yes,Yes
+885,2014-08-28 17:27:47,United States,Yes,M,No,Don't know,No
+886,2014-08-28 17:28:46,United Kingdom,No,M,No,Don't know,Yes
+887,2014-08-28 17:28:58,United Kingdom,Yes,M,Yes,Yes,No
+888,2014-08-28 17:31:06,India,No,M,No,No,No
+889,2014-08-28 17:33:05,United States,Yes,M,Yes,Yes,Yes
+890,2014-08-28 17:33:20,United States,Yes,M,Yes,Yes,Yes
+891,2014-08-28 17:34:30,United States,Yes,M,No,No,Yes
+892,2014-08-28 17:35:14,United States,Yes,M,Don't know,Don't know,No
+893,2014-08-28 17:36:48,United States,Yes,M,Yes,Yes,No
+894,2014-08-28 17:39:06,United States,Yes,M,Don't know,Don't know,Yes
+895,2014-08-28 17:45:21,United States,No,M,Don't know,Don't know,No
+896,2014-08-28 17:46:37,United States,No,M,Yes,Yes,No
+897,2014-08-28 17:47:45,Germany,No,M,No,No,Yes
+898,2014-08-28 17:47:49,United States,No,M,No,No,No
+899,2014-08-28 17:50:32,United States,No,M,Don't know,Don't know,Yes
+900,2014-08-28 17:56:02,United States,Yes,M,No,No,Yes
+901,2014-08-28 17:57:39,United Kingdom,Yes,M,No,No,Yes
+902,2014-08-28 17:57:42,United States,No,F,Yes,Yes,Yes
+903,2014-08-28 17:59:31,United Kingdom,No,M,No,No,No
+904,2014-08-28 17:59:54,United States,No,M,No,No,No
+905,2014-08-28 17:59:57,United States,Yes,M,Yes,Yes,Yes
+906,2014-08-28 18:01:00,United States,No,M,Yes,Yes,No
+907,2014-08-28 18:02:09,United States,Yes,F,No,Yes,Yes
+908,2014-08-28 18:07:42,United States,No,M,Don't know,Yes,Yes
+909,2014-08-28 18:17:41,United States,No,M,Yes,Yes,No
+910,2014-08-28 18:18:43,Australia,No,M,No,No,Yes
+911,2014-08-28 18:21:23,United States,No,M,Yes,Yes,Yes
+912,2014-08-28 18:21:58,United Kingdom,Yes,F,No,No,Yes
+913,2014-08-28 18:26:35,United States,Yes,M,Yes,Don't know,Yes
+914,2014-08-28 18:50:47,Canada,Yes,F,No,Yes,Yes
+915,2014-08-28 19:03:47,United Kingdom,No,M,No,No,Yes
+916,2014-08-28 19:04:05,United States,No,M,No,No,No
+917,2014-08-28 19:15:35,United Kingdom,No,M,No,No,Yes
+918,2014-08-28 19:26:03,United States,No,M,Yes,Yes,No
+919,2014-08-28 19:28:27,United States,Yes,F,Don't know,Don't know,Yes
+920,2014-08-28 19:35:39,United States,Yes,M,Don't know,Don't know,Yes
+921,2014-08-28 20:12:08,United States,Yes,M,Yes,Yes,Yes
+922,2014-08-28 20:31:02,United States,Yes,M,No,Yes,Yes
+923,2014-08-28 20:49:55,New Zealand,No,M,No,No,Yes
+924,2014-08-28 21:22:40,United States,Yes,M,Don't know,Yes,No
+925,2014-08-28 21:24:48,United States,No,M,No,Yes,Yes
+926,2014-08-28 21:27:19,United States,Yes,M,Don't know,Yes,Yes
+927,2014-08-28 21:30:35,United States,No,M,Yes,Yes,No
+928,2014-08-28 21:33:32,United States,No,M,No,Yes,No
+929,2014-08-28 21:38:12,United States,Yes,M,Don't know,Don't know,No
+930,2014-08-28 21:41:53,United States,Yes,F,Yes,Yes,Yes
+931,2014-08-28 21:47:33,United States,No,M,Yes,Don't know,Yes
+933,2014-08-28 22:17:15,United States,Yes,M,No,No,Yes
+934,2014-08-28 22:18:41,United States,Yes,M,Yes,Don't know,Yes
+935,2014-08-28 22:20:33,United Kingdom,Yes,M,No,No,Yes
+936,2014-08-28 22:22:39,United States,No,M,Don't know,Don't know,Yes
+937,2014-08-28 22:23:47,Netherlands,Yes,M,Don't know,Don't know,No
+938,2014-08-28 22:35:10,United States,No,M,Yes,Yes,Yes
+939,2014-08-28 22:39:57,United States,Yes,M,Yes,Yes,Yes
+940,2014-08-28 22:46:40,United States,Yes,M,Don't know,Yes,Yes
+941,2014-08-28 23:03:05,United States,Yes,M,Yes,Yes,Yes
+942,2014-08-28 23:13:18,United States,Yes,F,Don't know,Yes,Yes
+943,2014-08-28 23:16:30,United States,Yes,M,Yes,Yes,Yes
+944,2014-08-28 23:57:07,United States,Yes,M,Don't know,Don't know,Yes
+945,2014-08-29 00:05:07,United States,Yes,M,No,Yes,Yes
+946,2014-08-29 00:06:49,United States,No,M,Yes,Yes,No
+947,2014-08-29 00:11:17,United States,No,M,Yes,Yes,Yes
+948,2014-08-29 00:41:25,United States,No,M,Yes,Yes,Yes
+949,2014-08-29 00:43:37,United States,Yes,M,Don't know,Yes,Yes
+950,2014-08-29 00:47:09,Netherlands,No,M,No,No,Yes
+951,2014-08-29 01:14:09,United Kingdom,Yes,M,No,Don't know,Yes
+952,2014-08-29 01:20:32,South Africa,No,M,No,No,Yes
+954,2014-08-29 02:10:57,United States,No,M,No,No,No
+955,2014-08-29 02:24:13,Germany,Yes,M,No,Don't know,Yes
+956,2014-08-29 03:02:16,United States,Yes,M,Don't know,Don't know,No
+957,2014-08-29 03:02:45,Netherlands,Yes,M,Yes,Yes,Yes
+958,2014-08-29 03:08:25,United States,No,M,Don't know,Yes,Yes
+959,2014-08-29 04:39:23,United Kingdom,No,M,Don't know,Don't know,No
+960,2014-08-29 04:53:12,United Kingdom,No,M,No,Don't know,No
+961,2014-08-29 05:15:30,Germany,No,M,No,No,Yes
+962,2014-08-29 05:24:07,Germany,No,M,No,Don't know,Yes
+963,2014-08-29 05:39:21,United Kingdom,Yes,M,No,Don't know,Yes
+964,2014-08-29 05:47:19,United Kingdom,No,M,Yes,Yes,Yes
+965,2014-08-29 05:54:26,United Kingdom,Yes,M,No,No,Yes
+966,2014-08-29 05:57:48,United Kingdom,Yes,F,No,No,Yes
+967,2014-08-29 06:06:46,United Kingdom,No,M,Don't know,Don't know,No
+968,2014-08-29 06:37:49,United Kingdom,Yes,M,No,Don't know,Yes
+969,2014-08-29 06:42:57,United Kingdom,No,F,Yes,No,Yes
+970,2014-08-29 07:12:43,United States,No,M,No,No,Yes
+971,2014-08-29 07:21:30,United Kingdom,No,M,No,No,Yes
+972,2014-08-29 07:28:17,United States,Yes,M,Don't know,Don't know,Yes
+973,2014-08-29 07:51:42,United States,Yes,M,Yes,Yes,No
+974,2014-08-29 08:26:36,Germany,No,M,No,Don't know,No
+975,2014-08-29 08:36:24,Germany,No,M,Don't know,Don't know,No
+977,2014-08-29 08:53:19,France,Yes,M,No,Yes,No
+978,2014-08-29 08:54:23,Belgium,No,M,No,Yes,No
+979,2014-08-29 08:57:14,United Kingdom,Yes,M,No,No,Yes
+980,2014-08-29 08:57:42,United States,Yes,M,No,No,Yes
+981,2014-08-29 08:59:08,Canada,Yes,F,No,No,Yes
+982,2014-08-29 08:59:40,United Kingdom,Yes,F,Yes,Yes,Yes
+983,2014-08-29 09:01:01,United States,Yes,M,Don't know,Don't know,Yes
+984,2014-08-29 09:01:45,Canada,No,M,No,Yes,No
+985,2014-08-29 09:02:04,United Kingdom,No,M,No,No,Yes
+986,2014-08-29 09:02:56,United Kingdom,Yes,F,No,Don't know,Yes
+987,2014-08-29 09:03:50,United Kingdom,No,M,No,No,Yes
+988,2014-08-29 09:10:08,United States,Yes,M,Yes,Yes,Yes
+990,2014-08-29 09:12:16,United Kingdom,No,M,No,No,No
+991,2014-08-29 09:13:43,United Kingdom,No,M,Yes,Yes,No
+992,2014-08-29 09:14:45,United States,Yes,F,Don't know,Yes,Yes
+993,2014-08-29 09:15:05,United Kingdom,No,M,No,No,No
+994,2014-08-29 09:15:52,India,No,M,No,Don't know,Yes
+995,2014-08-29 09:19:25,United Kingdom,No,M,Don't know,Don't know,Yes
+996,2014-08-29 09:24:34,United States,No,M,No,Yes,Yes
+997,2014-08-29 09:23:22,United States,Yes,F,Don't know,Yes,No
+998,2014-08-29 09:23:44,United Kingdom,No,M,No,No,Yes
+999,2014-08-29 09:27:12,Sweden,No,M,No,No,No
+1000,2014-08-29 09:29:37,United States,Yes,M,Don't know,Yes,Yes
+1001,2014-08-29 09:31:37,United States,Yes,M,Don't know,Don't know,Yes
+1002,2014-08-29 09:31:49,United States,Yes,M,No,Yes,Yes
+1003,2014-08-29 09:33:43,United States,No,F,Don't know,Don't know,Yes
+1004,2014-08-29 09:35:46,United Kingdom,Yes,M,No,No,Yes
+1005,2014-08-29 09:36:04,United Kingdom,No,M,Don't know,Don't know,No
+1006,2014-08-29 09:36:46,United States,Yes,M,Yes,Yes,Yes
+1007,2014-08-29 09:40:13,United States,No,M,No,Don't know,Yes
+1008,2014-08-29 09:42:23,United States,Yes,M,No,No,Yes
+1009,2014-08-29 09:46:56,United States,No,F,No,Don't know,No
+1010,2014-08-29 09:47:10,United States,No,M,Yes,Yes,No
+1011,2014-08-29 09:47:30,United States,No,F,Don't know,No,No
+1012,2014-08-29 09:51:35,United States,Yes,F,Don't know,Yes,Yes
+1013,2014-08-29 09:53:38,United States,Yes,F,Don't know,Don't know,Yes
+1014,2014-08-29 09:53:50,United States,No,M,Yes,Yes,Yes
+1015,2014-08-29 09:54:01,Israel,No,M,No,Don't know,No
+1016,2014-08-29 09:54:11,United States,No,F,No,Don't know,No
+1018,2014-08-29 09:59:39,United States,Yes,M,No,Yes,Yes
+1019,2014-08-29 10:03:24,United States,No,M,No,Don't know,Yes
+1020,2014-08-29 10:05:57,Canada,No,M,No,Don't know,No
+1021,2014-08-29 10:06:29,United States,Yes,F,Yes,Yes,Yes
+1022,2014-08-29 10:12:10,United States,No,M,Yes,Yes,No
+1023,2014-08-29 10:13:39,United Kingdom,No,M,No,No,No
+1024,2014-08-29 10:13:43,United States,Yes,M,No,Don't know,Yes
+1025,2014-08-29 10:16:45,United States,Yes,M,Don't know,Don't know,Yes
+1026,2014-08-29 10:27:15,United States,No,F,Yes,Yes,No
+1027,2014-08-29 10:30:09,United States,No,M,No,Don't know,Yes
+1028,2014-08-29 10:32:24,United States,Yes,F,No,Yes,No
+1029,2014-08-29 10:33:45,United States,No,M,Don't know,Yes,No
+1030,2014-08-29 10:38:23,United States,Yes,M,No,Don't know,No
+1031,2014-08-29 10:38:29,United States,Yes,M,Don't know,Don't know,Yes
+1032,2014-08-29 10:55:24,United States,Yes,M,Don't know,Yes,Yes
+1033,2014-08-29 10:59:57,United States,Yes,F,No,No,Yes
+1034,2014-08-29 11:01:41,United States,No,M,Don't know,Don't know,No
+1035,2014-08-29 11:02:23,Canada,Yes,M,No,No,Yes
+1036,2014-08-29 11:04:19,Australia,Yes,M,No,No,Yes
+1037,2014-08-29 11:05:00,United States,No,M,Don't know,Don't know,No
+1038,2014-08-29 11:11:00,United States,No,F,No,No,Yes
+1039,2014-08-29 11:12:22,United States,No,M,No,No,No
+1040,2014-08-29 11:19:46,United States,Yes,F,No,Don't know,Yes
+1041,2014-08-29 11:20:13,United States,No,M,Yes,Yes,No
+1042,2014-08-29 11:20:28,United States,Yes,M,Yes,Yes,Yes
+1043,2014-08-29 11:20:52,United States,No,M,No,Yes,Yes
+1044,2014-08-29 11:22:46,United Kingdom,No,F,No,Yes,Yes
+1045,2014-08-29 11:23:21,Canada,Yes,F,No,Yes,Yes
+1047,2014-08-29 11:25:30,Brazil,Yes,M,No,No,Yes
+1048,2014-08-29 11:27:47,United States,No,M,Yes,No,Yes
+1049,2014-08-29 11:32:22,United Kingdom,Yes,M,Yes,No,Yes
+1050,2014-08-29 11:32:44,United States,Yes,F,No,Yes,Yes
+1051,2014-08-29 11:33:54,United States,Yes,F,No,No,Yes
+1052,2014-08-29 11:34:07,Switzerland,Yes,M,No,Don't know,Yes
+1053,2014-08-29 11:36:38,United States,No,M,Don't know,Don't know,No
+1054,2014-08-29 11:39:33,United States,No,M,Don't know,Don't know,Yes
+1055,2014-08-29 11:40:29,United States,Yes,M,Don't know,Yes,Yes
+1056,2014-08-29 11:43:12,United States,No,M,Don't know,Don't know,No
+1057,2014-08-29 11:44:33,United States,No,M,No,Don't know,No
+1059,2014-08-29 11:53:59,United States,No,F,Yes,Yes,Yes
+1060,2014-08-29 11:54:38,United States,No,F,No,Yes,Yes
+1061,2014-08-29 11:56:18,United States,No,M,No,Don't know,Yes
+1062,2014-08-29 12:00:33,United States,No,M,No,Don't know,No
+1063,2014-08-29 12:08:12,United States,No,M,No,Don't know,Yes
+1064,2014-08-29 12:15:57,Germany,Yes,M,No,No,Yes
+1065,2014-08-29 12:20:01,South Africa,Yes,M,No,Don't know,Yes
+1066,2014-08-29 12:26:21,United States,No,M,Don't know,Yes,No
+1067,2014-08-29 12:27:54,United States,No,M,Don't know,Yes,No
+1068,2014-08-29 12:45:11,United States,No,M,Yes,Yes,No
+1069,2014-08-29 12:48:20,Greece,No,M,No,No,No
+1070,2014-08-29 12:54:31,United States,No,F,No,No,Yes
+1071,2014-08-29 13:17:33,United States,No,M,Yes,Yes,Yes
+1072,2014-08-29 13:23:40,United States,No,M,Yes,Yes,Yes
+1073,2014-08-29 13:58:25,United States,No,M,No,Don't know,No
+1074,2014-08-29 14:04:59,United States,No,M,No,Yes,Yes
+1075,2014-08-29 14:09:21,United States,Yes,M,Yes,Yes,Yes
+1076,2014-08-29 14:31:00,United States,Yes,M,Don't know,Yes,Yes
+1077,2014-08-29 14:51:49,United States,Yes,F,Yes,Yes,Yes
+1078,2014-08-29 14:59:43,United States,Yes,F,Don't know,Yes,Yes
+1079,2014-08-29 15:10:39,Netherlands,No,M,No,No,Yes
+1080,2014-08-29 15:59:55,United States,Yes,M,No,No,Yes
+1081,2014-08-29 16:07:05,Netherlands,Yes,M,Yes,Don't know,Yes
+1082,2014-08-29 16:17:32,United States,Yes,F,No,Yes,Yes
+1083,2014-08-29 16:21:16,Canada,Yes,F,Don't know,Don't know,Yes
+1084,2014-08-29 16:30:50,United Kingdom,Yes,M,Yes,Yes,Yes
+1085,2014-08-29 16:50:08,Germany,No,M,No,Don't know,No
+1086,2014-08-29 16:51:31,Germany,No,M,No,Don't know,Yes
+1087,2014-08-29 16:56:06,United States,Yes,M,Yes,Yes,No
+1088,2014-08-29 17:04:07,United States,No,M,Don't know,Yes,Yes
+1089,2014-08-29 17:04:12,United States,Yes,F,Don't know,Yes,Yes
+1090,2014-08-29 17:26:15,United States,No,M,No,No,No
+1091,2014-08-29 17:32:31,United States,Yes,M,Don't know,Yes,No
+1092,2014-08-29 17:35:16,United States,Yes,M,No,No,Yes
+1093,2014-08-29 17:54:32,United States,No,M,Don't know,Yes,Yes
+1094,2014-08-29 18:33:32,United States,No,M,Yes,Yes,Yes
+1095,2014-08-29 18:39:07,United States,No,M,No,No,Yes
+1096,2014-08-29 19:32:13,United States,Yes,M,No,Don't know,Yes
+1097,2014-08-29 19:34:40,United States,Yes,M,Don't know,Yes,Yes
+1098,2014-08-29 20:53:09,United States,No,M,Don't know,Don't know,No
+1099,2014-08-29 20:53:58,United States,No,M,Don't know,Don't know,No
+1100,2014-08-29 21:26:44,United States,No,M,Yes,Yes,No
+1101,2014-08-29 21:28:14,United States,Yes,M,No,Don't know,Yes
+1102,2014-08-29 21:40:26,Canada,Yes,F,No,No,Yes
+1103,2014-08-29 22:08:51,United States,Yes,F,No,Don't know,Yes
+1104,2014-08-29 23:51:01,United States,No,M,No,Yes,No
+1105,2014-08-30 00:09:55,United States,No,M,Don't know,No,Yes
+1106,2014-08-30 03:55:19,France,No,M,No,No,Yes
+1107,2014-08-30 05:05:44,Australia,Yes,M,Don't know,No,Yes
+1108,2014-08-30 05:47:08,United States,No,F,Don't know,Yes,Yes
+1109,2014-08-30 06:48:28,India,No,M,No,No,Yes
+1110,2014-08-30 07:31:05,Croatia,Yes,M,Don't know,Yes,Yes
+1111,2014-08-30 11:48:52,France,No,M,No,Yes,Yes
+1112,2014-08-30 12:35:06,Germany,No,M,No,No,No
+1113,2014-08-30 13:23:57,United States,Yes,M,Don't know,Don't know,Yes
+1114,2014-08-30 13:48:34,United States,No,M,Don't know,Yes,No
+1115,2014-08-30 13:55:45,Canada,No,M,No,Yes,Yes
+1116,2014-08-30 14:00:22,United Kingdom,No,M,Don't know,Don't know,No
+1117,2014-08-30 15:57:04,United States,Yes,M,Don't know,Don't know,Yes
+1118,2014-08-30 16:13:40,United States,Yes,M,Yes,Yes,Yes
+1119,2014-08-30 16:38:02,United States,No,M,No,No,No
+1120,2014-08-30 18:29:00,United Kingdom,No,M,Yes,No,Yes
+1121,2014-08-30 19:35:58,United Kingdom,No,M,Yes,No,Yes
+1122,2014-08-30 19:56:23,United Kingdom,No,F,Don't know,Don't know,No
+1123,2014-08-30 20:12:33,United States,No,F,Don't know,Don't know,Yes
+1124,2014-08-30 20:19:37,United States,No,M,Don't know,Don't know,No
+1125,2014-08-30 20:43:51,Germany,Yes,M,No,No,Yes
+1126,2014-08-30 20:46:35,United States,No,F,Don't know,Don't know,Yes
+1128,2014-08-31 04:31:11,Netherlands,Yes,M,No,No,Yes
+1129,2014-08-31 09:19:43,United States,No,M,No,Yes,No
+1130,2014-08-31 15:03:12,United States,Yes,F,No,Yes,Yes
+1131,2014-08-31 15:23:16,United Kingdom,No,M,No,No,No
+1132,2014-08-31 16:48:13,United States,Yes,F,No,Yes,Yes
+1133,2014-08-31 22:11:48,New Zealand,No,M,Yes,No,Yes
+1134,2014-08-31 22:16:40,New Zealand,No,M,Yes,No,Yes
+1135,2014-09-01 04:28:55,United Kingdom,No,M,No,No,Yes
+1136,2014-09-01 06:52:31,United Kingdom,Yes,M,No,No,Yes
+1137,2014-09-01 06:53:28,United Kingdom,Yes,M,No,No,No
+1138,2014-09-01 08:19:15,Germany,Yes,M,No,Don't know,Yes
+1139,2014-09-01 08:23:15,United Kingdom,No,M,Don't know,Don't know,Yes
+1140,2014-09-01 09:12:15,Moldova,No,M,No,No,Yes
+1141,2014-09-01 09:15:34,Sweden,No,M,Don't know,Don't know,Yes
+1142,2014-09-01 10:06:14,Belgium,No,M,No,No,Yes
+1143,2014-09-01 10:40:32,United Kingdom,Yes,F,No,No,No
+1144,2014-09-01 12:00:28,Israel,No,M,Yes,No,No
+1145,2014-09-01 12:45:24,United States,Yes,F,No,Don't know,Yes
+1146,2014-09-01 17:59:14,United Kingdom,Yes,M,Don't know,No,Yes
+1147,2014-09-01 21:03:25,United Kingdom,Yes,M,No,No,Yes
+1148,2014-09-01 21:34:12,United States,Yes,M,Yes,Yes,Yes
+1149,2014-09-01 22:58:47,United States,No,M,Don't know,Yes,Yes
+1150,2014-09-02 03:13:53,United States,No,M,Yes,Yes,Yes
+1151,2014-09-02 04:00:58,United Kingdom,No,M,No,No,No
+1152,2014-09-02 08:00:33,Canada,Yes,M,Don't know,Don't know,Yes
+1153,2014-09-02 08:24:43,United Kingdom,Yes,F,Yes,Yes,Yes
+1154,2014-09-02 09:57:22,United States,Yes,M,No,Don't know,Yes
+1155,2014-09-02 13:18:35,Canada,No,M,No,Don't know,No
+1156,2014-09-02 17:04:56,Netherlands,No,M,Don't know,Don't know,No
+1157,2014-09-02 20:23:49,United Kingdom,Yes,M,Don't know,Don't know,No
+1158,2014-09-02 20:57:56,United States,Yes,M,No,No,Yes
+1159,2014-09-03 01:32:51,Singapore,No,M,Don't know,Don't know,No
+1160,2014-09-03 13:09:52,United States,No,M,No,Yes,Yes
+1161,2014-09-04 06:23:48,United Kingdom,No,M,Yes,Yes,No
+1162,2014-09-04 08:35:49,India,No,M,No,Don't know,No
+1163,2014-09-04 17:38:22,United States,Yes,M,Don't know,Don't know,Yes
+1164,2014-09-04 23:42:28,United States,No,F,No,Yes,Yes
+1165,2014-09-05 14:15:48,United States,Yes,M,Don't know,Yes,Yes
+1166,2014-09-05 14:19:00,United States,Yes,M,Yes,Yes,Yes
+1167,2014-09-08 00:52:31,Poland,No,M,No,Don't know,No
+1168,2014-09-08 16:46:53,Colombia,No,M,No,No,Yes
+1169,2014-09-08 21:30:59,United States,No,F,Don't know,Yes,Yes
+1170,2014-09-09 13:49:50,United States,No,M,No,Don't know,No
+1171,2014-09-11 17:00:30,United States,No,M,Yes,Yes,No
+1172,2014-09-12 19:18:18,United States,Yes,F,Yes,Yes,Yes
+1173,2014-09-13 07:52:27,United Kingdom,No,M,No,No,Yes
+1174,2014-09-14 09:04:08,Georgia,No,M,No,No,Yes
+1175,2014-09-14 20:50:05,United States,Yes,M,No,Don't know,No
+1176,2014-09-20 13:51:05,United States,Yes,F,No,Yes,Yes
+1177,2014-09-23 20:05:05,United States,No,M,Don't know,No,No
+1178,2014-09-26 08:45:56,China,No,M,No,No,Yes
+1179,2014-09-26 10:05:55,Bulgaria,No,F,No,No,Yes
+1181,2014-09-30 09:19:01,United States,Yes,M,Yes,Yes,Yes
+1182,2014-10-02 21:25:16,United States,Yes,F,Yes,Yes,No
+1183,2014-10-05 21:16:10,United States,Yes,F,No,No,Yes
+1184,2014-10-09 11:14:59,United States,No,F,No,No,Yes
+1186,2014-11-06 11:24:38,United States,No,F,Don't know,Don't know,Yes
+1187,2014-11-16 08:42:35,United States,Yes,M,No,Yes,Yes
+1188,2014-12-01 09:58:28,Belgium,No,F,No,Don't know,No
+1189,2014-12-15 00:43:49,United States,Yes,M,No,Yes,Yes
+1190,2015-01-03 03:38:30,United States,Yes,M,Yes,Yes,Yes
+1191,2015-02-21 04:16:05,Canada,Yes,M,Yes,Yes,Yes
+1192,2015-02-21 04:16:23,United Kingdom,No,M,No,Don't know,No
+1193,2015-02-21 04:18:48,Italy,No,M,Don't know,Don't know,No
+1194,2015-02-21 04:19:28,Germany,No,M,No,Don't know,No
+1195,2015-02-21 04:23:05,Ireland,No,F,No,Yes,Yes
+1196,2015-02-21 04:32:45,Ireland,No,F,No,Don't know,Yes
+1197,2015-02-21 04:34:56,Ireland,No,M,No,No,Yes
+1198,2015-02-21 04:41:28,United States,No,M,Don't know,Yes,Yes
+1199,2015-02-21 04:51:53,Ireland,No,M,Don't know,Don't know,No
+1200,2015-02-21 04:55:11,Australia,No,M,No,No,Yes
+1201,2015-02-21 05:11:37,United States,No,F,No,Yes,Yes
+1202,2015-02-21 05:34:27,Brazil,No,M,No,No,No
+1203,2015-02-21 05:55:13,United Kingdom,No,M,No,Don't know,No
+1204,2015-02-21 05:55:17,Ireland,Yes,M,No,No,No
+1205,2015-02-21 06:06:09,Ireland,No,M,No,No,Yes
+1206,2015-02-21 06:19:41,United Kingdom,Yes,M,No,Don't know,Yes
+1207,2015-02-21 08:21:36,United States,No,M,No,No,Yes
+1208,2015-02-21 08:54:40,Czech Republic,Yes,M,No,No,Yes
+1209,2015-02-21 08:56:27,Singapore,Yes,M,No,Don't know,Yes
+1210,2015-02-21 09:10:26,Ireland,Yes,M,No,No,No
+1211,2015-02-21 09:16:45,Ireland,No,M,No,Don't know,No
+1212,2015-02-21 09:18:20,United Kingdom,No,F,Yes,No,Yes
+1213,2015-02-21 09:19:12,Philippines,No,M,No,Don't know,Yes
+1214,2015-02-21 09:22:23,United States,No,M,No,Yes,Yes
+1215,2015-02-21 09:29:20,Netherlands,No,M,No,No,No
+1216,2015-02-21 09:30:14,United Kingdom,No,M,Yes,Don't know,Yes
+1217,2015-02-21 09:30:29,Ireland,No,M,No,No,No
+1218,2015-02-21 09:33:29,Netherlands,No,M,No,No,No
+1219,2015-02-21 09:48:13,United States,No,M,Yes,Yes,Yes
+1220,2015-02-21 10:00:50,United States,Yes,M,No,Don't know,Yes
+1221,2015-02-21 10:45:51,United States,Yes,M,Don't know,Don't know,Yes
+1222,2015-02-21 11:48:52,Netherlands,No,F,Yes,Don't know,Yes
+1224,2015-02-21 13:19:11,Ireland,Yes,M,Yes,Yes,Yes
+1225,2015-02-21 15:28:57,Ireland,No,F,No,No,Yes
+1226,2015-02-21 17:19:18,Netherlands,No,M,Don't know,Yes,No
+1227,2015-02-21 18:54:12,Ireland,Yes,F,Yes,Yes,No
+1228,2015-02-21 18:59:05,United States,Yes,M,No,Don't know,Yes
+1229,2015-02-22 02:40:32,Greece,No,M,No,No,No
+1230,2015-02-24 08:54:35,United Kingdom,Yes,F,Yes,No,Yes
+1232,2015-02-24 09:00:56,United Kingdom,Yes,M,Yes,Yes,Yes
+1233,2015-02-24 09:13:49,United Kingdom,No,M,No,No,Yes
+1235,2015-02-24 09:18:25,Canada,No,M,Don't know,Yes,Yes
+1236,2015-02-24 10:32:32,United States,No,M,Don't know,Don't know,Yes
+1237,2015-02-26 05:44:16,Ireland,No,M,No,No,Yes
+1238,2015-04-02 15:47:43,United States,Yes,M,Yes,Yes,Yes
+1239,2015-04-04 11:22:05,Netherlands,No,M,No,Don't know,Yes
+1240,2015-04-06 14:58:29,Germany,Yes,M,No,Don't know,Yes
+1241,2015-04-11 14:35:22,Poland,No,M,No,No,Yes
+1242,2015-04-23 14:03:51,Ireland,No,M,Don't know,Don't know,Yes
+1243,2015-05-05 14:22:18,United States,Yes,F,Yes,Yes,Yes
+1244,2015-05-05 15:16:25,United Kingdom,No,F,Don't know,No,No
+1245,2015-05-06 10:14:50,Australia,Yes,M,Yes,Yes,Yes
+1246,2015-05-06 16:55:58,United States,No,M,Yes,Yes,No
+1247,2015-05-07 10:08:50,Finland,No,M,No,No,Yes
+1248,2015-06-25 12:24:31,United States,Yes,F,Don't know,Yes,Yes
+1249,2015-07-22 18:57:54,United States,Yes,M,No,Yes,Yes
+1250,2015-07-27 23:25:34,United States,Yes,M,Yes,Yes,Yes
+1251,2015-08-17 09:38:35,South Africa,Yes,M,No,No,Yes
+1252,2015-08-20 16:52:09,United States,Yes,M,No,Yes,Yes
+1253,2015-08-25 19:59:38,United States,Yes,M,Yes,Don't know,Yes
+1254,2015-09-12 11:17:21,United Kingdom,No,M,No,No,No
+1255,2015-09-26 01:07:35,United States,Yes,M,No,Yes,Yes
+1256,2015-11-07 12:36:58,United States,Yes,M,No,Yes,Yes
+1257,2015-11-30 21:25:06,United States,No,F,No,No,No
+1258,2016-02-01 23:04:31,United States,Yes,M,No,Yes,Yes
