@@ -1,4 +1,4 @@
-name: 'env'
+name: 'dash_env'
 channels:
   - conda-forge
   - defaults
