@@ -29,19 +29,21 @@ This app will visualize the dataset that contains information on approximately 1
 
 Some research questions that could be answered by this dashboard are:
 
-- Which country has the highest possibility to encounter mental illness problem for living in 2014?
+- Which country has the most survey participants regarding mental illness problem in 2014?
 
-- Does female have a higher chance to face much working pressure leading to mental illnesses compared with a male?
+- What is the percentage that an individual sought for help by geographic location in 2014?
 
-- Do self-employed people work under much more pressure than others? 
+- How many survey participants have a family history of mental illness problem?
 
-- Does family history pose a threat to mental health?
+- What is the percentage that a survey participant's company provides workplace benefits?
 
 ## Usage scenarios 
 
-Jack is deciding where to move for working as a software engineer.
+Jack is working as a software engineer and he has a strong interest in mental health and frequency of mental health disorders in the tech workplace.
 
-Jack will relocate to North America or Europe and he wants to understand which country might provide a better work-life balance for him since IT workers usually undertake too much pressure. To work under a healthy mental environment is one of the most important indicators that he cares about. Hence he wants to be able to explore a dataset of mental illness records among different countries to give him a reference before moving. When Jack logs onto this App, he will see an overview of the distribution of the counts of mental illnesses across different countries such as USA, Canada, France, etc, indicating which country might have higher possibility to work under more pressure. Therefore, our dashboard can provide him with a sense of relocation. Jack can also filter for the certain countries that he has a strong interest in and understand more details in terms of one country. For instance, as we know that there are lots of states in the USA and each state might form a different distribution as well as the chance to encounter mental illnesses. If Jack is more concerned about what reasons causing a higher rate of mental illnesses, he can also utilize other filters of our App, such as the filter to differentiate whether the individuals work for a tech company or not, whether the companies those individuals work accept remote work or not, whether the family history leads to a mental health problem, etc. Jack can also filter for data in 2014 or any other available year according to the source data to see more recent and relevant mental illness statistics. Finally, Jack hypothesizes that country X provide his the best work-life balance to live in. Jack decides he needs to do further research on rental prices in this country to determine if he could afford to live there.
+This APP has completed a dashboard including 4 plots corresponding to the relationship among location, family history, workplace benefits, gender, whether an individual sought help. Jack can utilize the buttons from the menu on the left panel, he can filter the appropriate factors that affect mental health by year or by geographic location. The location filter affects the first bar plot in the top left and Jack can choose the countries that he wants to see. For example, Jack can filter the USA, Canada, the UK, France, etc. By changing the date, all the 4 plots will only include the corresponding input date range. Hence, Jack can fix a certain period that they are extremely interested in. Jack can also filter the plots for a particular gender by clicking on the corresponding gender on the legend.
+
+In the right panel, there are 4 bar plots to represent the proportion of the population based on country, family history, workplace benefits, whether an individual sought help, separately. All the plots are divided by gender using facets as well. From the distribution display on the right-hand side, he can get information about the percentage of all the survey participants with illnesses by demographics, the influence an employee's family history has on their mental illnesses, the influence workplace mental health benefits have on the employee's mental health and finally whether the employee sought help for their illness or not. Jack can also further analyze the distribution display the role gender has on an employee's mental health which can further be filtered by the options mentioned above.
 
 # Reference 
 
