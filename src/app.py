@@ -14,8 +14,8 @@ m_data = pd.read_csv("data/processed/processed_survey.csv")
 m_data['Timestamp'] = pd.to_datetime(m_data['Timestamp'])
 sdate = m_data['Timestamp'].min()
 edate = m_data['Timestamp'].max()
-all_countries = m_data['Country'].unique()
-some_countries = all_countries[:5]
+all_states = m_data['state'].unique()
+some_states = all_states[:5]
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 server = app.server
 
@@ -40,8 +40,8 @@ sidebar = html.Div(
             "Filter By: ", className="lead"
         ),
         html.Div([ # Filter by Countries Widget
-            html.Label(['Countries:', dcc.Dropdown(id = 'country_wid', value = some_countries,
-         options=[{'label': con, 'value': con } for con in all_countries], multi = True, style = {'color': 'black'})]),
+            html.Label(['States:', dcc.Dropdown(id = 'state_wid', value = some_states,
+         options=[{'label': st, 'value': st } for st in all_states], multi = True, style = {'color': 'black'})]),
         html.Hr(),
         # Filter by Dates Widget
         html.Label(['Dates:', dcc.DatePickerRange(id='date_range', start_date = sdate, end_date= edate, style = {'display' : "inline-block"})]) 
@@ -55,7 +55,7 @@ CONTENT_STYLE = {
 }
 
 # Organize Charts into Grid Style
-content = html.Div([dbc.Row([dbc.Col([html.Iframe(id = 'country_bar', style={'border-width': '0', 'width': '150%', 'height': '450px'})]),
+content = html.Div([dbc.Row([dbc.Col([html.Iframe(id = 'state_bar', style={'border-width': '0', 'width': '150%', 'height': '450px'})]),
                        dbc.Col([html.Iframe(id = 'fam_hist', style={'border-width': '0', 'width': '150%', 'height': '450px'})])]),
                dbc.Row([dbc.Col([html.Iframe(id = 'sought_help', style={'border-width': '0', 'width': '150%', 'height': '450px'})]),
                         dbc.Col([html.Iframe(id = 'benefits', style={'border-width': '0', 'width': '150%', 'height': '450px'})])])], style = CONTENT_STYLE)
@@ -67,43 +67,43 @@ app.layout = html.Div([sidebar, content])
 
 
 @app.callback(
-    Output('country_bar', 'srcDoc'),
-    Input('country_wid', 'value'),
+    Output('state_bar', 'srcDoc'),
+    Input('state_wid', 'value'),
     Input('date_range', 'start_date'),
     Input('date_range', 'end_date')
 )
 
 # plot the Country Frequency Bar Chart
-def plot_country_bar(countries, start_date, end_date):
-    data = m_data[m_data['Country'].isin(countries)]
+def plot_state_bar(states, start_date, end_date):
+    data = m_data[m_data['state'].isin(states)]
     data = data[(data['Timestamp'] >= start_date) & (data['Timestamp'] <= end_date)]
     chart = alt.Chart(data, title = 'Location of Respondent and Whether They Sought Help').mark_bar().encode(
-        x = alt.X('Country', sort = '-y'),
-        y = alt.Y('sum(prop)', axis=alt.Axis(format='%'), title='Proportion of population'), 
-        tooltip = 'sum(prop)', 
+        x = alt.X('state', sort = '-y'),
+        y = alt.Y('count()', title='Count of Participants'), 
+        tooltip = 'count()', 
         color = alt.Color('seek_help', title = 'Sought Help')).properties(width=300)
     return chart.to_html()
 
 
 @app.callback(
     Output('fam_hist', 'srcDoc'),
-    Input('country_wid', 'value'),
+    Input('state_wid', 'value'),
     Input('date_range', 'start_date'),
     Input('date_range', 'end_date')
 )
 
 # Plot Family History Bar Chart
-def plot_fam_hist_bar(countries, start_date, end_date):
+def plot_fam_hist_bar(states, start_date, end_date):
     # filter data
 
     click = alt.selection_multi(fields=['Gender'], bind='legend')
-    data = m_data[m_data['Country'].isin(countries)]
+    data = m_data[m_data['state'].isin(states)]
     data = data[(data['Timestamp'] >= start_date) & (data['Timestamp'] <= end_date)]
     chart = alt.Chart(data, title = 'Family History of Mental Illness vs Gender').mark_bar().encode(
-        x = alt.X('Gender', axis = None),
-        y = alt.Y('sum(prop)', axis=alt.Axis(format='%'), title='Proportion of population'), 
-        tooltip = 'sum(prop)',
-        color = 'Gender',
+        x = alt.X('state', axis = None),
+        y = alt.Y('count()', title='Proportion of population'), 
+        tooltip = 'count()',
+        color = 'state',
         column = alt.Column('family_history', title = 'Whether Family Has History of Mental Illness', header=alt.Header(
             titleOrient = 'bottom', labelOrient = 'bottom')),
         opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width=75)
@@ -114,40 +114,40 @@ def plot_fam_hist_bar(countries, start_date, end_date):
 
 @app.callback(
     Output('sought_help', 'srcDoc'),
-    Input('country_wid', 'value'),
+    Input('state_wid', 'value'),
     Input('date_range', 'start_date'),
     Input('date_range', 'end_date')
 )
 
 # Plot Sought Help Bar Chart
-def plot_sought_help(countries, start_date, end_date):
+def plot_sought_help(states, start_date, end_date):
     click = alt.selection_multi(fields=['Gender'], bind='legend')
-    data = m_data[m_data['Country'].isin(countries)]
+    data = m_data[m_data['state'].isin(states)]
     data = data[(data['Timestamp'] >= start_date) & (data['Timestamp'] <= end_date)]
     chart = alt.Chart(data, title = 'Sought Help vs Gender').mark_bar().encode(
         x = alt.X('Gender', axis = None),
-        y = alt.Y('sum(prop)', axis=alt.Axis(format='%'), title='Proportion of population'), 
-        tooltip = 'sum(prop)', column = alt.Column('seek_help', title = 'Sought Help or Not', header=alt.Header(
+        y = alt.Y('count()', title='Proportion of population'), 
+        tooltip = 'count()', column = alt.Column('seek_help', title = 'Sought Help or Not', header=alt.Header(
             titleOrient = 'bottom', labelOrient = 'bottom')),
         color = 'Gender', opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width = 75)
     return chart.to_html()
 
 @app.callback(
     Output('benefits', 'srcDoc'),
-    Input('country_wid', 'value'),
+    Input('state_wid', 'value'),
     Input('date_range', 'start_date'),
     Input('date_range', 'end_date')
 )
 
 # Plot Benefits Bar Chart
-def plot_benefits(countries, start_date, end_date):
+def plot_benefits(states, start_date, end_date):
     click = alt.selection_multi(fields=['Gender'], bind='legend')
-    data = m_data[m_data['Country'].isin(countries)]
+    data = m_data[m_data['state'].isin(states)]
     data = data[(data['Timestamp'] >= start_date) & (data['Timestamp'] <= end_date)]
     chart = alt.Chart(data, title = 'Workplace Benefits vs Gender').mark_bar().encode(
         x = alt.X('Gender', axis = None),
-        y = alt.Y('sum(prop)', axis=alt.Axis(format='%'), title='Proportion of population'), 
-        tooltip = 'sum(prop)',
+        y = alt.Y('count()', title='Proportion of population'), 
+        tooltip = 'count()',
         color = 'Gender', column = alt.Column('benefits', title = 'Does Company Provide Benefits', header=alt.Header(
             titleOrient = 'bottom', labelOrient = 'bottom')),
             opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width=75)
