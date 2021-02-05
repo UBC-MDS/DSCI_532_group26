@@ -1,4 +1,4 @@
-# An App to report Survey on Mental Health in the Tech Workplace in 2014 
+# An App to report Survey on Mental Health in the Tech Workplace
 
 Contributors | Github | 
 --- | --- |
