@@ -14,8 +14,8 @@ m_data = pd.read_csv("data/processed/processed_survey.csv")
 m_data['Timestamp'] = pd.to_datetime(m_data['Timestamp'])
 sdate = m_data['Timestamp'].min()
 edate = m_data['Timestamp'].max()
-all_countries = m_data['Country'].unique()
-some_countries = all_countries[:5]
+all_states = m_data['state'].unique()
+some_states = all_states[:3]
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 server = app.server
 
@@ -40,8 +40,8 @@ sidebar = html.Div(
             "Filter By: ", className="lead"
         ),
         html.Div([ # Filter by Countries Widget
-            html.Label(['Countries:', dcc.Dropdown(id = 'country_wid', value = some_countries,
-         options=[{'label': con, 'value': con } for con in all_countries], multi = True, style = {'color': 'black'})]),
+            html.Label(['States:', dcc.Dropdown(id = 'state_wid', value = some_states,
+         options=[{'label': st, 'value': st } for st in all_states], multi = True, style = {'color': 'black'})]),
         html.Hr(),
         # Filter by Dates Widget
         html.Label(['Dates:', dcc.DatePickerRange(id='date_range', start_date = sdate, end_date= edate, style = {'display' : "inline-block"})]) 
@@ -49,109 +49,203 @@ sidebar = html.Div(
 )], style=SIDEBAR_STYLE,)
 
 CONTENT_STYLE = {
-    "margin-left": "18rem",
-    "margin-right": "2rem",
-    "padding": "2rem 1rem",
+    "margin-left": "6rem"
 }
 
 # Organize Charts into Grid Style
-content = html.Div([dbc.Row([dbc.Col([html.Iframe(id = 'country_bar', style={'border-width': '0', 'width': '150%', 'height': '450px'})]),
-                       dbc.Col([html.Iframe(id = 'fam_hist', style={'border-width': '0', 'width': '150%', 'height': '450px'})])]),
-               dbc.Row([dbc.Col([html.Iframe(id = 'sought_help', style={'border-width': '0', 'width': '150%', 'height': '450px'})]),
-                        dbc.Col([html.Iframe(id = 'benefits', style={'border-width': '0', 'width': '150%', 'height': '450px'})])])], style = CONTENT_STYLE)
+#content = dbc.Container([dbc.Row([dbc.Col([html.Iframe(id = 'state_bar', style={'border-width': '0', 'width': '100%', 'height': '400px'})]),
+ #                      dbc.Col([html.Iframe(id = 'fam_hist', style={'border-width': '0', 'width': '150%', 'height': '450px'})])]),
+  #                  dbc.Row([dbc.Col([html.Iframe(id = 'sought_help', style={'border-width': '0', 'width': '150%', 'height': '450px'})]),
+   #                    dbc.Col([html.Iframe(id = 'benefits', style={'border-width': '0', 'width': '150%', 'height': '450px'})])]),
+    #                dbc.Row([dbc.Col([html.Iframe(id = 'interfere', style={'border-width': '0', 'width': '150%', 'height': '450px'})]),
+     #                        dbc.Col([html.Iframe(id = 'supervisor', style={'border-width': '0', 'width': '150%', 'height': '450px'})])])])
+
+overall = html.Div(dbc.Container([dbc.Row([dbc.Col([html.H3("Tech Worker Mental Health Tracker"), html.Hr(),
+                                                    html.P("Filter By: ", className="lead"),
+                                                    html.Br(),
+                                                    html.Label(['States:', dcc.Dropdown(id = 'state_wid', value = some_states,
+                                 options=[{'label': st, 'value': st } for st in all_states], multi = True, style = {'color': 'black'})]),
+                                                    html.Br(),
+                                                    html.Br(),
+                                                    html.Label(['Gender:', dbc.RadioItems(id = 'gender_radio',
+                                                                                           options = [{'label': 'All', 'value':['F','M']},
+                                                                                                      {'label': 'Male', 'value': ['M']},
+                                                                                                      {'label': 'Female', 'value': ['F']}
+                                                                                                     ],  value = ['F','M'])]),
+                                                    html.Br(),
+                                                    html.Br(),
+                                                    html.Label(['Remote Work:', dbc.RadioItems(id = 'remote_work',
+                                                                                              options = [{'label': 'All', 'value':['Yes','No']},
+                                                                                                      {'label': 'Yes', 'value': ['Yes']},
+                                                                                                      {'label': 'No', 'value': ['No']}],
+                                                                                                       value = ['Yes', 'No'])])], md = 2,
+                                  style={'background-color': '#15599e',
+                                         "color": "white",
+                                         'padding': 10,
+                                         'border-radius': 3,
+                                         'left': 0,
+                                         "position": "fixed",
+                                         "top": 0, "bottom": 0}),
+                                  dbc.Col([dbc.Row([dbc.Col(dbc.Card([dbc.CardHeader('Did You Seek Treatment for Mental Illness', style={'fontWeight': 'bold'}),
+                                                                     dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'state_bar', style={'border-width': '0', 'width': '100%', 'height': '400px'}) ))]), width = 'auto'),
+                                                   dbc.Col(dbc.Card([dbc.CardHeader('Does Employer Take Mental Illness Seriously', style={'fontWeight': 'bold'} ),
+                                                                     dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'serious', style={'border-width': '0', 'width': '150%', 'height': '400px'})))], style={"width": "30rem"}), width = 'auto')]),
+                                                   html.Br(),
+                                           dbc.Row([dbc.Col(dbc.Card([dbc.CardHeader('Easiness to Leave Work Due to Mental Reason', style={'fontWeight': 'bold'}),
+                                                                    dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'leave_work', style = {'border-width': '0', 'width': '100%', 'height': '400px'}) ))], style={"width": "38rem"}), width = 'auto'),
+                                                    dbc.Col(dbc.Card([dbc.CardHeader('Workplace Benefits Between States', style={'fontWeight': 'bold'}),
+                                                                    dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'benefits', style = {'border-width': '0', 'width': '100%', 'height': '400px'})))], style={"width": "21rem"}))]),
+                                                    html.Br(),
+                                           dbc.Row([dbc.Col(dbc.Card([dbc.CardHeader('Does Your Mental Illness Interfere With Work',style={'fontWeight': 'bold'}),
+                                                                    dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'interfere', style = {'border-width': '0', 'width': '100%', 'height': '400px'})))], style={"width": "32rem"})),
+                                                    dbc.Col(dbc.Card([dbc.CardHeader('Do You Talk to Your Supervisors?', style={'fontWeight': 'bold'}),
+                                                                    dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'supervisor', style ={'border-width': '0', 'width': '100%', 'height': '400px'}) ))]))])], style = CONTENT_STYLE )])]))
 
 
 
-app.layout = html.Div([sidebar, content])
+app.layout = html.Div([overall])
 
 
 
 @app.callback(
-    Output('country_bar', 'srcDoc'),
-    Input('country_wid', 'value'),
-    Input('date_range', 'start_date'),
-    Input('date_range', 'end_date')
+    Output('state_bar', 'srcDoc'),
+    Input('state_wid', 'value'),
+    Input('gender_radio', 'value'),
+    Input('remote_work', 'value')
 )
 
 # plot the Country Frequency Bar Chart
-def plot_country_bar(countries, start_date, end_date):
-    data = m_data[m_data['Country'].isin(countries)]
-    data = data[(data['Timestamp'] >= start_date) & (data['Timestamp'] <= end_date)]
-    chart = alt.Chart(data, title = 'Location of Respondent and Whether They Sought Help').mark_bar().encode(
-        x = alt.X('Country', sort = '-y'),
-        y = alt.Y('sum(prop)', axis=alt.Axis(format='%'), title='Proportion of population'), 
-        tooltip = 'sum(prop)', 
-        color = alt.Color('seek_help', title = 'Sought Help')).properties(width=300)
+def plot_state_bar(states, gender, remote):
+    click = alt.selection_multi(fields=['state'], bind='legend')
+    data = m_data[m_data['state'].isin(states)]
+    data = data[data['Gender'].isin(gender)]
+    data = data[data['remote_work'].isin(remote)]
+    chart = alt.Chart(data).mark_bar().encode(
+        x = alt.X('state', axis = None),
+        y = alt.Y('count()', title='Count of Participants'), 
+        tooltip = 'count()',
+        color = 'state',
+        column = alt.Column('treatment', title = 'Sought Treatment or Not', header=alt.Header(
+            titleOrient = 'bottom', labelOrient = 'bottom')),
+        opacity = alt.condition(click, alt.value(0.9), alt.value(0.1))).add_selection(click).properties(width=100)
     return chart.to_html()
 
 
 @app.callback(
-    Output('fam_hist', 'srcDoc'),
-    Input('country_wid', 'value'),
-    Input('date_range', 'start_date'),
-    Input('date_range', 'end_date')
+    Output('serious', 'srcDoc'),
+    Input('state_wid', 'value'),
+    Input('gender_radio', 'value'),
+    Input('remote_work', 'value')
 )
 
 # Plot Family History Bar Chart
-def plot_fam_hist_bar(countries, start_date, end_date):
+def plot_seriousness_bar(states, gender, remote):
     # filter data
 
-    click = alt.selection_multi(fields=['Gender'], bind='legend')
-    data = m_data[m_data['Country'].isin(countries)]
-    data = data[(data['Timestamp'] >= start_date) & (data['Timestamp'] <= end_date)]
-    chart = alt.Chart(data, title = 'Family History of Mental Illness vs Gender').mark_bar().encode(
-        x = alt.X('Gender', axis = None),
-        y = alt.Y('sum(prop)', axis=alt.Axis(format='%'), title='Proportion of population'), 
-        tooltip = 'sum(prop)',
-        color = 'Gender',
-        column = alt.Column('family_history', title = 'Whether Family Has History of Mental Illness', header=alt.Header(
+    click = alt.selection_multi(fields=['state'], bind='legend')
+    data = m_data[m_data['state'].isin(states)]
+    data = data[data['Gender'].isin(gender)]
+    data = data[data['remote_work'].isin(remote)]
+    chart = alt.Chart(data).mark_bar().encode(
+        x = alt.X('state', axis = None),
+        y = alt.Y('count()', title='Count of Participants'), 
+        tooltip = 'count()',
+        color = 'state',
+        column = alt.Column('mental_vs_physical', title = 'Does Employer Take Mental Illness Seriously', header=alt.Header(
             titleOrient = 'bottom', labelOrient = 'bottom')),
-        opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width=75)
+        opacity = alt.condition(click, alt.value(0.9), alt.value(0.1))).add_selection(click).properties(width=100)
     return chart.to_html()
 
 
 
 
 @app.callback(
-    Output('sought_help', 'srcDoc'),
-    Input('country_wid', 'value'),
-    Input('date_range', 'start_date'),
-    Input('date_range', 'end_date')
+    Output('leave_work', 'srcDoc'),
+    Input('state_wid', 'value'),
+    Input('gender_radio', 'value'),
+    Input('remote_work', 'value')
 )
 
 # Plot Sought Help Bar Chart
-def plot_sought_help(countries, start_date, end_date):
-    click = alt.selection_multi(fields=['Gender'], bind='legend')
-    data = m_data[m_data['Country'].isin(countries)]
-    data = data[(data['Timestamp'] >= start_date) & (data['Timestamp'] <= end_date)]
-    chart = alt.Chart(data, title = 'Sought Help vs Gender').mark_bar().encode(
-        x = alt.X('Gender', axis = None),
-        y = alt.Y('sum(prop)', axis=alt.Axis(format='%'), title='Proportion of population'), 
-        tooltip = 'sum(prop)', column = alt.Column('seek_help', title = 'Sought Help or Not', header=alt.Header(
+def plot_sought_help(states, gender, remote):
+    click = alt.selection_multi(fields=['state'], bind='legend')
+    data = m_data[m_data['state'].isin(states)]
+    data = data[data['Gender'].isin(gender)]
+    data = data[data['remote_work'].isin(remote)]
+    chart = alt.Chart(data).mark_bar().encode(
+        x = alt.X('state', axis = None),
+        y = alt.Y('count()', title='Count of Participants'), 
+        tooltip = 'count()', column = alt.Column('leave', title = 'Easy or Difficult', header=alt.Header(
             titleOrient = 'bottom', labelOrient = 'bottom')),
-        color = 'Gender', opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width = 75)
+        color = 'state', opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width = 75)
     return chart.to_html()
 
 @app.callback(
     Output('benefits', 'srcDoc'),
-    Input('country_wid', 'value'),
-    Input('date_range', 'start_date'),
-    Input('date_range', 'end_date')
+    Input('state_wid', 'value'),
+    Input('gender_radio', 'value'),
+    Input('remote_work', 'value')
 )
 
 # Plot Benefits Bar Chart
-def plot_benefits(countries, start_date, end_date):
-    click = alt.selection_multi(fields=['Gender'], bind='legend')
-    data = m_data[m_data['Country'].isin(countries)]
-    data = data[(data['Timestamp'] >= start_date) & (data['Timestamp'] <= end_date)]
-    chart = alt.Chart(data, title = 'Workplace Benefits vs Gender').mark_bar().encode(
-        x = alt.X('Gender', axis = None),
-        y = alt.Y('sum(prop)', axis=alt.Axis(format='%'), title='Proportion of population'), 
-        tooltip = 'sum(prop)',
-        color = 'Gender', column = alt.Column('benefits', title = 'Does Company Provide Benefits', header=alt.Header(
+def plot_benefits(states, gender, remote):
+    click = alt.selection_multi(fields=['state'], bind='legend')
+    data = m_data[m_data['state'].isin(states)]
+    data = data[data['Gender'].isin(gender)]
+    data = data[data['remote_work'].isin(remote)]
+    chart = alt.Chart(data).mark_bar().encode(
+        x = alt.X('state', axis = None),
+        y = alt.Y('count()', title='Count of Participants'), 
+        tooltip = 'count()',
+        color = 'state', column = alt.Column('benefits', title = 'Does Company Provide Benefits', header=alt.Header(
+            titleOrient = 'bottom', labelOrient = 'bottom')),
+            opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width=50)
+    return chart.to_html()
+
+
+@app.callback(
+    Output('interfere', 'srcDoc'),
+    Input('state_wid', 'value'),
+    Input('gender_radio', 'value'),
+    Input('remote_work', 'value')
+)
+
+# Plot Benefits Bar Chart
+def plot_interfere(states, gender, remote):
+    click = alt.selection_multi(fields=['state'], bind='legend')
+    data = m_data[m_data['state'].isin(states)]
+    data = data[data['Gender'].isin(gender)]
+    data = data[data['remote_work'].isin(remote)]
+    chart = alt.Chart(data).mark_bar().encode(
+        x = alt.X('state', axis = None),
+        y = alt.Y('count()', title='Count of Participants'), 
+        tooltip = 'count()',
+        color = 'state', column = alt.Column('work_interfere', title = 'Does Your Mental Illness Interfere With Work?', header=alt.Header(
             titleOrient = 'bottom', labelOrient = 'bottom')),
             opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width=75)
     return chart.to_html()
+
+
+@app.callback(
+    Output('supervisor', 'srcDoc'),
+    Input('state_wid', 'value'),
+    Input('gender_radio', 'value'),
+    Input('remote_work', 'value')
+)
+
+def plot_supervisor(states, gender, remote):
+    data = m_data[m_data['state'].isin(states)]
+    data = data[data['Gender'].isin(gender)]
+    data = data[data['remote_work'].isin(remote)]
+    chart = alt.Chart(data).mark_bar().encode(
+        x = alt.X('work_interfere', axis = None),
+        y = alt.Y('count()', title='Count of Participants'), 
+        tooltip = 'count()',
+        color = 'work_interfere', column = alt.Column('supervisor', title = 'Have You Talked With Supervisor?', header=alt.Header(
+            titleOrient = 'bottom', labelOrient = 'bottom'))).properties(width=75)
+    return chart.to_html()
+
+
 
 
 
