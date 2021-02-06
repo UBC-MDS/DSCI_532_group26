@@ -116,6 +116,26 @@ app.layout = html.Div([overall])
 
 # plot the Country Frequency Bar Chart
 def plot_state_bar(states, gender, remote):
+    """Plot the Country Frequency Bar Chart
+    
+    Use mental health csv file to plot the country frequency bar chart 
+    by state, gender and remote work status.
+
+    Parameters
+    ----------
+    states : string
+        the abbreviation of the USA states
+    gender : string
+        male or female
+    remote : string
+        the remote work status of an employee, yes or no
+
+    Returns
+    -------
+    chart
+        the country frequency bar chart
+
+    """
     click = alt.selection_multi(fields=['state'], bind='legend')
     data = m_data[m_data['state'].isin(states)]
     data = data[data['Gender'].isin(gender)]
@@ -138,10 +158,30 @@ def plot_state_bar(states, gender, remote):
     Input('remote_work', 'value')
 )
 
-# Plot Family History Bar Chart
+# Plot the Family History Bar Chart
 def plot_seriousness_bar(states, gender, remote):
-    # filter data
+    """Plot the Family History Bar Chart
+    
+    Use mental health csv file to plot the family history bar chart 
+    by state, gender and remote work status.
 
+    Parameters
+    ----------
+    states : string
+        the abbreviation of the USA states
+    gender : string
+        male or female
+    remote : string
+        the remote work status of an employee, yes or no
+
+    Returns
+    -------
+    chart
+        the family history bar chart 
+
+    """
+
+    # filter data
     click = alt.selection_multi(fields=['state'], bind='legend')
     data = m_data[m_data['state'].isin(states)]
     data = data[data['Gender'].isin(gender)]
@@ -166,8 +206,28 @@ def plot_seriousness_bar(states, gender, remote):
     Input('remote_work', 'value')
 )
 
-# Plot Sought Help Bar Chart
+# Plot the Sought Help Bar Chart
 def plot_sought_help(states, gender, remote):
+    """Plot the Sought Help Bar Chart
+    
+    Use mental health csv file to plot the sought help bar chart 
+    by state, gender and remote work status.
+
+    Parameters
+    ----------
+    states : string
+        the abbreviation of the USA states
+    gender : string
+        male or female
+    remote : string
+        the remote work status of an employee, yes or no
+
+    Returns
+    -------
+    chart
+        the sought help bar chart 
+
+    """
     click = alt.selection_multi(fields=['state'], bind='legend')
     data = m_data[m_data['state'].isin(states)]
     data = data[data['Gender'].isin(gender)]
@@ -187,8 +247,28 @@ def plot_sought_help(states, gender, remote):
     Input('remote_work', 'value')
 )
 
-# Plot Benefits Bar Chart
+# Plot the Benefits Bar Chart
 def plot_benefits(states, gender, remote):
+    """Plot the Benefits Bar Chart
+    
+    Use mental health csv file to plot the benefits bar chart 
+    by state, gender and remote work status.
+
+    Parameters
+    ----------
+    states : string
+        the abbreviation of the USA states
+    gender : string
+        male or female
+    remote : string
+        the remote work status of an employee, yes or no
+
+    Returns
+    -------
+    chart
+        the benefits bar chart 
+
+    """
     click = alt.selection_multi(fields=['state'], bind='legend')
     data = m_data[m_data['state'].isin(states)]
     data = data[data['Gender'].isin(gender)]
@@ -210,8 +290,28 @@ def plot_benefits(states, gender, remote):
     Input('remote_work', 'value')
 )
 
-# Plot Benefits Bar Chart
+# Plot the Work Interfere Bar Chart
 def plot_interfere(states, gender, remote):
+    """Plot the Work Interfere Bar Chart
+    
+    Use mental health csv file to plot the work interfere bar chart 
+    by state, gender and remote work status.
+
+    Parameters
+    ----------
+    states : string
+        the abbreviation of the USA states
+    gender : string
+        male or female
+    remote : string
+        the remote work status of an employee, yes or no
+
+    Returns
+    -------
+    chart
+        the work interfere bar chart 
+
+    """
     click = alt.selection_multi(fields=['state'], bind='legend')
     data = m_data[m_data['state'].isin(states)]
     data = data[data['Gender'].isin(gender)]
@@ -233,7 +333,28 @@ def plot_interfere(states, gender, remote):
     Input('remote_work', 'value')
 )
 
+# Plot the Supervisor Bar Chart
 def plot_supervisor(states, gender, remote):
+    """Plot the Supervisor Bar Chart
+    
+    Use mental health csv file to plot the supervisor bar chart 
+    by state, gender and remote work status.
+
+    Parameters
+    ----------
+    states : string
+        the abbreviation of the USA states
+    gender : string
+        male or female
+    remote : string
+        the remote work status of an employee, yes or no
+
+    Returns
+    -------
+    chart
+        the supervisor bar chart 
+
+    """
     data = m_data[m_data['state'].isin(states)]
     data = data[data['Gender'].isin(gender)]
     data = data[data['remote_work'].isin(remote)]
