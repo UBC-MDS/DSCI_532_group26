@@ -78,14 +78,10 @@ overall = html.Div(dbc.Container([dbc.Row([dbc.Col([html.H3("Tech Worker Mental 
                                                                                               options = [{'label': 'All', 'value':['Yes','No']},
                                                                                                       {'label': 'Yes', 'value': ['Yes']},
                                                                                                       {'label': 'No', 'value': ['No']}],
-                                                                                                       value = ['Yes', 'No'])])], md = 2,
+                                                                                                       value = ['Yes', 'No'])])],
                                   style={'background-color': '#15599e',
                                          "color": "white",
-                                         'padding': 10,
-                                         'border-radius': 3,
-                                         'left': 0,
-                                         "position": "fixed",
-                                         "top": 0, "bottom": 0}),
+                                         }),
                                   dbc.Col([dbc.Row([dbc.Col(dbc.Card([dbc.CardHeader('Did You Seek Treatment for Mental Illness', style={'fontWeight': 'bold'}),
                                                                      dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'state_bar', style={'border-width': '0', 'width': '100%', 'height': '400px'}) ))]), width = 'auto'),
                                                    dbc.Col(dbc.Card([dbc.CardHeader('Does Employer Take Mental Illness Seriously', style={'fontWeight': 'bold'} ),
@@ -99,7 +95,7 @@ overall = html.Div(dbc.Container([dbc.Row([dbc.Col([html.H3("Tech Worker Mental 
                                            dbc.Row([dbc.Col(dbc.Card([dbc.CardHeader('Does Your Mental Illness Interfere With Work',style={'fontWeight': 'bold'}),
                                                                     dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'interfere', style = {'border-width': '0', 'width': '100%', 'height': '400px'})))], style={"width": "32rem"})),
                                                     dbc.Col(dbc.Card([dbc.CardHeader('Do You Talk to Your Supervisors?', style={'fontWeight': 'bold'}),
-                                                                    dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'supervisor', style ={'border-width': '0', 'width': '100%', 'height': '400px'}) ))]))])], style = CONTENT_STYLE )])]))
+                                                                    dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'supervisor', style ={'border-width': '0', 'width': '100%', 'height': '400px'}) ))]))])], width = 30)])]))
 
 
 
