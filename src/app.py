@@ -83,9 +83,9 @@ overall = html.Div(dbc.Container([dbc.Row([dbc.Col([html.H3("Tech Worker Mental 
                                          "color": "white",
                                          }),
                                   dbc.Col([dbc.Row([dbc.Col(dbc.Card([dbc.CardHeader('Did You Seek Treatment for Mental Illness', style={'fontWeight': 'bold'}),
-                                                                     dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'state_bar', style={'border-width': '0', 'width': '100%', 'height': '400px'}) ))]), width = 'auto'),
+                                                                     dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'state_bar', style={'border-width': '0', 'width': '100%', 'height': '400px'}) ))]), md = 5),
                                                    dbc.Col(dbc.Card([dbc.CardHeader('Does Employer Take Mental Illness Seriously', style={'fontWeight': 'bold'} ),
-                                                                     dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'serious', style={'border-width': '0', 'width': '150%', 'height': '400px'})))], style={"width": "30rem"}), width = 'auto')]),
+                                                                     dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'serious', style={'border-width': '0', 'width': '150%', 'height': '400px'})))]), md = 6)]),
                                                    html.Br(),
                                            dbc.Row([dbc.Col(dbc.Card([dbc.CardHeader('Easiness to Leave Work Due to Mental Reason', style={'fontWeight': 'bold'}),
                                                                     dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'leave_work', style = {'border-width': '0', 'width': '100%', 'height': '400px'}) ))], style={"width": "38rem"}), width = 'auto'),
@@ -374,4 +374,4 @@ def plot_supervisor(states, gender, remote):
 
 
 if __name__ == '__main__':
-    app.run_server()
+    app.run_server(debug=True)
