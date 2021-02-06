@@ -83,7 +83,7 @@ overall = html.Div(dbc.Container([dbc.Row([dbc.Col([html.H3("Tech Worker Mental 
                                          "color": "white",
                                          }),
                                   dbc.Col([dbc.Row([dbc.Col(dbc.Card([dbc.CardHeader('Did You Seek Treatment for Mental Illness', style={'fontWeight': 'bold'}),
-                                                                     dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'state_bar', style={'border-width': '0', 'width': '100%', 'height': '400px'}) ))]), md = 5),
+                                                                     dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'state_bar', style={'border-width': '0', 'width': '100%', 'height': '400px'}) ))]), md = 6),
                                                    dbc.Col(dbc.Card([dbc.CardHeader('Does Employer Take Mental Illness Seriously', style={'fontWeight': 'bold'} ),
                                                                      dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'serious', style={'border-width': '0', 'width': '150%', 'height': '400px'})))]), md = 6)]),
                                                    html.Br(),
