@@ -21,7 +21,7 @@ With the overabundance of information and stress in our modern society, more and
 
 # Section 2: Description of the data
 
-This app will visualize the dataset that contains information on approximately 1200 individuals who work in the tech industry around the world. In the dataset, each row represents an individual and has information regarding their demographics, workplace environment, and their initiatives in dealing with mental illness. Whether the person has a mental illness is indicated by the `treatment` column. In our app, we will investigate the distribution of the counts of mental illnesses across different countries as well as other demographics among these individuals. Another interesting aspect that is worth investigating is whether these individuals who are afflicted by mental illnesses have a family history since the illness could be possibly passed down from the parents. Next, we will explore the relationship between mental illness and attributes of the workplace environment. Finally, we want to see whether these individuals sought any help regarding their illnesses. In terms of demographic information, we will be using the columns `Age`, `Country`, `Gender`, and `family history` etc. Columns that describe workplace environment include `no_employees`, `remote_work`, `benefits`, `care_options`, `mentalhealthconsequence` and `mentalvsphysical` etc. Finally, we will use the `sought help` column to investigate whether employers sought any help.
+This app will visualize the dataset that contains information on approximately 1200 individuals who work in the tech industry around the world. In the dataset, each row represents an individual and has information regarding their demographics, workplace environment, and their initiatives in dealing with mental illness. Whether the person has a mental illness is indicated by the `treatment` column. In our app, we will investigate the distribution of the counts of mental illnesses across different countries as well as other demographics among these individuals. Another interesting aspect that is worth investigating is whether these individuals who are afflicted by mental illnesses have a family history since the illness could be possibly passed down from the parents. Next, we will explore the relationship between mental illness and attributes of the workplace environment. Finally, we want to see whether these individuals sought any help regarding their illnesses. In terms of demographic information, we will be using the columns `Age`, `Country`, `Gender`, and `family history` etc. Columns that describe workplace environment include `no_employees`, `remote_work`, `benefits`, `care_options`, `mentalhealthconsequence`, `work_interfere` and `mentalvsphysical` etc. Finally, we will use the `sought help` column to investigate whether employers sought any help.
 
 # Section 3: Research questions and usage scenarios
 
@@ -29,21 +29,27 @@ This app will visualize the dataset that contains information on approximately 1
 
 Some research questions that could be answered by this dashboard are:
 
-- Given the date, which country has the most survey participants regarding mental illness problem and did they seek any help?
+- Based on the responses of survey participants, how do the number of people who sought treatment compare between states?
 
-- Based on the country(countries) and year, what is the proportion of participants whose families have history of mental illness. In addition, is there a difference in this proportion given gender.
+- Does your mental health issue interfere with your work? Does this distribution vary across states?
 
-- Based on the country(countries) and year, what is the proportion of participants who sought help. In addition, is there a difference in this proportion given gender.
+- How does attitudes toward mental illness (Does employer take mental Illness seriously ) vary across states?
 
-- Based on the country(countries) and year, do companies provide workplace benefits to help combat mental illness. In addition, is there a difference in this distribution given gender.
+- How easy is it to leave work due to mental health issue? Does it vary across states?
+
+- How does work benefits for mental health vary across states?
+
+- Do you feel comfortable talking with your supervisor regarding mental health issue? Does it vary across states since different states might have different cultures?
+
+- Do the distributions in the above change given that participants work remotely? What about Gender?
 
 ## Usage scenarios 
 
-Jack is working as a software engineer and recently received a promotion. In addition, Jack has the ability to choose which country to relocate before starting his new position. Despite this great news, Jack is also a person who is affected by severe mental illness. In addition, Jack's wife also works in the tech industry and is willing to move with Jack as well.
+Jack is working as a software engineer and recently received a promotion. In addition, Jack has the ability to choose which state to relocate before starting his new position. Despite this great news, Jack is also a person who is affected by severe mental illness. 
 
-This APP has a dashboard that summarizes the information given by the participants who took the mental health survey. The right panel includes 4 plots that describes the relationships between location, family history, workplace benefits, gender, and whether an individual sought help. Jack can utilize the filters in the left panel to filter for the countries that he wants to relocate to. Given the selected countries, the distributions of the plots will change accordingly. In addition, Jack can also filter the data given dates to see whether there are changes in distributions among the above relationships over time.
+This APP has a dashboard that summarizes the information given by the participants who took the mental health survey. The right panel includes 9 plots that describes the relationships between participant's mental illness history as well as employers' attitudes towards mental illness. Jack can utilize the filters in the left panel to filter for the states that he wants to relocate to. Given the selected states, the distributions of the plots will change accordingly. In addition, Jack also has the ability to work remotely and the additional widget will allow him to filter data and concentrate on those who work remotely.
 
-In the right panel, there are 4 bar plots to represent the proportion of participants based on country, family history of mental illness, workplace benefits, and whether the individual sought any help. In addition, the distributions of family history, sought help, and workplace benefits are further separated by gender. From the plots, Jack can obtain an understanding on which country has the highest mental survey participation. Next, given the countries selected, Jack will be able to see the distribution of family history of mental illness in the tech industry. Third, Jacky will be able to see whether the participants sought any help and decipher which country has very stressful work environment in the tech industry. Finally, using the fourth plot, Jack will be able to see which countries' tech industry provides more benefits to help battle mental health.  With these information, Jack can decide the best country to move to that accounts for his mental illness and start a new life with his wife.
+In the right panel, there are 6 bar plots to represent the count of participants from different states as well as their response to mental illness and their employers' attitudes regarding mental illness. From the plots, Jack can obtain an understanding on which state has the highest mental survey participants Next, given the state selected, Jack will be able to see the distribution of how mental illness have affected the participant and their employers' attitudes towards dealing with mental illness. In the end, Jack will be able to use these information to select the state where employers are more aware of mental illness and regard them more seriously.
 
 # Reference 
 

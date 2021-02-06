@@ -53,9 +53,7 @@ sidebar = html.Div(
     ],
 )], style=SIDEBAR_STYLE,)
 
-CONTENT_STYLE = {
-    "margin-left": "6rem"
-}
+
 
 # Columns
 seek_treat = dbc.Col(dbc.Card([dbc.CardHeader('Did You Seek Treatment for Mental Illness', style={'fontWeight': 'bold'}),
@@ -102,13 +100,6 @@ pie_age = dbc.Col(dbc.Card([dbc.CardHeader("Participant's Age Range", style={'fo
 
 
 
-# Organize Charts into Grid Style
-#content = dbc.Container([dbc.Row([dbc.Col([html.Iframe(id = 'state_bar', style={'border-width': '0', 'width': '100%', 'height': '400px'})]),
- #                      dbc.Col([html.Iframe(id = 'fam_hist', style={'border-width': '0', 'width': '150%', 'height': '450px'})])]),
-  #                  dbc.Row([dbc.Col([html.Iframe(id = 'sought_help', style={'border-width': '0', 'width': '150%', 'height': '450px'})]),
-   #                    dbc.Col([html.Iframe(id = 'benefits', style={'border-width': '0', 'width': '150%', 'height': '450px'})])]),
-    #                dbc.Row([dbc.Col([html.Iframe(id = 'interfere', style={'border-width': '0', 'width': '150%', 'height': '450px'})]),
-     #                        dbc.Col([html.Iframe(id = 'supervisor', style={'border-width': '0', 'width': '150%', 'height': '450px'})])])])
 
 overall = html.Div(dbc.Container([dbc.Row([dbc.Col([html.H3("Tech Worker Mental Health Tracker"), html.Hr(),
                                                     html.P("Filter By: ", className="lead"),
@@ -134,14 +125,14 @@ overall = html.Div(dbc.Container([dbc.Row([dbc.Col([html.H3("Tech Worker Mental 
                                          }, md = 2),
                                   dbc.Col([dbc.Tabs([dbc.Tab([dbc.Row([work_in, supervisor], justify= 'start', no_gutters= True),dbc.Row([seek_treat], justify= 'center')], label = 'Mental Illness History'),
                                                      dbc.Tab([dbc.Row([workplace_bene, seriousness], no_gutters = True),dbc.Row([leave])] , label = 'Company Culture'),
-                                                     dbc.Tab([dbc.Row([pie_remote, pie_gender], no_gutters = True), dbc.Row([pie_age])], label = "Total Participants' Demography")])])])], fluid = True))
-
-
-#dbc.Row([seek_treat, seriousness]),
-#                                                   html.Br(),
- #                                          dbc.Row([]),
-  #                                                  html.Br(),
-   #                                        dbc.Row([])
+                                                     dbc.Tab([dbc.Row([pie_remote, pie_gender], no_gutters = True), dbc.Row([pie_age])], label = "Total Participants' Demography"),
+                                                     dbc.Tab([html.Br(), html.P("""Hello! Thank you for visiting our App! This App is developed by Chun Chieh(Jason) Chang, Bruhat Musunuru, and Siqi Zhou.
+                                                                        Our app aims to present the statistics of people who worked in the tech sector and their mental illness history versus employers' attitudes towards mental illness across different states in the USA.
+                                                                       We hope that by presenting these statistics, employers around the world can stop overlooking the issue of mental illness and create a less stress-inducing work environment."""),
+                                                                       html.Br(),
+                                                                       html.P(
+                                                                       """The data source can be found at https://www.kaggle.com/osmi/mental-health-in-tech-survey
+                                                                        and the link to our github is https://github.com/UBC-MDS/DSCI_532_group26 """)], label = 'About This Dashboard')])])])], fluid = True))
 
 
 
@@ -150,7 +141,7 @@ overall = html.Div(dbc.Container([dbc.Row([dbc.Col([html.H3("Tech Worker Mental 
 app.layout = html.Div([overall])
 
 
-
+#plotting function
 @app.callback(
     Output('state_bar', 'srcDoc'),
     Input('state_wid', 'value'),
@@ -158,11 +149,11 @@ app.layout = html.Div([overall])
     Input('remote_work', 'value')
 )
 
-# plot the Country Frequency Bar Chart
+# plot the State Frequency Bar Chart
 def plot_state_bar(states, gender, remote):
     """Plot the Country Frequency Bar Chart
     
-    Use mental health csv file to plot the country frequency bar chart 
+    Use mental health csv file to plot the state frequency bar chart for seeking treatment, grouped by
     by state, gender and remote work status.
 
     Parameters
@@ -202,11 +193,11 @@ def plot_state_bar(states, gender, remote):
     Input('remote_work', 'value')
 )
 
-# Plot the Family History Bar Chart
+# Plot the Employer Attitude plot
 def plot_seriousness_bar(states, gender, remote):
-    """Plot the Family History Bar Chart
+    """Plot the Employer Attitude plot
     
-    Use mental health csv file to plot the family history bar chart 
+    Use mental health csv file to plot the employer attitude bar chart 
     by state, gender and remote work status.
 
     Parameters
@@ -221,7 +212,7 @@ def plot_seriousness_bar(states, gender, remote):
     Returns
     -------
     chart
-        the family history bar chart 
+        the employer attitude bar chart 
 
     """
 
