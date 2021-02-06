@@ -32,6 +32,10 @@ SIDEBAR_STYLE = {
     "color": "white"
 }
 
+#static Graph
+pie_home = px.pie((m_data.groupby('remote_work', as_index = False).size()), values='size', names='remote_work', width = 100)
+pie_gender = px.pie((m_data.groupby('Gender', as_index = False).size()), values='size', names='Gender', width = 100)
+pie_age = px.pie(m_data.groupby('Age Range', as_index = False).size(), values='size', names='Age Range')
 
 sidebar = html.Div(
     [
@@ -53,6 +57,7 @@ CONTENT_STYLE = {
     "margin-left": "6rem"
 }
 
+# Columns
 seek_treat = dbc.Col(dbc.Card([dbc.CardHeader('Did You Seek Treatment for Mental Illness', style={'fontWeight': 'bold'}),
                                 dbc.CardBody(dcc.Loading(children = html.Iframe(
                                     id = 'state_bar', style={'border-width': '0', 'width': '100%', 'height': '400px'}) ))])) #
@@ -75,21 +80,21 @@ work_in = dbc.Col(dbc.Card([dbc.CardHeader('Does Your Mental Illness Interfere W
                          dbc.CardBody(dcc.Loading(children = html.Iframe(
                              id = 'interfere', style = {'border-width': '0', 'width': '100%', 'height': '400px'})))]))
 
-supervisor = dbc.Col(dbc.Card([dbc.CardHeader('Do You Talk to Your Supervisors?', style={'fontWeight': 'bold'}),
+supervisor = dbc.Col(dbc.Card([dbc.CardHeader('Did You Talk to Your Supervisors Regarding Mental Health?', style={'fontWeight': 'bold'}),
                         dbc.CardBody(dcc.Loading(children = html.Iframe(
                             id = 'supervisor', style ={'border-width': '0', 'width': '100%', 'height': '400px'}) ))])) #
 
 pie_remote = dbc.Col(dbc.Card([dbc.CardHeader('Do You Work At Home?', style={'fontWeight': 'bold'}),
                         dbc.CardBody(dcc.Loading(children = dcc.Graph(
-                            id = 'pie_chart', style ={'border-width': '0', 'width': '100%', 'height': '400px'}) ))])) #
+                            id = 'pie_chart', figure = pie_home, style ={'border-width': '0', 'width': '100%', 'height': '400px'}) ))])) #
 
 pie_gender = dbc.Col(dbc.Card([dbc.CardHeader('Gender Proportion', style={'fontWeight': 'bold'}),
                         dbc.CardBody(dcc.Loading(children = dcc.Graph(
-                            id = 'pie_Gender', style ={'border-width': '0', 'width': '100%', 'height': '400px'}) ))]))
+                            id = 'pie_Gender', figure = pie_gender, style ={'border-width': '0', 'width': '100%', 'height': '400px'}) ))]))
 
-pie_age = dbc.Col(dbc.Card([dbc.CardHeader('Participant Age', style={'fontWeight': 'bold'}),
+pie_age = dbc.Col(dbc.Card([dbc.CardHeader("Participant's Age Range", style={'fontWeight': 'bold'}),
                         dbc.CardBody(dcc.Loading(children = dcc.Graph(
-                            id = 'pie_age', style ={'border-width': '0', 'width': '100%', 'height': '400px'})))]))  #
+                            id = 'pie_age', figure = pie_age, style ={'border-width': '0', 'width': '100%', 'height': '400px'})))]))  #
 
 
 
@@ -127,9 +132,9 @@ overall = html.Div(dbc.Container([dbc.Row([dbc.Col([html.H3("Tech Worker Mental 
                                   style={'background-color': '#15599e',
                                          "color": "white",
                                          }, md = 2),
-                                  dbc.Col([dbc.Tabs([dbc.Tab([dbc.Row([work_in, seriousness], justify= 'start', no_gutters= True),dbc.Row([leave], justify= 'center')], label = 'tab1'),
-                                                     dbc.Tab([dbc.Row([workplace_bene, supervisor]),dbc.Row([seek_treat])] , label = 'tab2'),
-                                                     dbc.Tab([dbc.Row([pie_remote, pie_gender]), dbc.Row([pie_age])], label = 'tab3')])])])], fluid = True))
+                                  dbc.Col([dbc.Tabs([dbc.Tab([dbc.Row([work_in, supervisor], justify= 'start', no_gutters= True),dbc.Row([seek_treat], justify= 'center')], label = 'Mental Illness History'),
+                                                     dbc.Tab([dbc.Row([workplace_bene, seriousness], no_gutters = True),dbc.Row([leave])] , label = 'Company Culture'),
+                                                     dbc.Tab([dbc.Row([pie_remote, pie_gender], no_gutters = True), dbc.Row([pie_age])], label = "Total Participants' Demography")])])])], fluid = True))
 
 
 #dbc.Row([seek_treat, seriousness]),
@@ -183,7 +188,7 @@ def plot_state_bar(states, gender, remote):
         x = alt.X('state', axis = None),
         y = alt.Y('count()', title='Count of Participants'), 
         tooltip = 'count()',
-        color = 'state',
+        color = alt.Color('state', title = 'State'),
         column = alt.Column('treatment', title = 'Sought Treatment or Not', header=alt.Header(
             titleOrient = 'bottom', labelOrient = 'bottom')),
         opacity = alt.condition(click, alt.value(0.9), alt.value(0.1))).add_selection(click).properties(width=100)
@@ -229,7 +234,7 @@ def plot_seriousness_bar(states, gender, remote):
         x = alt.X('state', axis = None),
         y = alt.Y('count()', title='Count of Participants'), 
         tooltip = 'count()',
-        color = 'state',
+        color = alt.Color('state', title = 'State'),
         column = alt.Column('mental_vs_physical', title = 'Does Employer Take Mental Illness Seriously', header=alt.Header(
             titleOrient = 'bottom', labelOrient = 'bottom')),
         opacity = alt.condition(click, alt.value(0.9), alt.value(0.1))).add_selection(click).properties(width=100)
@@ -276,7 +281,7 @@ def plot_sought_help(states, gender, remote):
         y = alt.Y('count()', title='Count of Participants'), 
         tooltip = 'count()', column = alt.Column('leave', title = 'Easy or Difficult', header=alt.Header(
             titleOrient = 'bottom', labelOrient = 'bottom')),
-        color = 'state', opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width = 100)
+        color = alt.Color('state', title = 'State'), opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width = 100)
     return chart.to_html()
 
 @app.callback(
@@ -316,7 +321,7 @@ def plot_benefits(states, gender, remote):
         x = alt.X('state', axis = None),
         y = alt.Y('count()', title='Count of Participants'), 
         tooltip = 'count()',
-        color = 'state', column = alt.Column('benefits', title = 'Does Company Provide Benefits', header=alt.Header(
+        color = alt.Color('state', title = 'State'), column = alt.Column('benefits', title = 'Does Company Provide Benefits', header=alt.Header(
             titleOrient = 'bottom', labelOrient = 'bottom')),
             opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width=85)
     return chart.to_html()
@@ -359,7 +364,7 @@ def plot_interfere(states, gender, remote):
         x = alt.X('state', axis = None),
         y = alt.Y('count()', title='Count of Participants'), 
         tooltip = 'count()',
-        color = 'state', column = alt.Column('work_interfere', title = 'Does Your Mental Illness Interfere With Work?', header=alt.Header(
+        color = alt.Color('state', title = 'State'), column = alt.Column('work_interfere', title = 'Does Your Mental Illness Interfere With Work?', header=alt.Header(
             titleOrient = 'bottom', labelOrient = 'bottom')),
             opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width=65)
     return chart.to_html()
@@ -398,47 +403,18 @@ def plot_supervisor(states, gender, remote):
     data = data[data['Gender'].isin(gender)]
     data = data[data['remote_work'].isin(remote)]
     chart = alt.Chart(data).mark_bar().encode(
-        x = alt.X('work_interfere', axis = None),
+        x = alt.X('state', axis = None),
         y = alt.Y('count()', title='Count of Participants'), 
         tooltip = 'count()',
-        color = 'work_interfere', column = alt.Column('supervisor', title = 'Have You Talked With Supervisor?', header=alt.Header(
+        color = alt.Color('state', title = 'State'), column = alt.Column('supervisor', title = 'Have You Talked With Supervisor?', header=alt.Header(
             titleOrient = 'bottom', labelOrient = 'bottom'))).properties(width=75)
     return chart.to_html()
 
 
-@app.callback(
-    Output("pie_chart", "figure"), 
-    Input("state_wid", "value"),
-    Input('gender_radio', 'value'))
-def pie_working(states, gender):
-    my_data = m_data[m_data['state'].isin(states)]
-    my_data = my_data.groupby('remote_work', as_index = False).size()
-    fig = px.pie(my_data, values='size', names='remote_work', width = 100)
-    return fig
 
-@app.callback(
-    Output("pie_Gender", "figure"), 
-    Input("state_wid", "value"),
-    Input("remote_work", "value"))
-def pie_Gender(states, remote):
-    my_data = m_data[m_data['state'].isin(states)]
-    my_data = my_data[my_data['remote_work'].isin(remote)]
-    my_data = my_data.groupby('Gender', as_index = False).size()
-    fig1 = px.pie(my_data, values='size', names='Gender', width = 100)
-    return fig1
 
-@app.callback(
-    Output("pie_age", "figure"), 
-    Input("state_wid", "value"),
-    Input("remote_work", "value"),
-    Input('gender_radio', 'value'))
-def pie_working(states, remote, gender):
-    my_data = m_data[m_data['state'].isin(states)]
-    my_data = my_data[my_data['Gender'].isin(gender)]
-    my_data = my_data[my_data['remote_work'].isin(remote)]
-    my_data = my_data.groupby('Age Range', as_index = False).size()
-    fig2 = px.pie(my_data, values='size', names='Age Range')
-    return fig2
+
+  
 
 
 
