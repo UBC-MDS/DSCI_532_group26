@@ -52,6 +52,36 @@ CONTENT_STYLE = {
     "margin-left": "6rem"
 }
 
+seek_treat = dbc.Col(dbc.Card([dbc.CardHeader('Did You Seek Treatment for Mental Illness', style={'fontWeight': 'bold'}),
+                                dbc.CardBody(dcc.Loading(children = html.Iframe(
+                                    id = 'state_bar', style={'border-width': '0', 'width': '150%', 'height': '400px'}) ))]), style={"width": "100%", "height": "100%"})
+
+
+seriousness = dbc.Col(dbc.Card([dbc.CardHeader('Does Employer Take Mental Illness Seriously', style={'fontWeight': 'bold'} ),
+                              dbc.CardBody(dcc.Loading(children = html.Iframe(
+                                  id = 'serious', style={'border-width': '0', 'width': '150%', 'height': '400px'})))],
+                                   style={"width": "30rem"}),  style={"width": "100%", "height": "100%"})
+
+workplace_bene = dbc.Col(dbc.Card([dbc.CardHeader('Workplace Benefits Between States', style={'fontWeight': 'bold'}),
+dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'benefits', style = {'border-width': '0', 'width': '100%', 'height': '400px'})))]))
+
+leave = dbc.Col(dbc.Card([dbc.CardHeader('Easiness to Leave Work Due to Mental Reason', style={'fontWeight': 'bold'}),
+                        dbc.CardBody(dcc.Loading(
+                            children = html.Iframe(
+                            id = 'leave_work', style = {'border-width': '0', 'width': '100%', 'height': '400px'}) ))])
+                            , style={"width": "150%", "height": "100%"})
+
+work_in = dbc.Col(dbc.Card([dbc.CardHeader('Does Your Mental Illness Interfere With Work',style={'fontWeight': 'bold'}),
+                         dbc.CardBody(dcc.Loading(children = html.Iframe(
+                             id = 'interfere', style = {'border-width': '0', 'width': '100%', 'height': '400px'})))], style={"width": "32rem"}))
+
+supervisor = dbc.Col(dbc.Card([dbc.CardHeader('Do You Talk to Your Supervisors?', style={'fontWeight': 'bold'}),
+                        dbc.CardBody(dcc.Loading(children = html.Iframe(
+                            id = 'supervisor', style ={'border-width': '0', 'width': '100%', 'height': '400px'}) ))]))
+
+
+
+
 # Organize Charts into Grid Style
 #content = dbc.Container([dbc.Row([dbc.Col([html.Iframe(id = 'state_bar', style={'border-width': '0', 'width': '100%', 'height': '400px'})]),
  #                      dbc.Col([html.Iframe(id = 'fam_hist', style={'border-width': '0', 'width': '150%', 'height': '450px'})])]),
@@ -81,21 +111,18 @@ overall = html.Div(dbc.Container([dbc.Row([dbc.Col([html.H3("Tech Worker Mental 
                                                                                                        value = ['Yes', 'No'])])],
                                   style={'background-color': '#15599e',
                                          "color": "white",
-                                         }),
-                                  dbc.Col([dbc.Row([dbc.Col(dbc.Card([dbc.CardHeader('Did You Seek Treatment for Mental Illness', style={'fontWeight': 'bold'}),
-                                                                     dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'state_bar', style={'border-width': '0', 'width': '100%', 'height': '400px'}) ))]), md = 6),
-                                                   dbc.Col(dbc.Card([dbc.CardHeader('Does Employer Take Mental Illness Seriously', style={'fontWeight': 'bold'} ),
-                                                                     dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'serious', style={'border-width': '0', 'width': '150%', 'height': '400px'})))]), md = 6)]),
-                                                   html.Br(),
-                                           dbc.Row([dbc.Col(dbc.Card([dbc.CardHeader('Easiness to Leave Work Due to Mental Reason', style={'fontWeight': 'bold'}),
-                                                                    dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'leave_work', style = {'border-width': '0', 'width': '100%', 'height': '400px'}) ))], style={"width": "38rem"}), width = 'auto'),
-                                                    dbc.Col(dbc.Card([dbc.CardHeader('Workplace Benefits Between States', style={'fontWeight': 'bold'}),
-                                                                    dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'benefits', style = {'border-width': '0', 'width': '100%', 'height': '400px'})))], style={"width": "21rem"}))]),
-                                                    html.Br(),
-                                           dbc.Row([dbc.Col(dbc.Card([dbc.CardHeader('Does Your Mental Illness Interfere With Work',style={'fontWeight': 'bold'}),
-                                                                    dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'interfere', style = {'border-width': '0', 'width': '100%', 'height': '400px'})))], style={"width": "32rem"})),
-                                                    dbc.Col(dbc.Card([dbc.CardHeader('Do You Talk to Your Supervisors?', style={'fontWeight': 'bold'}),
-                                                                    dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'supervisor', style ={'border-width': '0', 'width': '100%', 'height': '400px'}) ))]))])], width = 30)])]))
+                                         }, md = 2),
+                                  dbc.Col([dbc.Tabs([dbc.Tab([dbc.Row([seek_treat, seriousness]),dbc.Row([leave])], label = 'tab1'),
+                                                     dbc.Tab([dbc.Row([workplace_bene, supervisor]),dbc.Row([work_in])] , label = 'tab2')])])])], fluid = True))
+
+
+#dbc.Row([seek_treat, seriousness]),
+#                                                   html.Br(),
+ #                                          dbc.Row([]),
+  #                                                  html.Br(),
+   #                                        dbc.Row([])
+
+
 
 
 
@@ -233,7 +260,7 @@ def plot_sought_help(states, gender, remote):
         y = alt.Y('count()', title='Count of Participants'), 
         tooltip = 'count()', column = alt.Column('leave', title = 'Easy or Difficult', header=alt.Header(
             titleOrient = 'bottom', labelOrient = 'bottom')),
-        color = 'state', opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width = 75)
+        color = 'state', opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width = 70)
     return chart.to_html()
 
 @app.callback(
