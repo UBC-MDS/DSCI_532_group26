@@ -1,470 +1,470 @@
-,Timestamp,state,family_history,Gender,seek_help,benefits,leave,mental_vs_physical,treatment,work_interfere,supervisor,remote_work
-0,2014-08-27 11:29:31,IL,No,F,Yes,Yes,Somewhat easy,Yes,Yes,Often,Yes,No
-4,2014-08-27 11:30:22,TX,No,M,Don't know,Yes,Don't know,Don't know,No,Never,Yes,Yes
-5,2014-08-27 11:31:22,TN,Yes,M,Don't know,Yes,Don't know,Don't know,No,Sometimes,Yes,No
-6,2014-08-27 11:31:50,MI,Yes,F,No,No,Somewhat difficult,Don't know,Yes,Sometimes,No,Yes
-8,2014-08-27 11:32:39,IL,Yes,F,No,Yes,Very difficult,No,Yes,Sometimes,Yes,No
-10,2014-08-27 11:32:44,OH,No,M,No,Don't know,Don't know,Don't know,Yes,Sometimes,Yes,Yes
-13,2014-08-27 11:33:26,CT,Yes,M,Don't know,Don't know,Don't know,Don't know,No,Never,Yes,No
-15,2014-08-27 11:34:00,IL,Yes,F,No,Yes,Somewhat easy,Don't know,Yes,Rarely,Some of them,No
-17,2014-08-27 11:34:37,TN,No,M,Don't know,Yes,Don't know,No,Yes,Sometimes,Yes,No
-18,2014-08-27 11:34:53,MD,Yes,M,Don't know,Yes,Very easy,Yes,No,Sometimes,Yes,Yes
-20,2014-08-27 11:35:12,NY,Yes,M,No,Yes,Somewhat difficult,No,Yes,Sometimes,Some of them,No
-21,2014-08-27 11:35:24,NC,No,M,No,No,Somewhat difficult,Yes,No,Never,Some of them,Yes
-22,2014-08-27 11:35:48,MA,No,M,No,Yes,Don't know,No,Yes,Often,Yes,Yes
-24,2014-08-27 11:36:48,CA,Yes,M,Yes,Yes,Don't know,Don't know,Yes,Rarely,Yes,No
-27,2014-08-27 11:37:59,CA,Yes,F,Don't know,Yes,Don't know,Yes,Yes,Rarely,Yes,Yes
-28,2014-08-27 11:38:12,OH,No,M,Don't know,Don't know,Somewhat difficult,No,Yes,Sometimes,No,Yes
-31,2014-08-27 11:38:55,PA,Yes,M,No,No,Somewhat difficult,No,No,Rarely,No,Yes
-33,2014-08-27 11:39:36,WA,Yes,M,Yes,Yes,Very easy,Don't know,Yes,Sometimes,Some of them,Yes
-34,2014-08-27 11:40:51,WI,No,F,No,Yes,Don't know,Yes,Yes,Sometimes,No,No
-35,2014-08-27 11:41:17,NY,No,M,No,No,Very easy,Don't know,Yes,Rarely,Yes,No
-39,2014-08-27 11:42:15,TX,No,M,Yes,Yes,Very easy,Yes,Yes,Rarely,Yes,Yes
-44,2014-08-27 11:43:22,IN,No,M,No,Don't know,Don't know,Don't know,Yes,Sometimes,No,No
-45,2014-08-27 11:43:36,TX,Yes,F,Yes,Yes,Somewhat easy,Yes,Yes,Sometimes,Yes,No
-49,2014-08-27 11:44:43,IL,Yes,M,Don't know,Yes,Don't know,Don't know,Yes,Rarely,Yes,No
-50,2014-08-27 11:44:55,TX,Yes,M,No,No,Very difficult,Don't know,Yes,Often,No,No
-53,2014-08-27 11:45:51,TN,No,M,No,Don't know,Don't know,Don't know,No,Never,Yes,Yes
-57,2014-08-27 11:47:10,NY,Yes,M,No,Don't know,Don't know,No,Yes,Sometimes,Yes,Yes
-65,2014-08-27 11:51:07,CA,Yes,M,Yes,Yes,Don't know,No,No,Sometimes,No,Yes
-67,2014-08-27 11:52:07,TX,No,M,Yes,Yes,Don't know,Yes,No,Sometimes,Some of them,Yes
-69,2014-08-27 11:52:44,NY,No,M,No,No,Don't know,Don't know,No,Rarely,No,Yes
-74,2014-08-27 11:56:29,CA,No,M,Don't know,Don't know,Don't know,Yes,No,Never,Some of them,No
-77,2014-08-27 11:57:54,WA,Yes,M,No,No,Somewhat difficult,Yes,No,Sometimes,Yes,Yes
-78,2014-08-27 11:59:31,UT,Yes,M,No,No,Somewhat difficult,No,Yes,Sometimes,No,Yes
-80,2014-08-27 12:01:50,NY,Yes,M,Yes,Yes,Don't know,Yes,No,Sometimes,Some of them,Yes
-84,2014-08-27 12:05:13,CA,Yes,M,No,No,Don't know,No,No,Never,No,No
-87,2014-08-27 12:10:43,OR,Yes,F,Don't know,Yes,Don't know,Don't know,Yes,Rarely,Some of them,Yes
-88,2014-08-27 12:11:00,FL,No,F,No,Yes,Don't know,No,Yes,Sometimes,Some of them,No
-90,2014-08-27 12:12:47,NY,No,M,Yes,Yes,Somewhat easy,Yes,No,Never,Yes,No
-91,2014-08-27 12:13:30,TX,No,M,No,No,Very difficult,No,Yes,Sometimes,Yes,No
-95,2014-08-27 12:15:30,MN,No,M,Don't know,Don't know,Don't know,No,No,Never,Yes,No
-96,2014-08-27 12:16:21,MO,Yes,M,Don't know,Don't know,Somewhat easy,Don't know,No,Rarely,No,No
-99,2014-08-27 12:18:04,IN,No,M,No,No,Somewhat easy,Yes,Yes,Often,Yes,No
-101,2014-08-27 12:18:38,MA,No,F,Don't know,Yes,Don't know,Don't know,No,Never,Some of them,No
-103,2014-08-27 12:20:10,WI,Yes,M,Yes,Yes,Somewhat easy,Yes,Yes,Sometimes,Yes,Yes
-104,2014-08-27 12:22:55,NY,No,M,Don't know,Yes,Somewhat easy,Don't know,No,Never,Yes,No
-105,2014-08-27 12:23:48,MO,Yes,M,No,Yes,Somewhat easy,Don't know,No,Rarely,Yes,No
-106,2014-08-27 12:23:59,OR,Yes,M,No,Don't know,Somewhat easy,No,Yes,Sometimes,Yes,Yes
-108,2014-08-27 12:28:12,TN,Yes,M,No,Yes,Don't know,Don't know,No,Never,No,Yes
-109,2014-08-27 12:28:16,WA,No,M,Yes,Yes,Somewhat difficult,Yes,Yes,Sometimes,Yes,No
-110,2014-08-27 12:29:25,NY,No,M,Don't know,Yes,Don't know,No,Yes,Sometimes,No,No
-111,2014-08-27 12:31:02,CA,No,M,Yes,Yes,Somewhat easy,Yes,Yes,Sometimes,Some of them,No
-112,2014-08-27 12:31:03,MO,Yes,M,Yes,Yes,Very easy,Yes,Yes,Rarely,Yes,Yes
-113,2014-08-27 12:31:14,NY,No,M,Don't know,Yes,Don't know,Don't know,No,Never,Some of them,No
-118,2014-08-27 12:31:43,CT,No,M,No,No,Very easy,Don't know,Yes,Rarely,No,Yes
-120,2014-08-27 12:32:59,GA,No,M,Yes,Yes,Don't know,Don't know,No,Never,No,No
-122,2014-08-27 12:33:23,MN,Yes,M,Don't know,Don't know,Very easy,Yes,Yes,Sometimes,Yes,Yes
-123,2014-08-27 12:33:36,WA,No,M,No,Yes,Don't know,Don't know,No,Often,No,No
-125,2014-08-27 12:34:11,WA,Yes,M,Yes,Yes,Don't know,Don't know,No,Never,No,No
-127,2014-08-27 12:34:35,OR,No,M,Yes,Yes,Don't know,Don't know,Yes,Rarely,Yes,No
-130,2014-08-27 12:34:57,IL,Yes,M,No,Yes,Very easy,No,Yes,Sometimes,Some of them,No
-131,2014-08-27 12:35:23,CA,No,M,No,No,Very difficult,Don't know,No,Rarely,Some of them,Yes
-132,2014-08-27 12:36:03,NE,No,M,Don't know,Don't know,Don't know,Don't know,No,Never,Yes,No
-137,2014-08-27 12:37:31,IA,No,M,No,Yes,Somewhat easy,Don't know,Yes,Often,Yes,No
-140,2014-08-27 12:38:11,OR,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Yes,No
-151,2014-08-27 12:40:53,CA,Yes,M,No,Don't know,Very easy,No,No,Never,Some of them,No
-153,2014-08-27 12:41:20,IL,No,M,Don't know,Don't know,Don't know,Don't know,No,Never,Some of them,No
-156,2014-08-27 12:42:52,CA,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Some of them,No
-158,2014-08-27 12:43:28,UT,No,M,No,No,Somewhat difficult,Don't know,Yes,Rarely,Yes,Yes
-159,2014-08-27 12:43:40,IL,Yes,M,No,Don't know,Very easy,Don't know,Yes,Sometimes,No,No
-161,2014-08-27 12:44:51,NY,Yes,F,No,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,No
-162,2014-08-27 12:44:51,CA,No,M,Yes,Yes,Don't know,Don't know,No,Never,Some of them,No
-163,2014-08-27 12:45:44,MA,Yes,M,No,Don't know,Don't know,Don't know,No,Rarely,Yes,No
-164,2014-08-27 12:46:03,WA,Yes,F,Yes,No,Very difficult,Yes,Yes,Sometimes,Yes,No
-166,2014-08-27 12:48:06,MN,No,M,No,No,Very easy,Don't know,No,Never,Some of them,No
-175,2014-08-27 12:49:39,MO,No,M,Don't know,Don't know,Don't know,Don't know,No,Never,Some of them,No
-177,2014-08-27 12:50:57,MA,No,F,Don't know,Yes,Very easy,Yes,Yes,Often,Yes,Yes
-178,2014-08-27 12:51:25,CA,No,F,No,Yes,Somewhat difficult,Yes,Yes,Sometimes,Yes,No
-183,2014-08-27 12:51:55,CA,No,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Some of them,No
-184,2014-08-27 12:52:08,WA,Yes,M,Don't know,Yes,Very difficult,No,Yes,Often,No,Yes
-189,2014-08-27 12:53:13,CA,Yes,F,No,Yes,Somewhat easy,Don't know,Yes,Never,No,No
-191,2014-08-27 12:53:40,MI,Yes,M,No,Yes,Somewhat easy,No,Yes,Sometimes,No,No
-193,2014-08-27 12:54:11,CA,No,M,No,No,Don't know,Don't know,Yes,Rarely,Yes,No
-196,2014-08-27 12:55:01,NY,No,F,No,Don't know,Don't know,Don't know,No,Never,No,Yes
-197,2014-08-27 12:55:38,CA,No,M,No,Yes,Somewhat easy,No,No,Rarely,Yes,No
-200,2014-08-27 12:57:38,OR,Yes,F,No,Yes,Very easy,Yes,Yes,Sometimes,Some of them,No
-202,2014-08-27 12:58:10,FL,No,M,No,No,Very difficult,Don't know,Yes,Often,Some of them,Yes
-207,2014-08-27 13:04:18,MA,No,M,No,No,Somewhat easy,Don't know,Yes,Often,Yes,No
-208,2014-08-27 13:04:45,KS,No,M,Don't know,Don't know,Don't know,Don't know,No,Never,Yes,No
-213,2014-08-27 13:07:40,TX,Yes,F,No,Don't know,Don't know,No,Yes,Sometimes,Some of them,No
-215,2014-08-27 13:07:46,MI,Yes,F,Don't know,No,Very difficult,Don't know,Yes,Sometimes,No,Yes
-222,2014-08-27 13:14:53,PA,No,M,No,Don't know,Don't know,Don't know,No,Rarely,Some of them,No
-223,2014-08-27 13:15:19,MI,No,M,No,No,Very difficult,No,Yes,Sometimes,Some of them,No
-224,2014-08-27 13:15:25,PA,No,M,Don't know,Don't know,Don't know,Yes,No,Never,Yes,No
-226,2014-08-27 13:18:44,WA,No,M,No,No,Very difficult,Yes,No,Rarely,Yes,Yes
-228,2014-08-27 13:21:00,PA,No,M,Don't know,Yes,Very easy,Yes,No,Never,No,No
-230,2014-08-27 13:22:49,OH,No,M,Yes,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,No
-231,2014-08-27 13:23:38,TX,No,M,Don't know,Yes,Don't know,No,Yes,Rarely,No,Yes
-233,2014-08-27 13:24:57,NH,No,M,Don't know,Don't know,Don't know,No,No,Sometimes,Yes,Yes
-241,2014-08-27 13:32:31,FL,Yes,M,No,No,Somewhat difficult,No,Yes,Sometimes,Some of them,No
-242,2014-08-27 13:32:48,CA,Yes,M,Yes,Yes,Somewhat easy,Don't know,Yes,Sometimes,Yes,No
-244,2014-08-27 13:34:03,GA,No,M,Don't know,Yes,Somewhat easy,Yes,No,Never,Yes,Yes
-245,2014-08-27 13:35:23,OH,No,M,Yes,Yes,Don't know,No,Yes,Sometimes,No,Yes
-248,2014-08-27 13:37:47,NC,Yes,M,No,No,Don't know,Don't know,Yes,Sometimes,Yes,Yes
-252,2014-08-27 13:42:38,CA,Yes,M,Don't know,Yes,Very easy,Yes,Yes,Rarely,Yes,Yes
-254,2014-08-27 13:44:47,VA,No,M,Don't know,Don't know,Don't know,Don't know,No,Sometimes,Yes,No
-257,2014-08-27 13:47:27,WA,No,M,Yes,No,Somewhat easy,Yes,No,Never,Yes,Yes
-260,2014-08-27 13:49:32,TX,No,F,No,Yes,Don't know,Don't know,Yes,Rarely,No,No
-262,2014-08-27 13:52:57,FL,No,M,Yes,Yes,Don't know,Yes,Yes,Sometimes,Yes,Yes
-266,2014-08-27 13:54:00,AL,No,M,No,Yes,Very easy,Yes,Yes,Sometimes,Yes,Yes
-268,2014-08-27 13:55:16,CA,Yes,F,No,Yes,Don't know,Don't know,Yes,Often,Some of them,No
-269,2014-08-27 13:55:22,CO,No,M,No,No,Very easy,Don't know,No,Never,Yes,Yes
-274,2014-08-27 13:59:35,PA,No,M,No,Yes,Don't know,No,Yes,Rarely,No,Yes
-279,2014-08-27 14:03:54,PA,Yes,M,Don't know,Don't know,Don't know,No,No,Sometimes,No,No
-282,2014-08-27 14:10:15,TX,No,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,No,No
-283,2014-08-27 14:10:47,NY,Yes,M,No,Yes,Somewhat difficult,Don't know,Yes,Sometimes,Some of them,No
-286,2014-08-27 14:11:52,WA,Yes,F,Don't know,Yes,Don't know,Don't know,Yes,Rarely,Some of them,No
-287,2014-08-27 14:11:55,WA,No,M,Don't know,Don't know,Very easy,Yes,No,Never,Some of them,No
-288,2014-08-27 14:13:02,TX,No,F,No,No,Don't know,Don't know,Yes,Sometimes,No,No
-289,2014-08-27 14:13:16,TX,Yes,F,Don't know,Yes,Somewhat easy,Don't know,Yes,Rarely,No,Yes
-291,2014-08-27 14:14:52,CA,No,M,Don't know,Don't know,Don't know,Don't know,No,Never,Some of them,No
-292,2014-08-27 14:15:13,NY,Yes,M,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,No
-293,2014-08-27 14:15:21,CA,No,M,Don't know,Yes,Don't know,Don't know,No,Never,Some of them,No
-296,2014-08-27 14:18:20,SC,Yes,F,Don't know,Yes,Very easy,Yes,Yes,Sometimes,Yes,No
-298,2014-08-27 14:18:44,CA,Yes,M,Yes,Yes,Don't know,Don't know,Yes,Sometimes,No,No
-299,2014-08-27 14:19:08,NY,No,M,Yes,Yes,Don't know,Don't know,No,Never,Yes,No
-300,2014-08-27 14:19:12,NY,No,F,Yes,Yes,Don't know,Yes,Yes,Sometimes,Some of them,No
-301,2014-08-27 14:20:08,CA,No,F,Don't know,Yes,Somewhat easy,Yes,Yes,Sometimes,Yes,No
-302,2014-08-27 14:20:43,MA,No,M,Don't know,Yes,Don't know,Don't know,No,Rarely,Yes,No
-304,2014-08-27 14:21:42,CA,No,F,Yes,Yes,Somewhat easy,Yes,Yes,Rarely,Yes,No
-309,2014-08-27 14:23:51,TN,No,M,Yes,Yes,Don't know,Don't know,No,Sometimes,Yes,No
-311,2014-08-27 14:24:15,OR,No,M,Yes,Yes,Don't know,Don't know,Yes,Rarely,Yes,No
-312,2014-08-27 14:25:41,WA,No,M,No,No,Somewhat easy,Yes,Yes,Never,Yes,No
-313,2014-08-27 14:25:54,CA,Yes,M,Don't know,Yes,Don't know,No,Yes,Sometimes,No,No
-318,2014-08-27 14:27:51,NY,Yes,F,Yes,Yes,Somewhat easy,Yes,Yes,Often,Some of them,No
-320,2014-08-27 14:28:41,SD,Yes,M,Yes,Yes,Somewhat easy,Yes,Yes,Rarely,Yes,Yes
-321,2014-08-27 14:28:43,CA,No,M,Don't know,Yes,Don't know,No,Yes,Sometimes,Some of them,No
-322,2014-08-27 14:28:49,OR,No,M,Yes,Yes,Somewhat easy,Yes,No,Never,Yes,No
-323,2014-08-27 14:28:51,CA,Yes,F,Yes,Yes,Don't know,Don't know,Yes,Sometimes,No,No
-324,2014-08-27 14:29:19,CA,No,M,No,Yes,Don't know,Don't know,Yes,Rarely,No,No
-326,2014-08-27 14:31:06,CO,No,F,Yes,Yes,Somewhat easy,Don't know,No,Never,Some of them,No
-327,2014-08-27 14:31:28,CA,Yes,M,Yes,Don't know,Don't know,Yes,Yes,Sometimes,Yes,No
-328,2014-08-27 14:31:44,OH,No,M,No,No,Don't know,Don't know,No,Never,Some of them,Yes
-335,2014-08-27 14:37:46,WA,No,M,Don't know,Yes,Very easy,Don't know,No,Never,Some of them,No
-337,2014-08-27 14:38:13,CA,No,F,No,Yes,Very easy,Don't know,No,Sometimes,Some of them,No
-341,2014-08-27 14:39:07,WA,Yes,F,No,No,Very difficult,No,No,Sometimes,Some of them,Yes
-342,2014-08-27 14:39:20,CA,No,M,Don't know,Don't know,Very easy,No,No,Sometimes,No,No
-345,2014-08-27 14:44:29,WA,Yes,F,No,Yes,Don't know,Don't know,Yes,Sometimes,Yes,No
-347,2014-08-27 14:45:45,CA,Yes,M,Yes,Don't know,Don't know,Don't know,Yes,Never,Yes,No
-348,2014-08-27 14:47:10,CA,No,M,Don't know,Don't know,Don't know,Don't know,No,Sometimes,No,No
-351,2014-08-27 14:49:30,MA,No,M,Yes,Yes,Don't know,Yes,Yes,Sometimes,No,No
-353,2014-08-27 14:52:44,CA,Yes,M,Yes,Yes,Don't know,Don't know,Yes,Often,No,No
-356,2014-08-27 14:54:23,IN,Yes,M,No,Don't know,Don't know,Don't know,Yes,Sometimes,Some of them,No
-357,2014-08-27 14:54:56,WA,Yes,M,Yes,Yes,Don't know,Don't know,Yes,Sometimes,No,No
-358,2014-08-27 14:57:46,WA,No,M,No,No,Somewhat easy,Don't know,Yes,Sometimes,Some of them,Yes
-364,2014-08-27 15:05:21,OH,No,M,No,Yes,Don't know,No,Yes,Often,No,Yes
-365,2014-08-27 15:09:58,GA,Yes,M,Don't know,Don't know,Somewhat difficult,No,Yes,Sometimes,No,No
-368,2014-08-27 15:14:50,IN,Yes,M,Don't know,Yes,Don't know,Don't know,Yes,Rarely,Yes,No
-371,2014-08-27 15:20:53,WA,Yes,M,Yes,Yes,Somewhat difficult,No,Yes,Often,Some of them,No
-372,2014-08-27 15:21:59,PA,Yes,M,Yes,Yes,Very easy,Yes,Yes,Rarely,Yes,No
-373,2014-08-27 15:22:20,WA,No,F,Yes,Yes,Somewhat easy,Yes,Yes,Sometimes,Yes,No
-374,2014-08-27 15:22:26,CA,Yes,F,No,Don't know,Somewhat easy,Don't know,Yes,Rarely,No,No
-375,2014-08-27 15:22:43,MA,No,M,Don't know,Yes,Don't know,Don't know,Yes,Never,Some of them,Yes
-376,2014-08-27 15:22:45,WA,No,F,No,Yes,Don't know,No,Yes,Rarely,No,No
-377,2014-08-27 15:22:50,WA,Yes,F,No,Don't know,Don't know,Yes,Yes,Sometimes,Yes,Yes
-379,2014-08-27 15:23:06,CA,Yes,F,Yes,Yes,Don't know,Don't know,Yes,Never,No,No
-381,2014-08-27 15:23:19,CA,No,M,Yes,Yes,Don't know,Yes,Yes,Rarely,Yes,No
-384,2014-08-27 15:23:51,NV,No,M,No,Don't know,Don't know,No,Yes,Sometimes,No,No
-385,2014-08-27 15:23:51,CO,Yes,F,Don't know,Yes,Don't know,Don't know,Yes,Rarely,Yes,Yes
-388,2014-08-27 15:24:27,CA,No,F,No,Don't know,Somewhat difficult,Don't know,Yes,Sometimes,No,No
-392,2014-08-27 15:24:49,SC,No,M,Don't know,Don't know,Somewhat easy,Don't know,No,Never,No,No
-398,2014-08-27 15:25:41,AL,No,F,No,Don't know,Don't know,Don't know,No,Never,Some of them,No
-400,2014-08-27 15:26:05,OR,Yes,M,No,Yes,Somewhat difficult,No,Yes,Often,Yes,No
-401,2014-08-27 15:26:37,NJ,Yes,M,No,Yes,Don't know,No,Yes,Sometimes,No,No
-403,2014-08-27 15:26:57,CA,Yes,M,No,Yes,Very difficult,No,Yes,Sometimes,Some of them,No
-406,2014-08-27 15:27:38,NH,Yes,M,Yes,Yes,Don't know,Yes,Yes,Never,Some of them,Yes
-410,2014-08-27 15:29:03,OH,Yes,M,No,Yes,Somewhat easy,No,Yes,Often,No,Yes
-412,2014-08-27 15:29:23,MA,Yes,M,Don't know,Don't know,Don't know,Don't know,No,Never,Some of them,No
-414,2014-08-27 15:31:10,OK,No,F,Don't know,Don't know,Somewhat difficult,Yes,Yes,Sometimes,Some of them,Yes
-415,2014-08-27 15:31:18,CA,Yes,M,Don't know,Don't know,Somewhat easy,Don't know,No,Often,Yes,No
-419,2014-08-27 15:31:40,ID,Yes,M,Don't know,No,Don't know,No,Yes,Sometimes,No,Yes
-426,2014-08-27 15:35:21,TX,Yes,M,No,No,Somewhat difficult,No,Yes,Sometimes,Some of them,No
-431,2014-08-27 15:38:07,NY,Yes,F,No,No,Very easy,Yes,Yes,Rarely,Some of them,No
-432,2014-08-27 15:38:27,MS,No,M,No,No,Somewhat easy,Don't know,Yes,Often,Some of them,Yes
-433,2014-08-27 15:38:31,NJ,No,M,No,Don't know,Don't know,Don't know,No,Sometimes,Yes,No
-434,2014-08-27 15:38:32,CA,No,F,No,Don't know,Somewhat difficult,Don't know,Yes,Sometimes,Some of them,No
-435,2014-08-27 15:38:37,TN,No,M,Don't know,Don't know,Don't know,Don't know,No,Never,Yes,No
-438,2014-08-27 15:43:17,MA,No,F,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,No,No
-439,2014-08-27 15:43:27,PA,Yes,M,Yes,Yes,Somewhat easy,Yes,Yes,Rarely,Yes,Yes
-441,2014-08-27 15:43:45,KY,No,M,Don't know,Yes,Somewhat easy,Don't know,No,Rarely,No,Yes
-442,2014-08-27 15:44:16,PA,No,M,Yes,Yes,Don't know,Yes,Yes,Sometimes,Yes,No
-445,2014-08-27 15:46:39,CA,Yes,M,Don't know,Yes,Don't know,No,No,Often,Some of them,No
-447,2014-08-27 15:47:33,CA,No,F,No,Yes,Somewhat difficult,No,Yes,Sometimes,Some of them,No
-448,2014-08-27 15:50:26,AZ,No,M,No,Yes,Don't know,Don't know,Yes,Rarely,Yes,No
-450,2014-08-27 15:53:39,MA,Yes,M,No,Yes,Very easy,Yes,Yes,Often,Yes,Yes
-452,2014-08-27 15:54:45,WA,Yes,M,No,Yes,Very difficult,No,Yes,Often,No,No
-453,2014-08-27 15:55:07,CA,No,M,No,Don't know,Don't know,Don't know,Yes,Sometimes,No,No
-454,2014-08-27 15:55:07,OR,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,No,No
-455,2014-08-27 15:55:08,MI,No,M,No,Don't know,Somewhat easy,Don't know,No,Sometimes,Yes,No
-463,2014-08-27 16:02:16,CA,Yes,F,No,Don't know,Somewhat difficult,No,No,Never,No,No
-464,2014-08-27 16:03:20,TX,Yes,M,Don't know,Don't know,Somewhat easy,Yes,Yes,Sometimes,Yes,Yes
-466,2014-08-27 16:06:46,CA,Yes,M,No,Yes,Don't know,No,Yes,Rarely,Yes,No
-470,2014-08-27 16:13:31,OR,No,M,Yes,Yes,Very easy,Yes,Yes,Sometimes,Yes,Yes
-471,2014-08-27 16:13:40,CA,No,M,Yes,Yes,Somewhat easy,Yes,Yes,Rarely,Yes,No
-472,2014-08-27 16:13:42,OH,No,M,No,Don't know,Very difficult,No,No,Sometimes,No,No
-474,2014-08-27 16:14:43,OH,No,M,No,Don't know,Very difficult,Don't know,No,Sometimes,Yes,Yes
-475,2014-08-27 16:15:26,CA,No,M,Yes,Yes,Don't know,Don't know,Yes,Sometimes,No,No
-481,2014-08-27 16:18:44,CA,No,M,Yes,Yes,Somewhat easy,Don't know,Yes,Sometimes,No,No
-483,2014-08-27 16:19:25,IL,No,M,No,Yes,Don't know,Don't know,Yes,Rarely,No,No
-484,2014-08-27 16:20:36,TX,No,M,Don't know,Don't know,Don't know,Don't know,No,Never,No,No
-486,2014-08-27 16:21:11,NY,Yes,F,No,Don't know,Don't know,Don't know,Yes,Sometimes,No,No
-487,2014-08-27 16:21:24,CA,Yes,M,No,No,Very easy,Yes,Yes,Often,Yes,Yes
-493,2014-08-27 16:25:26,CA,Yes,F,Don't know,No,Don't know,Don't know,Yes,Sometimes,Some of them,Yes
-495,2014-08-27 16:27:04,NY,Yes,F,No,Yes,Don't know,Yes,Yes,Often,Some of them,No
-497,2014-08-27 16:28:10,CA,Yes,F,No,Don't know,Somewhat difficult,No,Yes,Often,No,Yes
-504,2014-08-27 16:35:02,OH,No,F,No,No,Don't know,No,Yes,Sometimes,No,No
-505,2014-08-27 16:36:57,CA,No,M,Yes,Yes,Don't know,Yes,Yes,Sometimes,No,No
-508,2014-08-27 16:40:35,CA,Yes,M,Yes,Yes,Very easy,Yes,Yes,Sometimes,Yes,No
-510,2014-08-27 16:42:55,NY,No,F,Yes,Yes,Very easy,Don't know,Yes,Sometimes,Some of them,Yes
-511,2014-08-27 16:47:48,WA,No,F,No,No,Somewhat easy,Yes,No,Sometimes,No,No
-513,2014-08-27 16:55:04,WA,No,M,Yes,Yes,Very easy,Yes,No,Never,Yes,No
-514,2014-08-27 17:00:15,VA,Yes,M,Yes,Yes,Don't know,No,Yes,Sometimes,No,No
-516,2014-08-27 17:04:29,OH,No,M,Yes,Yes,Don't know,Yes,Yes,Rarely,Yes,Yes
-520,2014-08-27 17:12:01,CA,No,M,Yes,Yes,Don't know,Yes,No,Never,Yes,No
-524,2014-08-27 17:22:29,IL,Yes,M,No,Don't know,Somewhat difficult,Yes,Yes,Sometimes,Yes,Yes
-528,2014-08-27 17:33:52,NC,No,M,Yes,Yes,Very easy,Yes,Yes,Sometimes,Some of them,No
-536,2014-08-27 17:49:21,WI,Yes,M,Yes,Yes,Somewhat easy,No,Yes,Often,Yes,Yes
-537,2014-08-27 17:49:30,CA,Yes,M,Don't know,Don't know,Don't know,No,Yes,Never,No,No
-539,2014-08-27 17:56:50,CA,Yes,F,Don't know,Yes,Don't know,No,Yes,Sometimes,Some of them,No
-541,2014-08-27 18:02:32,PA,Yes,F,No,Yes,Somewhat easy,Yes,Yes,Rarely,Yes,No
-543,2014-08-27 18:12:55,CA,Yes,F,Don't know,Yes,Don't know,No,Yes,Often,Some of them,Yes
-547,2014-08-27 18:18:18,CA,Yes,M,Yes,Yes,Somewhat difficult,No,Yes,Sometimes,Yes,No
-561,2014-08-27 19:25:42,OR,Yes,M,Don't know,Don't know,Don't know,Yes,Yes,Sometimes,No,Yes
-563,2014-08-27 19:28:35,CO,No,M,Don't know,Don't know,Don't know,Don't know,Yes,Rarely,Some of them,No
-565,2014-08-27 19:34:56,GA,No,M,No,Yes,Somewhat difficult,No,Yes,Sometimes,No,No
-566,2014-08-27 19:38:44,OR,No,M,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,Yes,No
-567,2014-08-27 19:41:28,CA,No,M,Yes,Yes,Somewhat easy,Don't know,Yes,Sometimes,Some of them,No
-568,2014-08-27 19:45:36,CA,Yes,M,Don't know,Yes,Somewhat easy,No,No,Sometimes,Some of them,No
-570,2014-08-27 20:13:06,CA,Yes,M,No,No,Don't know,Yes,Yes,Rarely,Yes,No
-572,2014-08-27 20:33:33,NY,No,F,Yes,Don't know,Don't know,Yes,No,Sometimes,Yes,No
-573,2014-08-27 20:48:54,MA,Yes,F,No,Yes,Somewhat difficult,No,Yes,Sometimes,Yes,No
-575,2014-08-27 20:52:31,PA,Yes,M,Don't know,Don't know,Somewhat easy,Yes,No,Never,Yes,No
-577,2014-08-27 20:55:48,MI,Yes,M,No,Don't know,Very easy,Yes,No,Sometimes,Yes,Yes
-580,2014-08-27 21:17:31,CA,Yes,M,No,Yes,Don't know,Don't know,Yes,Often,Some of them,No
-583,2014-08-27 21:39:23,IN,No,M,No,No,Very easy,Yes,No,Never,Yes,No
-587,2014-08-27 21:55:28,MI,No,F,No,Yes,Don't know,Don't know,No,Never,Some of them,No
-588,2014-08-27 22:00:36,OH,Yes,M,No,No,Somewhat easy,Don't know,Yes,Sometimes,Yes,No
-589,2014-08-27 22:04:43,OH,No,M,No,No,Somewhat easy,Don't know,Yes,Sometimes,Yes,No
-590,2014-08-27 22:04:47,NH,Yes,M,No,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,Yes
-591,2014-08-27 22:06:14,OH,Yes,M,No,Don't know,Somewhat difficult,Don't know,Yes,Sometimes,Some of them,No
-593,2014-08-27 22:11:16,TN,Yes,M,Yes,Yes,Don't know,No,Yes,Sometimes,Some of them,No
-594,2014-08-27 22:12:55,OR,Yes,M,Yes,Yes,Don't know,Yes,No,Never,Yes,No
-595,2014-08-27 22:13:55,PA,No,M,Don't know,Yes,Don't know,Yes,No,Rarely,Some of them,No
-599,2014-08-27 22:26:03,NY,Yes,M,Don't know,No,Somewhat difficult,No,Yes,Rarely,No,No
-600,2014-08-27 22:32:36,CA,Yes,M,Yes,Yes,Don't know,Don't know,No,Often,Yes,No
-605,2014-08-27 23:09:46,MI,No,M,No,No,Don't know,No,No,Sometimes,Some of them,No
-606,2014-08-27 23:10:16,WY,No,M,Don't know,Don't know,Don't know,Don't know,No,Sometimes,Some of them,Yes
-610,2014-08-27 23:54:08,TX,No,M,No,No,Somewhat easy,Yes,Yes,Sometimes,Yes,No
-614,2014-08-28 00:02:36,WA,No,M,No,Yes,Very easy,Don't know,No,Rarely,No,No
-615,2014-08-28 00:05:34,GA,No,M,Yes,No,Somewhat difficult,Yes,Yes,Often,Yes,Yes
-616,2014-08-28 00:17:24,MI,No,M,Don't know,Yes,Don't know,Yes,No,Never,Some of them,No
-622,2014-08-28 01:30:12,WA,No,F,No,Yes,Very easy,Don't know,Yes,Often,Some of them,Yes
-623,2014-08-28 01:38:53,CA,Yes,F,Yes,Yes,Somewhat easy,Don't know,Yes,Sometimes,No,No
-624,2014-08-28 01:41:17,OR,Yes,F,No,Don't know,Don't know,Don't know,Yes,Sometimes,Some of them,No
-625,2014-08-28 01:56:43,CA,Yes,F,Yes,Yes,Somewhat difficult,No,Yes,Rarely,Some of them,No
-627,2014-08-28 02:17:42,CA,Yes,M,No,No,Somewhat easy,No,Yes,Sometimes,Some of them,No
-629,2014-08-28 02:30:00,MI,Yes,M,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,Yes
-633,2014-08-28 02:49:34,CA,No,F,Don't know,Yes,Somewhat easy,Yes,Yes,Sometimes,Yes,Yes
-643,2014-08-28 03:36:10,CA,No,M,Yes,Yes,Somewhat difficult,Don't know,No,Never,No,No
-662,2014-08-28 05:14:28,CA,No,M,Don't know,Don't know,Don't know,Don't know,No,Never,Some of them,No
-671,2014-08-28 07:03:03,NC,Yes,M,Don't know,Don't know,Don't know,Don't know,No,Sometimes,No,No
-677,2014-08-28 08:39:49,OH,Yes,F,No,Don't know,Don't know,Don't know,Yes,Rarely,No,No
-679,2014-08-28 08:43:23,VA,No,M,Yes,Yes,Very easy,Yes,Yes,Often,Yes,Yes
-686,2014-08-28 09:40:42,NC,Yes,F,Yes,Yes,Somewhat easy,Yes,Yes,Rarely,Yes,No
-687,2014-08-28 09:53:42,NY,Yes,M,Yes,Yes,Somewhat easy,Yes,Yes,Sometimes,Yes,No
-701,2014-08-28 09:57:25,WA,Yes,M,Yes,No,Very difficult,Yes,Yes,Rarely,Yes,Yes
-702,2014-08-28 09:58:08,CA,Yes,M,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,Yes,No
-706,2014-08-28 10:01:15,NY,No,M,No,Don't know,Don't know,No,No,Never,No,No
-707,2014-08-28 10:01:31,NY,No,M,Don't know,Don't know,Very easy,Don't know,Yes,Sometimes,Yes,Yes
-709,2014-08-28 10:02:23,NY,No,M,No,Yes,Very easy,Yes,Yes,Often,Yes,No
-712,2014-08-28 10:04:41,TN,Yes,M,Don't know,Don't know,Very easy,Don't know,No,Never,Yes,No
-713,2014-08-28 10:05:43,CO,No,M,Yes,Yes,Don't know,No,No,Never,Some of them,No
-714,2014-08-28 10:07:37,PA,Yes,M,Don't know,Yes,Very difficult,No,Yes,Sometimes,No,Yes
-723,2014-08-28 10:17:19,MO,Yes,M,Don't know,Don't know,Don't know,No,Yes,Never,Yes,Yes
-743,2014-08-28 11:04:00,TX,Yes,M,Don't know,Yes,Somewhat easy,Don't know,Yes,Sometimes,Yes,No
-744,2014-08-28 11:04:17,OH,No,M,No,Yes,Very difficult,Don't know,Yes,Sometimes,Some of them,Yes
-745,2014-08-28 11:07:23,TX,No,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Some of them,Yes
-748,2014-08-28 11:14:21,CA,Yes,M,Yes,Yes,Very easy,Yes,Yes,Rarely,Yes,No
-752,2014-08-28 11:21:17,MI,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Some of them,No
-754,2014-08-28 11:22:04,CA,No,M,Yes,Yes,Very easy,Yes,No,Never,Yes,No
-757,2014-08-28 11:29:20,CA,Yes,M,Don't know,Yes,Somewhat difficult,No,Yes,Sometimes,No,No
-764,2014-08-28 11:47:35,CA,No,F,Don't know,Don't know,Somewhat easy,No,Yes,Sometimes,No,No
-766,2014-08-28 11:50:06,AZ,Yes,F,Yes,Yes,Somewhat easy,No,Yes,Sometimes,No,No
-768,2014-08-28 11:54:23,CA,No,F,No,Yes,Don't know,No,Yes,Never,Some of them,Yes
-771,2014-08-28 12:02:59,VA,Yes,M,No,No,Very easy,Yes,Yes,Sometimes,Yes,Yes
-781,2014-08-28 12:19:34,WI,No,M,No,No,Somewhat difficult,Don't know,Yes,Sometimes,Yes,Yes
-787,2014-08-28 12:42:12,CO,Yes,M,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,No
-791,2014-08-28 13:01:26,NY,No,M,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,No
-792,2014-08-28 13:04:30,TX,No,F,No,Don't know,Somewhat difficult,No,Yes,Often,Some of them,Yes
-794,2014-08-28 13:11:05,WA,Yes,F,Don't know,Don't know,Very difficult,No,Yes,Sometimes,Some of them,No
-795,2014-08-28 13:17:40,MI,No,M,No,Yes,Somewhat easy,No,No,Never,Yes,No
-796,2014-08-28 13:26:17,CA,Yes,F,Don't know,Yes,Don't know,Don't know,Yes,Often,Yes,No
-799,2014-08-28 13:35:25,CA,No,F,Don't know,Don't know,Very easy,Yes,Yes,Sometimes,No,Yes
-801,2014-08-28 13:39:40,CA,Yes,M,No,No,Very easy,Yes,Yes,Sometimes,Yes,No
-809,2014-08-28 14:00:02,TX,Yes,M,Yes,Yes,Don't know,No,No,Sometimes,Some of them,No
-813,2014-08-28 14:12:58,NV,No,M,No,No,Don't know,Don't know,Yes,Never,Some of them,Yes
-815,2014-08-28 14:31:00,WA,No,F,Don't know,Don't know,Don't know,Don't know,No,Sometimes,No,No
-816,2014-08-28 14:38:50,FL,Yes,M,Yes,Yes,Very difficult,Don't know,Yes,Sometimes,Yes,No
-822,2014-08-28 14:53:32,IL,No,M,No,No,Very difficult,Don't know,No,Never,No,Yes
-826,2014-08-28 15:32:03,WA,No,M,Don't know,Don't know,Don't know,Yes,No,Never,Yes,No
-827,2014-08-28 15:37:04,MI,No,M,No,Don't know,Somewhat easy,Don't know,No,Sometimes,No,Yes
-831,2014-08-28 15:50:12,CA,No,M,Don't know,Yes,Don't know,Don't know,No,Never,Some of them,No
-833,2014-08-28 15:54:35,CA,Yes,F,No,Yes,Don't know,Don't know,Yes,Rarely,Yes,No
-834,2014-08-28 15:56:47,TX,No,M,No,No,Don't know,Don't know,Yes,Sometimes,No,No
-836,2014-08-28 16:17:09,NY,Yes,F,No,Yes,Very easy,No,Yes,Often,Yes,No
-839,2014-08-28 16:52:23,PA,No,M,Yes,Yes,Somewhat difficult,No,No,Rarely,Yes,No
-842,2014-08-28 16:54:49,NY,Yes,F,No,Yes,Somewhat difficult,Don't know,Yes,Sometimes,Yes,No
-843,2014-08-28 16:55:07,CA,No,M,Don't know,Don't know,Don't know,Don't know,No,Sometimes,No,No
-846,2014-08-28 16:56:57,TN,No,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,No,No
-848,2014-08-28 16:57:07,TN,Yes,M,No,No,Very easy,Yes,Yes,Sometimes,Yes,Yes
-849,2014-08-28 16:57:46,IL,No,M,Yes,Yes,Don't know,Don't know,No,Rarely,Some of them,No
-850,2014-08-28 16:57:49,WI,No,M,No,No,Somewhat easy,Don't know,Yes,Sometimes,No,Yes
-856,2014-08-28 17:01:25,MN,No,M,Yes,Yes,Very easy,Yes,No,Never,Yes,Yes
-863,2014-08-28 17:07:28,TN,Yes,M,No,No,Very difficult,No,Yes,Often,Yes,Yes
-866,2014-08-28 17:09:03,DC,Yes,M,No,Yes,Somewhat easy,Don't know,Yes,Sometimes,Some of them,No
-870,2014-08-28 17:11:48,CA,No,M,Yes,Yes,Somewhat easy,Yes,Yes,Rarely,Yes,Yes
-875,2014-08-28 17:19:27,CA,Yes,M,Don't know,Don't know,Very difficult,Don't know,Yes,Sometimes,No,Yes
-879,2014-08-28 17:21:01,CO,No,M,Don't know,Yes,Very easy,Don't know,Yes,Never,No,No
-880,2014-08-28 17:21:43,TN,Yes,M,Don't know,Don't know,Don't know,Yes,Yes,Sometimes,Some of them,No
-882,2014-08-28 17:22:53,TN,No,M,Don't know,Yes,Don't know,Yes,No,Never,Yes,Yes
-883,2014-08-28 17:23:19,VA,No,M,Don't know,Yes,Somewhat difficult,Yes,No,Never,Yes,No
-884,2014-08-28 17:27:03,TN,Yes,M,Don't know,Yes,Don't know,No,Yes,Sometimes,No,Yes
-889,2014-08-28 17:33:05,TN,Yes,M,Yes,Yes,Don't know,Don't know,No,Sometimes,Yes,No
-891,2014-08-28 17:34:30,TN,Yes,M,No,No,Very difficult,Don't know,Yes,Rarely,No,Yes
-893,2014-08-28 17:36:48,TN,Yes,M,Yes,Yes,Very difficult,No,No,Never,No,No
-894,2014-08-28 17:39:06,TN,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Often,Some of them,Yes
-896,2014-08-28 17:46:37,IN,No,M,Yes,Yes,Somewhat easy,Yes,No,Never,Yes,No
-898,2014-08-28 17:47:49,VA,No,M,No,No,Somewhat easy,Yes,No,Never,Yes,Yes
-899,2014-08-28 17:50:32,TX,No,M,Don't know,Don't know,Somewhat easy,No,No,Sometimes,Yes,Yes
-902,2014-08-28 17:57:42,CA,No,F,Yes,Yes,Very easy,Yes,Yes,Often,Some of them,No
-904,2014-08-28 17:59:54,CO,No,M,No,No,Somewhat difficult,Don't know,No,Never,Some of them,No
-905,2014-08-28 17:59:57,OR,Yes,M,Yes,Yes,Somewhat difficult,No,Yes,Sometimes,No,No
-907,2014-08-28 18:02:09,OH,Yes,F,No,Yes,Don't know,No,Yes,Sometimes,No,No
-908,2014-08-28 18:07:42,TN,No,M,Don't know,Yes,Don't know,Don't know,Yes,Rarely,No,Yes
-909,2014-08-28 18:17:41,VA,No,M,Yes,Yes,Don't know,Yes,Yes,Never,Yes,No
-911,2014-08-28 18:21:23,OR,No,M,Yes,Yes,Don't know,Don't know,Yes,Rarely,No,Yes
-913,2014-08-28 18:26:35,OR,Yes,M,Yes,Don't know,Somewhat easy,Don't know,Yes,Sometimes,Yes,No
-916,2014-08-28 19:04:05,PA,No,M,No,No,Somewhat easy,Don't know,No,Never,Some of them,Yes
-919,2014-08-28 19:28:27,CA,Yes,F,Don't know,Don't know,Don't know,Don't know,Yes,Often,No,No
-920,2014-08-28 19:35:39,TN,Yes,M,Don't know,Don't know,Somewhat easy,Don't know,No,Sometimes,Yes,No
-925,2014-08-28 21:24:48,CA,No,M,No,Yes,Don't know,Don't know,No,Sometimes,No,No
-929,2014-08-28 21:38:12,MO,Yes,M,Don't know,Don't know,Very easy,Don't know,No,Never,Yes,No
-931,2014-08-28 21:47:33,TX,No,M,Yes,Don't know,Very easy,Yes,No,Often,Yes,No
-933,2014-08-28 22:17:15,WA,Yes,M,No,No,Very difficult,No,Yes,Sometimes,Some of them,No
-934,2014-08-28 22:18:41,WA,Yes,M,Yes,Don't know,Very difficult,No,Yes,Sometimes,Some of them,No
-936,2014-08-28 22:22:39,TX,No,M,Don't know,Don't know,Don't know,Don't know,Yes,Often,No,No
-938,2014-08-28 22:35:10,WA,No,M,Yes,Yes,Somewhat easy,Don't know,Yes,Rarely,Some of them,No
-939,2014-08-28 22:39:57,WA,Yes,M,Yes,Yes,Somewhat difficult,No,Yes,Sometimes,Yes,Yes
-940,2014-08-28 22:46:40,WA,Yes,M,Don't know,Yes,Don't know,No,Yes,Rarely,No,No
-941,2014-08-28 23:03:05,WA,Yes,M,Yes,Yes,Very difficult,Don't know,Yes,Sometimes,Some of them,Yes
-942,2014-08-28 23:13:18,AZ,Yes,F,Don't know,Yes,Somewhat easy,Yes,Yes,Sometimes,Yes,No
-943,2014-08-28 23:16:30,WA,Yes,M,Yes,Yes,Don't know,Don't know,No,Sometimes,No,No
-944,2014-08-28 23:57:07,WA,Yes,M,Don't know,Don't know,Somewhat easy,No,Yes,Sometimes,No,No
-945,2014-08-29 00:05:07,AZ,Yes,M,No,Yes,Don't know,No,Yes,Often,No,No
-947,2014-08-29 00:11:17,WA,No,M,Yes,Yes,Somewhat easy,Yes,Yes,Rarely,Yes,No
-948,2014-08-29 00:41:25,CA,No,M,Yes,Yes,Very difficult,Don't know,Yes,Sometimes,Some of them,No
-949,2014-08-29 00:43:37,WA,Yes,M,Don't know,Yes,Very easy,Don't know,Yes,Sometimes,Some of them,No
-958,2014-08-29 03:08:25,CA,No,M,Don't know,Yes,Don't know,No,Yes,Rarely,Some of them,No
-970,2014-08-29 07:12:43,MI,No,M,No,No,Very difficult,No,No,Sometimes,No,Yes
-972,2014-08-29 07:28:17,IN,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Rarely,Yes,No
-973,2014-08-29 07:51:42,GA,Yes,M,Yes,Yes,Don't know,Yes,No,Never,Yes,No
-980,2014-08-29 08:57:42,ME,Yes,M,No,No,Don't know,No,Yes,Sometimes,Yes,Yes
-983,2014-08-29 09:01:01,NY,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Often,Some of them,No
-988,2014-08-29 09:10:08,PA,Yes,M,Yes,Yes,Somewhat easy,Don't know,No,Sometimes,No,No
-992,2014-08-29 09:14:45,IL,Yes,F,Don't know,Yes,Very easy,Yes,Yes,Sometimes,No,No
-996,2014-08-29 09:24:34,MN,No,M,No,Yes,Very easy,Don't know,Yes,Rarely,Yes,Yes
-1000,2014-08-29 09:29:37,PA,Yes,M,Don't know,Yes,Somewhat easy,Don't know,Yes,Often,Yes,Yes
-1001,2014-08-29 09:31:37,IN,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Yes,Yes
-1002,2014-08-29 09:31:49,PA,Yes,M,No,Yes,Very easy,Don't know,Yes,Often,Yes,No
-1003,2014-08-29 09:33:43,OH,No,F,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,No,Yes
-1007,2014-08-29 09:40:13,SD,No,M,No,Don't know,Don't know,Don't know,No,Sometimes,No,No
-1008,2014-08-29 09:42:23,IN,Yes,M,No,No,Somewhat easy,Yes,Yes,Sometimes,Yes,Yes
-1011,2014-08-29 09:47:30,TX,No,F,Don't know,No,Somewhat easy,Yes,No,Never,Some of them,Yes
-1013,2014-08-29 09:53:38,OR,Yes,F,Don't know,Don't know,Don't know,Don't know,No,Sometimes,Yes,Yes
-1014,2014-08-29 09:53:50,SD,No,M,Yes,Yes,Don't know,Yes,No,Sometimes,Some of them,No
-1018,2014-08-29 09:59:39,CA,Yes,M,No,Yes,Don't know,Don't know,Yes,Sometimes,No,Yes
-1022,2014-08-29 10:12:10,TN,No,M,Yes,Yes,Somewhat easy,Yes,No,Never,Yes,No
-1024,2014-08-29 10:13:43,IN,Yes,M,No,Don't know,Somewhat easy,No,No,Sometimes,Some of them,Yes
-1025,2014-08-29 10:16:45,CA,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Some of them,Yes
-1026,2014-08-29 10:27:15,OR,No,F,Yes,Yes,Don't know,Yes,No,Never,Yes,No
-1027,2014-08-29 10:30:09,IN,No,M,No,Don't know,Don't know,Don't know,No,Sometimes,Yes,No
-1028,2014-08-29 10:32:24,GA,Yes,F,No,Yes,Don't know,Don't know,No,Never,No,Yes
-1031,2014-08-29 10:38:29,MN,Yes,M,Don't know,Don't know,Don't know,Yes,Yes,Rarely,Yes,No
-1033,2014-08-29 10:59:57,FL,Yes,F,No,No,Very difficult,No,Yes,Often,No,No
-1038,2014-08-29 11:11:00,CA,No,F,No,No,Very easy,Yes,No,Sometimes,Yes,No
-1040,2014-08-29 11:19:46,OH,Yes,F,No,Don't know,Somewhat easy,No,Yes,Sometimes,Some of them,Yes
-1042,2014-08-29 11:20:28,WI,Yes,M,Yes,Yes,Don't know,Don't know,Yes,Sometimes,No,Yes
-1043,2014-08-29 11:20:52,WA,No,M,No,Yes,Don't know,Don't know,Yes,Sometimes,No,No
-1050,2014-08-29 11:32:44,WA,Yes,F,No,Yes,Don't know,No,Yes,Sometimes,Yes,No
-1053,2014-08-29 11:36:38,FL,No,M,Don't know,Don't know,Very easy,Don't know,No,Never,Some of them,Yes
-1055,2014-08-29 11:40:29,WA,Yes,M,Don't know,Yes,Very easy,Yes,Yes,Sometimes,Yes,No
-1056,2014-08-29 11:43:12,CA,No,M,Don't know,Don't know,Don't know,Don't know,No,Never,Yes,No
-1057,2014-08-29 11:44:33,FL,No,M,No,Don't know,Very easy,Yes,No,Never,Yes,Yes
-1059,2014-08-29 11:53:59,OR,No,F,Yes,Yes,Very easy,Don't know,Yes,Rarely,Some of them,No
-1061,2014-08-29 11:56:18,CA,No,M,No,Don't know,Very difficult,No,Yes,Sometimes,No,No
-1062,2014-08-29 12:00:33,FL,No,M,No,Don't know,Somewhat difficult,Don't know,No,Never,No,Yes
-1063,2014-08-29 12:08:12,UT,No,M,No,Don't know,Somewhat easy,Don't know,Yes,Often,No,Yes
-1066,2014-08-29 12:26:21,NJ,No,M,Don't know,Yes,Somewhat easy,Don't know,No,Never,Some of them,Yes
-1070,2014-08-29 12:54:31,OH,No,F,No,No,Don't know,No,Yes,Sometimes,Some of them,Yes
-1071,2014-08-29 13:17:33,OH,No,M,Yes,Yes,Don't know,Don't know,No,Sometimes,No,Yes
-1072,2014-08-29 13:23:40,IL,No,M,Yes,Yes,Don't know,Yes,No,Rarely,No,No
-1074,2014-08-29 14:04:59,CA,No,M,No,Yes,Somewhat easy,No,Yes,Sometimes,No,No
-1075,2014-08-29 14:09:21,WA,Yes,M,Yes,Yes,Don't know,No,Yes,Sometimes,No,No
-1076,2014-08-29 14:31:00,VA,Yes,M,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,Yes
-1077,2014-08-29 14:51:49,WA,Yes,F,Yes,Yes,Very difficult,No,Yes,Often,Some of them,No
-1078,2014-08-29 14:59:43,NJ,Yes,F,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,No,Yes
-1080,2014-08-29 15:59:55,UT,Yes,M,No,No,Very easy,No,Yes,Often,Yes,No
-1088,2014-08-29 17:04:07,IN,No,M,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,Yes,No
-1089,2014-08-29 17:04:12,CA,Yes,F,Don't know,Yes,Don't know,Yes,Yes,Sometimes,Some of them,No
-1090,2014-08-29 17:26:15,OH,No,M,No,No,Very easy,Yes,No,Never,Some of them,Yes
-1092,2014-08-29 17:35:16,TN,Yes,M,No,No,Very difficult,No,Yes,Often,Yes,No
-1093,2014-08-29 17:54:32,WA,No,M,Don't know,Yes,Don't know,Yes,Yes,Sometimes,No,No
-1094,2014-08-29 18:33:32,UT,No,M,Yes,Yes,Very easy,Yes,Yes,Sometimes,Yes,No
-1096,2014-08-29 19:32:13,WI,Yes,M,No,Don't know,Very easy,Yes,Yes,Rarely,Yes,Yes
-1097,2014-08-29 19:34:40,WA,Yes,M,Don't know,Yes,Somewhat difficult,Don't know,Yes,Sometimes,Some of them,No
-1099,2014-08-29 20:53:58,NY,No,M,Don't know,Don't know,Don't know,Yes,No,Never,Some of them,No
-1101,2014-08-29 21:28:14,OH,Yes,M,No,Don't know,Don't know,Don't know,No,Sometimes,No,No
-1103,2014-08-29 22:08:51,WA,Yes,F,No,Don't know,Somewhat easy,Yes,No,Sometimes,Some of them,Yes
-1104,2014-08-29 23:51:01,CA,No,M,No,Yes,Don't know,Don't know,No,Never,No,Yes
-1105,2014-08-30 00:09:55,SC,No,M,Don't know,No,Somewhat easy,Don't know,Yes,Rarely,Some of them,Yes
-1108,2014-08-30 05:47:08,CA,No,F,Don't know,Yes,Don't know,Don't know,Yes,Often,No,No
-1113,2014-08-30 13:23:57,MN,Yes,M,Don't know,Don't know,Very easy,Don't know,Yes,Sometimes,Yes,Yes
-1117,2014-08-30 15:57:04,PA,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Some of them,No
-1119,2014-08-30 16:38:02,VT,No,M,No,No,Don't know,Don't know,No,Never,No,Yes
-1126,2014-08-30 20:46:35,NY,No,F,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Some of them,Yes
-1132,2014-08-31 16:48:13,TN,Yes,F,No,Yes,Somewhat easy,Don't know,Yes,Rarely,No,Yes
-1145,2014-09-01 12:45:24,NY,Yes,F,No,Don't know,Don't know,Don't know,No,Sometimes,No,Yes
-1149,2014-09-01 22:58:47,NC,No,M,Don't know,Yes,Don't know,Don't know,No,Rarely,Some of them,No
-1150,2014-09-02 03:13:53,CA,No,M,Yes,Yes,Somewhat difficult,Don't know,Yes,Sometimes,Some of them,No
-1158,2014-09-02 20:57:56,MN,Yes,M,No,No,Don't know,Don't know,Yes,Rarely,No,No
-1160,2014-09-03 13:09:52,NC,No,M,No,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,No
-1163,2014-09-04 17:38:22,TX,Yes,M,Don't know,Don't know,Somewhat easy,Don't know,Yes,Sometimes,Some of them,Yes
-1165,2014-09-05 14:15:48,CA,Yes,M,Don't know,Yes,Don't know,Don't know,No,Sometimes,Yes,No
-1169,2014-09-08 21:30:59,PA,No,F,Don't know,Yes,Don't know,No,Yes,Sometimes,No,No
-1172,2014-09-12 19:18:18,MN,Yes,F,Yes,Yes,Somewhat easy,Yes,Yes,Sometimes,Yes,No
-1176,2014-09-20 13:51:05,MI,Yes,F,No,Yes,Don't know,No,Yes,Rarely,No,No
-1177,2014-09-23 20:05:05,OH,No,M,Don't know,No,Don't know,No,No,Never,Yes,No
-1183,2014-10-05 21:16:10,IN,Yes,F,No,No,Don't know,Yes,Yes,Sometimes,Some of them,Yes
-1184,2014-10-09 11:14:59,VA,No,F,No,No,Very difficult,Don't know,Yes,Often,Some of them,No
-1186,2014-11-06 11:24:38,OR,No,F,Don't know,Don't know,Don't know,Don't know,No,Rarely,No,Yes
-1187,2014-11-16 08:42:35,AL,Yes,M,No,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,Yes
-1189,2014-12-15 00:43:49,AL,Yes,M,No,Yes,Don't know,Yes,Yes,Sometimes,No,No
-1190,2015-01-03 03:38:30,OH,Yes,M,Yes,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,No
-1198,2015-02-21 04:41:28,TX,No,M,Don't know,Yes,Very difficult,Don't know,Yes,Often,No,Yes
-1201,2015-02-21 05:11:37,TX,No,F,No,Yes,Somewhat easy,No,Yes,Rarely,No,No
-1207,2015-02-21 08:21:36,TX,No,M,No,No,Very easy,No,Yes,Sometimes,Yes,No
-1214,2015-02-21 09:22:23,FL,No,M,No,Yes,Don't know,Don't know,Yes,Often,No,Yes
-1219,2015-02-21 09:48:13,TX,No,M,Yes,Yes,Very easy,Don't know,Yes,Sometimes,Yes,Yes
-1220,2015-02-21 10:00:50,CA,Yes,M,No,Don't know,Don't know,No,Yes,Often,No,No
-1221,2015-02-21 10:45:51,MD,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Yes,Yes
-1228,2015-02-21 18:59:05,MN,Yes,M,No,Don't know,Somewhat easy,Don't know,Yes,Sometimes,Some of them,No
-1236,2015-02-24 10:32:32,CA,No,M,Don't know,Don't know,Somewhat easy,Don't know,Yes,Often,No,Yes
-1243,2015-05-05 14:22:18,FL,Yes,F,Yes,Yes,Don't know,Don't know,Yes,Rarely,Yes,Yes
-1246,2015-05-06 16:55:58,OR,No,M,Yes,Yes,Somewhat easy,Don't know,No,Never,Some of them,No
-1248,2015-06-25 12:24:31,WA,Yes,F,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,No,No
-1249,2015-07-22 18:57:54,CA,Yes,M,No,Yes,Very easy,Yes,Yes,Sometimes,Yes,No
-1250,2015-07-27 23:25:34,CA,Yes,M,Yes,Yes,Don't know,Yes,Yes,Often,Yes,No
-1252,2015-08-20 16:52:09,NC,Yes,M,No,Yes,Don't know,No,Yes,Sometimes,No,Yes
-1255,2015-09-26 01:07:35,IL,Yes,M,No,Yes,Somewhat difficult,Yes,Yes,Often,Yes,Yes
-1256,2015-11-07 12:36:58,CA,Yes,M,No,Yes,Somewhat difficult,No,Yes,Sometimes,No,No
+Timestamp,state,family_history,Gender,seek_help,benefits,leave,mental_vs_physical,treatment,work_interfere,supervisor,remote_work,Age
+2014-08-27 11:29:31,IL,No,F,Yes,Yes,Somewhat easy,Yes,Yes,Often,Yes,No,37
+2014-08-27 11:30:22,TX,No,M,Don't know,Yes,Don't know,Don't know,No,Never,Yes,Yes,31
+2014-08-27 11:31:22,TN,Yes,M,Don't know,Yes,Don't know,Don't know,No,Sometimes,Yes,No,33
+2014-08-27 11:31:50,MI,Yes,F,No,No,Somewhat difficult,Don't know,Yes,Sometimes,No,Yes,35
+2014-08-27 11:32:39,IL,Yes,F,No,Yes,Very difficult,No,Yes,Sometimes,Yes,No,42
+2014-08-27 11:32:44,OH,No,M,No,Don't know,Don't know,Don't know,Yes,Sometimes,Yes,Yes,31
+2014-08-27 11:33:26,CT,Yes,M,Don't know,Don't know,Don't know,Don't know,No,Never,Yes,No,36
+2014-08-27 11:34:00,IL,Yes,F,No,Yes,Somewhat easy,Don't know,Yes,Rarely,Some of them,No,29
+2014-08-27 11:34:37,TN,No,M,Don't know,Yes,Don't know,No,Yes,Sometimes,Yes,No,32
+2014-08-27 11:34:53,MD,Yes,M,Don't know,Yes,Very easy,Yes,No,Sometimes,Yes,Yes,46
+2014-08-27 11:35:12,NY,Yes,M,No,Yes,Somewhat difficult,No,Yes,Sometimes,Some of them,No,29
+2014-08-27 11:35:24,NC,No,M,No,No,Somewhat difficult,Yes,No,Never,Some of them,Yes,31
+2014-08-27 11:35:48,MA,No,M,No,Yes,Don't know,No,Yes,Often,Yes,Yes,46
+2014-08-27 11:36:48,CA,Yes,M,Yes,Yes,Don't know,Don't know,Yes,Rarely,Yes,No,33
+2014-08-27 11:37:59,CA,Yes,F,Don't know,Yes,Don't know,Yes,Yes,Rarely,Yes,Yes,35
+2014-08-27 11:38:12,OH,No,M,Don't know,Don't know,Somewhat difficult,No,Yes,Sometimes,No,Yes,34
+2014-08-27 11:38:55,PA,Yes,M,No,No,Somewhat difficult,No,No,Rarely,No,Yes,31
+2014-08-27 11:39:36,WA,Yes,M,Yes,Yes,Very easy,Don't know,Yes,Sometimes,Some of them,Yes,42
+2014-08-27 11:40:51,WI,No,F,No,Yes,Don't know,Yes,Yes,Sometimes,No,No,40
+2014-08-27 11:41:17,NY,No,M,No,No,Very easy,Don't know,Yes,Rarely,Yes,No,27
+2014-08-27 11:42:15,TX,No,M,Yes,Yes,Very easy,Yes,Yes,Rarely,Yes,Yes,35
+2014-08-27 11:43:22,IN,No,M,No,Don't know,Don't know,Don't know,Yes,Sometimes,No,No,30
+2014-08-27 11:43:36,TX,Yes,F,Yes,Yes,Somewhat easy,Yes,Yes,Sometimes,Yes,No,38
+2014-08-27 11:44:43,IL,Yes,M,Don't know,Yes,Don't know,Don't know,Yes,Rarely,Yes,No,30
+2014-08-27 11:44:55,TX,Yes,M,No,No,Very difficult,Don't know,Yes,Often,No,No,22
+2014-08-27 11:45:51,TN,No,M,No,Don't know,Don't know,Don't know,No,Never,Yes,Yes,32
+2014-08-27 11:47:10,NY,Yes,M,No,Don't know,Don't know,No,Yes,Sometimes,Yes,Yes,24
+2014-08-27 11:51:07,CA,Yes,M,Yes,Yes,Don't know,No,No,Sometimes,No,Yes,40
+2014-08-27 11:52:07,TX,No,M,Yes,Yes,Don't know,Yes,No,Sometimes,Some of them,Yes,36
+2014-08-27 11:52:44,NY,No,M,No,No,Don't know,Don't know,No,Rarely,No,Yes,34
+2014-08-27 11:56:29,CA,No,M,Don't know,Don't know,Don't know,Yes,No,Never,Some of them,No,33
+2014-08-27 11:57:54,WA,Yes,M,No,No,Somewhat difficult,Yes,No,Sometimes,Yes,Yes,31
+2014-08-27 11:59:31,UT,Yes,M,No,No,Somewhat difficult,No,Yes,Sometimes,No,Yes,32
+2014-08-27 12:01:50,NY,Yes,M,Yes,Yes,Don't know,Yes,No,Sometimes,Some of them,Yes,38
+2014-08-27 12:05:13,CA,Yes,M,No,No,Don't know,No,No,Never,No,No,33
+2014-08-27 12:10:43,OR,Yes,F,Don't know,Yes,Don't know,Don't know,Yes,Rarely,Some of them,Yes,34
+2014-08-27 12:11:00,FL,No,F,No,Yes,Don't know,No,Yes,Sometimes,Some of them,No,29
+2014-08-27 12:12:47,NY,No,M,Yes,Yes,Somewhat easy,Yes,No,Never,Yes,No,31
+2014-08-27 12:13:30,TX,No,M,No,No,Very difficult,No,Yes,Sometimes,Yes,No,40
+2014-08-27 12:15:30,MN,No,M,Don't know,Don't know,Don't know,No,No,Never,Yes,No,29
+2014-08-27 12:16:21,MO,Yes,M,Don't know,Don't know,Somewhat easy,Don't know,No,Rarely,No,No,24
+2014-08-27 12:18:04,IN,No,M,No,No,Somewhat easy,Yes,Yes,Often,Yes,No,30
+2014-08-27 12:18:38,MA,No,F,Don't know,Yes,Don't know,Don't know,No,Never,Some of them,No,44
+2014-08-27 12:20:10,WI,Yes,M,Yes,Yes,Somewhat easy,Yes,Yes,Sometimes,Yes,Yes,33
+2014-08-27 12:22:55,NY,No,M,Don't know,Yes,Somewhat easy,Don't know,No,Never,Yes,No,29
+2014-08-27 12:23:48,MO,Yes,M,No,Yes,Somewhat easy,Don't know,No,Rarely,Yes,No,35
+2014-08-27 12:23:59,OR,Yes,M,No,Don't know,Somewhat easy,No,Yes,Sometimes,Yes,Yes,35
+2014-08-27 12:28:12,TN,Yes,M,No,Yes,Don't know,Don't know,No,Never,No,Yes,34
+2014-08-27 12:28:16,WA,No,M,Yes,Yes,Somewhat difficult,Yes,Yes,Sometimes,Yes,No,32
+2014-08-27 12:29:25,NY,No,M,Don't know,Yes,Don't know,No,Yes,Sometimes,No,No,22
+2014-08-27 12:31:02,CA,No,M,Yes,Yes,Somewhat easy,Yes,Yes,Sometimes,Some of them,No,28
+2014-08-27 12:31:03,MO,Yes,M,Yes,Yes,Very easy,Yes,Yes,Rarely,Yes,Yes,45
+2014-08-27 12:31:14,NY,No,M,Don't know,Yes,Don't know,Don't know,No,Never,Some of them,No,32
+2014-08-27 12:31:43,CT,No,M,No,No,Very easy,Don't know,Yes,Rarely,No,Yes,18
+2014-08-27 12:32:59,GA,No,M,Yes,Yes,Don't know,Don't know,No,Never,No,No,29
+2014-08-27 12:33:23,MN,Yes,M,Don't know,Don't know,Very easy,Yes,Yes,Sometimes,Yes,Yes,33
+2014-08-27 12:33:36,WA,No,M,No,Yes,Don't know,Don't know,No,Often,No,No,36
+2014-08-27 12:34:11,WA,Yes,M,Yes,Yes,Don't know,Don't know,No,Never,No,No,27
+2014-08-27 12:34:35,OR,No,M,Yes,Yes,Don't know,Don't know,Yes,Rarely,Yes,No,32
+2014-08-27 12:34:57,IL,Yes,M,No,Yes,Very easy,No,Yes,Sometimes,Some of them,No,33
+2014-08-27 12:35:23,CA,No,M,No,No,Very difficult,Don't know,No,Rarely,Some of them,Yes,32
+2014-08-27 12:36:03,NE,No,M,Don't know,Don't know,Don't know,Don't know,No,Never,Yes,No,27
+2014-08-27 12:37:31,IA,No,M,No,Yes,Somewhat easy,Don't know,Yes,Often,Yes,No,39
+2014-08-27 12:38:11,OR,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Yes,No,38
+2014-08-27 12:40:53,CA,Yes,M,No,Don't know,Very easy,No,No,Never,Some of them,No,32
+2014-08-27 12:41:20,IL,No,M,Don't know,Don't know,Don't know,Don't know,No,Never,Some of them,No,36
+2014-08-27 12:42:52,CA,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Some of them,No,27
+2014-08-27 12:43:28,UT,No,M,No,No,Somewhat difficult,Don't know,Yes,Rarely,Yes,Yes,27
+2014-08-27 12:43:40,IL,Yes,M,No,Don't know,Very easy,Don't know,Yes,Sometimes,No,No,25
+2014-08-27 12:44:51,NY,Yes,F,No,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,No,25
+2014-08-27 12:44:51,CA,No,M,Yes,Yes,Don't know,Don't know,No,Never,Some of them,No,31
+2014-08-27 12:45:44,MA,Yes,M,No,Don't know,Don't know,Don't know,No,Rarely,Yes,No,26
+2014-08-27 12:46:03,WA,Yes,F,Yes,No,Very difficult,Yes,Yes,Sometimes,Yes,No,33
+2014-08-27 12:48:06,MN,No,M,No,No,Very easy,Don't know,No,Never,Some of them,No,34
+2014-08-27 12:49:39,MO,No,M,Don't know,Don't know,Don't know,Don't know,No,Never,Some of them,No,31
+2014-08-27 12:50:57,MA,No,F,Don't know,Yes,Very easy,Yes,Yes,Often,Yes,Yes,32
+2014-08-27 12:51:25,CA,No,F,No,Yes,Somewhat difficult,Yes,Yes,Sometimes,Yes,No,45
+2014-08-27 12:51:55,CA,No,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Some of them,No,45
+2014-08-27 12:52:08,WA,Yes,M,Don't know,Yes,Very difficult,No,Yes,Often,No,Yes,43
+2014-08-27 12:53:13,CA,Yes,F,No,Yes,Somewhat easy,Don't know,Yes,Never,No,No,35
+2014-08-27 12:53:40,MI,Yes,M,No,Yes,Somewhat easy,No,Yes,Sometimes,No,No,28
+2014-08-27 12:54:11,CA,No,M,No,No,Don't know,Don't know,Yes,Rarely,Yes,No,35
+2014-08-27 12:55:01,NY,No,F,No,Don't know,Don't know,Don't know,No,Never,No,Yes,35
+2014-08-27 12:55:38,CA,No,M,No,Yes,Somewhat easy,No,No,Rarely,Yes,No,26
+2014-08-27 12:57:38,OR,Yes,F,No,Yes,Very easy,Yes,Yes,Sometimes,Some of them,No,27
+2014-08-27 12:58:10,FL,No,M,No,No,Very difficult,Don't know,Yes,Often,Some of them,Yes,41
+2014-08-27 13:04:18,MA,No,M,No,No,Somewhat easy,Don't know,Yes,Often,Yes,No,30
+2014-08-27 13:04:45,KS,No,M,Don't know,Don't know,Don't know,Don't know,No,Never,Yes,No,24
+2014-08-27 13:07:40,TX,Yes,F,No,Don't know,Don't know,No,Yes,Sometimes,Some of them,No,32
+2014-08-27 13:07:46,MI,Yes,F,Don't know,No,Very difficult,Don't know,Yes,Sometimes,No,Yes,27
+2014-08-27 13:14:53,PA,No,M,No,Don't know,Don't know,Don't know,No,Rarely,Some of them,No,28
+2014-08-27 13:15:19,MI,No,M,No,No,Very difficult,No,Yes,Sometimes,Some of them,No,28
+2014-08-27 13:15:25,PA,No,M,Don't know,Don't know,Don't know,Yes,No,Never,Yes,No,23
+2014-08-27 13:18:44,WA,No,M,No,No,Very difficult,Yes,No,Rarely,Yes,Yes,32
+2014-08-27 13:21:00,PA,No,M,Don't know,Yes,Very easy,Yes,No,Never,No,No,24
+2014-08-27 13:22:49,OH,No,M,Yes,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,No,36
+2014-08-27 13:23:38,TX,No,M,Don't know,Yes,Don't know,No,Yes,Rarely,No,Yes,41
+2014-08-27 13:24:57,NH,No,M,Don't know,Don't know,Don't know,No,No,Sometimes,Yes,Yes,38
+2014-08-27 13:32:31,FL,Yes,M,No,No,Somewhat difficult,No,Yes,Sometimes,Some of them,No,34
+2014-08-27 13:32:48,CA,Yes,M,Yes,Yes,Somewhat easy,Don't know,Yes,Sometimes,Yes,No,33
+2014-08-27 13:34:03,GA,No,M,Don't know,Yes,Somewhat easy,Yes,No,Never,Yes,Yes,27
+2014-08-27 13:35:23,OH,No,M,Yes,Yes,Don't know,No,Yes,Sometimes,No,Yes,40
+2014-08-27 13:37:47,NC,Yes,M,No,No,Don't know,Don't know,Yes,Sometimes,Yes,Yes,32
+2014-08-27 13:42:38,CA,Yes,M,Don't know,Yes,Very easy,Yes,Yes,Rarely,Yes,Yes,31
+2014-08-27 13:44:47,VA,No,M,Don't know,Don't know,Don't know,Don't know,No,Sometimes,Yes,No,24
+2014-08-27 13:47:27,WA,No,M,Yes,No,Somewhat easy,Yes,No,Never,Yes,Yes,42
+2014-08-27 13:49:32,TX,No,F,No,Yes,Don't know,Don't know,Yes,Rarely,No,No,27
+2014-08-27 13:52:57,FL,No,M,Yes,Yes,Don't know,Yes,Yes,Sometimes,Yes,Yes,30
+2014-08-27 13:54:00,AL,No,M,No,Yes,Very easy,Yes,Yes,Sometimes,Yes,Yes,41
+2014-08-27 13:55:16,CA,Yes,F,No,Yes,Don't know,Don't know,Yes,Often,Some of them,No,37
+2014-08-27 13:55:22,CO,No,M,No,No,Very easy,Don't know,No,Never,Yes,Yes,32
+2014-08-27 13:59:35,PA,No,M,No,Yes,Don't know,No,Yes,Rarely,No,Yes,38
+2014-08-27 14:03:54,PA,Yes,M,Don't know,Don't know,Don't know,No,No,Sometimes,No,No,23
+2014-08-27 14:10:15,TX,No,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,No,No,18
+2014-08-27 14:10:47,NY,Yes,M,No,Yes,Somewhat difficult,Don't know,Yes,Sometimes,Some of them,No,35
+2014-08-27 14:11:52,WA,Yes,F,Don't know,Yes,Don't know,Don't know,Yes,Rarely,Some of them,No,26
+2014-08-27 14:11:55,WA,No,M,Don't know,Don't know,Very easy,Yes,No,Never,Some of them,No,18
+2014-08-27 14:13:02,TX,No,F,No,No,Don't know,Don't know,Yes,Sometimes,No,No,38
+2014-08-27 14:13:16,TX,Yes,F,Don't know,Yes,Somewhat easy,Don't know,Yes,Rarely,No,Yes,26
+2014-08-27 14:14:52,CA,No,M,Don't know,Don't know,Don't know,Don't know,No,Never,Some of them,No,35
+2014-08-27 14:15:13,NY,Yes,M,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,No,45
+2014-08-27 14:15:21,CA,No,M,Don't know,Yes,Don't know,Don't know,No,Never,Some of them,No,32
+2014-08-27 14:18:20,SC,Yes,F,Don't know,Yes,Very easy,Yes,Yes,Sometimes,Yes,No,30
+2014-08-27 14:18:44,CA,Yes,M,Yes,Yes,Don't know,Don't know,Yes,Sometimes,No,No,33
+2014-08-27 14:19:08,NY,No,M,Yes,Yes,Don't know,Don't know,No,Never,Yes,No,37
+2014-08-27 14:19:12,NY,No,F,Yes,Yes,Don't know,Yes,Yes,Sometimes,Some of them,No,23
+2014-08-27 14:20:08,CA,No,F,Don't know,Yes,Somewhat easy,Yes,Yes,Sometimes,Yes,No,31
+2014-08-27 14:20:43,MA,No,M,Don't know,Yes,Don't know,Don't know,No,Rarely,Yes,No,26
+2014-08-27 14:21:42,CA,No,F,Yes,Yes,Somewhat easy,Yes,Yes,Rarely,Yes,No,37
+2014-08-27 14:23:51,TN,No,M,Yes,Yes,Don't know,Don't know,No,Sometimes,Yes,No,27
+2014-08-27 14:24:15,OR,No,M,Yes,Yes,Don't know,Don't know,Yes,Rarely,Yes,No,35
+2014-08-27 14:25:41,WA,No,M,No,No,Somewhat easy,Yes,Yes,Never,Yes,No,36
+2014-08-27 14:25:54,CA,Yes,M,Don't know,Yes,Don't know,No,Yes,Sometimes,No,No,26
+2014-08-27 14:27:51,NY,Yes,F,Yes,Yes,Somewhat easy,Yes,Yes,Often,Some of them,No,22
+2014-08-27 14:28:41,SD,Yes,M,Yes,Yes,Somewhat easy,Yes,Yes,Rarely,Yes,Yes,41
+2014-08-27 14:28:43,CA,No,M,Don't know,Yes,Don't know,No,Yes,Sometimes,Some of them,No,29
+2014-08-27 14:28:49,OR,No,M,Yes,Yes,Somewhat easy,Yes,No,Never,Yes,No,32
+2014-08-27 14:28:51,CA,Yes,F,Yes,Yes,Don't know,Don't know,Yes,Sometimes,No,No,24
+2014-08-27 14:29:19,CA,No,M,No,Yes,Don't know,Don't know,Yes,Rarely,No,No,25
+2014-08-27 14:31:06,CO,No,F,Yes,Yes,Somewhat easy,Don't know,No,Never,Some of them,No,30
+2014-08-27 14:31:28,CA,Yes,M,Yes,Don't know,Don't know,Yes,Yes,Sometimes,Yes,No,25
+2014-08-27 14:31:44,OH,No,M,No,No,Don't know,Don't know,No,Never,Some of them,Yes,30
+2014-08-27 14:37:46,WA,No,M,Don't know,Yes,Very easy,Don't know,No,Never,Some of them,No,46
+2014-08-27 14:38:13,CA,No,F,No,Yes,Very easy,Don't know,No,Sometimes,Some of them,No,29
+2014-08-27 14:39:07,WA,Yes,F,No,No,Very difficult,No,No,Sometimes,Some of them,Yes,33
+2014-08-27 14:39:20,CA,No,M,Don't know,Don't know,Very easy,No,No,Sometimes,No,No,27
+2014-08-27 14:44:29,WA,Yes,F,No,Yes,Don't know,Don't know,Yes,Sometimes,Yes,No,25
+2014-08-27 14:45:45,CA,Yes,M,Yes,Don't know,Don't know,Don't know,Yes,Never,Yes,No,54
+2014-08-27 14:47:10,CA,No,M,Don't know,Don't know,Don't know,Don't know,No,Sometimes,No,No,22
+2014-08-27 14:49:30,MA,No,M,Yes,Yes,Don't know,Yes,Yes,Sometimes,No,No,27
+2014-08-27 14:52:44,CA,Yes,M,Yes,Yes,Don't know,Don't know,Yes,Often,No,No,26
+2014-08-27 14:54:23,IN,Yes,M,No,Don't know,Don't know,Don't know,Yes,Sometimes,Some of them,No,33
+2014-08-27 14:54:56,WA,Yes,M,Yes,Yes,Don't know,Don't know,Yes,Sometimes,No,No,34
+2014-08-27 14:57:46,WA,No,M,No,No,Somewhat easy,Don't know,Yes,Sometimes,Some of them,Yes,34
+2014-08-27 15:05:21,OH,No,M,No,Yes,Don't know,No,Yes,Often,No,Yes,33
+2014-08-27 15:09:58,GA,Yes,M,Don't know,Don't know,Somewhat difficult,No,Yes,Sometimes,No,No,28
+2014-08-27 15:14:50,IN,Yes,M,Don't know,Yes,Don't know,Don't know,Yes,Rarely,Yes,No,21
+2014-08-27 15:20:53,WA,Yes,M,Yes,Yes,Somewhat difficult,No,Yes,Often,Some of them,No,41
+2014-08-27 15:21:59,PA,Yes,M,Yes,Yes,Very easy,Yes,Yes,Rarely,Yes,No,55
+2014-08-27 15:22:20,WA,No,F,Yes,Yes,Somewhat easy,Yes,Yes,Sometimes,Yes,No,32
+2014-08-27 15:22:26,CA,Yes,F,No,Don't know,Somewhat easy,Don't know,Yes,Rarely,No,No,21
+2014-08-27 15:22:43,MA,No,M,Don't know,Yes,Don't know,Don't know,Yes,Never,Some of them,Yes,45
+2014-08-27 15:22:45,WA,No,F,No,Yes,Don't know,No,Yes,Rarely,No,No,27
+2014-08-27 15:22:50,WA,Yes,F,No,Don't know,Don't know,Yes,Yes,Sometimes,Yes,Yes,25
+2014-08-27 15:23:06,CA,Yes,F,Yes,Yes,Don't know,Don't know,Yes,Never,No,No,26
+2014-08-27 15:23:19,CA,No,M,Yes,Yes,Don't know,Yes,Yes,Rarely,Yes,No,27
+2014-08-27 15:23:51,NV,No,M,No,Don't know,Don't know,No,Yes,Sometimes,No,No,26
+2014-08-27 15:23:51,CO,Yes,F,Don't know,Yes,Don't know,Don't know,Yes,Rarely,Yes,Yes,27
+2014-08-27 15:24:27,CA,No,F,No,Don't know,Somewhat difficult,Don't know,Yes,Sometimes,No,No,25
+2014-08-27 15:24:49,SC,No,M,Don't know,Don't know,Somewhat easy,Don't know,No,Never,No,No,31
+2014-08-27 15:25:41,AL,No,F,No,Don't know,Don't know,Don't know,No,Never,Some of them,No,32
+2014-08-27 15:26:05,OR,Yes,M,No,Yes,Somewhat difficult,No,Yes,Often,Yes,No,26
+2014-08-27 15:26:37,NJ,Yes,M,No,Yes,Don't know,No,Yes,Sometimes,No,No,28
+2014-08-27 15:26:57,CA,Yes,M,No,Yes,Very difficult,No,Yes,Sometimes,Some of them,No,35
+2014-08-27 15:27:38,NH,Yes,M,Yes,Yes,Don't know,Yes,Yes,Never,Some of them,Yes,33
+2014-08-27 15:29:03,OH,Yes,M,No,Yes,Somewhat easy,No,Yes,Often,No,Yes,33
+2014-08-27 15:29:23,MA,Yes,M,Don't know,Don't know,Don't know,Don't know,No,Never,Some of them,No,21
+2014-08-27 15:31:10,OK,No,F,Don't know,Don't know,Somewhat difficult,Yes,Yes,Sometimes,Some of them,Yes,26
+2014-08-27 15:31:18,CA,Yes,M,Don't know,Don't know,Somewhat easy,Don't know,No,Often,Yes,No,30
+2014-08-27 15:31:40,ID,Yes,M,Don't know,No,Don't know,No,Yes,Sometimes,No,Yes,55
+2014-08-27 15:35:21,TX,Yes,M,No,No,Somewhat difficult,No,Yes,Sometimes,Some of them,No,24
+2014-08-27 15:38:07,NY,Yes,F,No,No,Very easy,Yes,Yes,Rarely,Some of them,No,24
+2014-08-27 15:38:27,MS,No,M,No,No,Somewhat easy,Don't know,Yes,Often,Some of them,Yes,33
+2014-08-27 15:38:31,NJ,No,M,No,Don't know,Don't know,Don't know,No,Sometimes,Yes,No,34
+2014-08-27 15:38:32,CA,No,F,No,Don't know,Somewhat difficult,Don't know,Yes,Sometimes,Some of them,No,27
+2014-08-27 15:38:37,TN,No,M,Don't know,Don't know,Don't know,Don't know,No,Never,Yes,No,28
+2014-08-27 15:43:17,MA,No,F,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,No,No,23
+2014-08-27 15:43:27,PA,Yes,M,Yes,Yes,Somewhat easy,Yes,Yes,Rarely,Yes,Yes,29
+2014-08-27 15:43:45,KY,No,M,Don't know,Yes,Somewhat easy,Don't know,No,Rarely,No,Yes,36
+2014-08-27 15:44:16,PA,No,M,Yes,Yes,Don't know,Yes,Yes,Sometimes,Yes,No,41
+2014-08-27 15:46:39,CA,Yes,M,Don't know,Yes,Don't know,No,No,Often,Some of them,No,39
+2014-08-27 15:47:33,CA,No,F,No,Yes,Somewhat difficult,No,Yes,Sometimes,Some of them,No,26
+2014-08-27 15:50:26,AZ,No,M,No,Yes,Don't know,Don't know,Yes,Rarely,Yes,No,24
+2014-08-27 15:53:39,MA,Yes,M,No,Yes,Very easy,Yes,Yes,Often,Yes,Yes,43
+2014-08-27 15:54:45,WA,Yes,M,No,Yes,Very difficult,No,Yes,Often,No,No,30
+2014-08-27 15:55:07,CA,No,M,No,Don't know,Don't know,Don't know,Yes,Sometimes,No,No,34
+2014-08-27 15:55:07,OR,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,No,No,27
+2014-08-27 15:55:08,MI,No,M,No,Don't know,Somewhat easy,Don't know,No,Sometimes,Yes,No,36
+2014-08-27 16:02:16,CA,Yes,F,No,Don't know,Somewhat difficult,No,No,Never,No,No,26
+2014-08-27 16:03:20,TX,Yes,M,Don't know,Don't know,Somewhat easy,Yes,Yes,Sometimes,Yes,Yes,27
+2014-08-27 16:06:46,CA,Yes,M,No,Yes,Don't know,No,Yes,Rarely,Yes,No,57
+2014-08-27 16:13:31,OR,No,M,Yes,Yes,Very easy,Yes,Yes,Sometimes,Yes,Yes,31
+2014-08-27 16:13:40,CA,No,M,Yes,Yes,Somewhat easy,Yes,Yes,Rarely,Yes,No,58
+2014-08-27 16:13:42,OH,No,M,No,Don't know,Very difficult,No,No,Sometimes,No,No,29
+2014-08-27 16:14:43,OH,No,M,No,Don't know,Very difficult,Don't know,No,Sometimes,Yes,Yes,34
+2014-08-27 16:15:26,CA,No,M,Yes,Yes,Don't know,Don't know,Yes,Sometimes,No,No,57
+2014-08-27 16:18:44,CA,No,M,Yes,Yes,Somewhat easy,Don't know,Yes,Sometimes,No,No,43
+2014-08-27 16:19:25,IL,No,M,No,Yes,Don't know,Don't know,Yes,Rarely,No,No,29
+2014-08-27 16:20:36,TX,No,M,Don't know,Don't know,Don't know,Don't know,No,Never,No,No,48
+2014-08-27 16:21:11,NY,Yes,F,No,Don't know,Don't know,Don't know,Yes,Sometimes,No,No,28
+2014-08-27 16:21:24,CA,Yes,M,No,No,Very easy,Yes,Yes,Often,Yes,Yes,30
+2014-08-27 16:25:26,CA,Yes,F,Don't know,No,Don't know,Don't know,Yes,Sometimes,Some of them,Yes,24
+2014-08-27 16:27:04,NY,Yes,F,No,Yes,Don't know,Yes,Yes,Often,Some of them,No,23
+2014-08-27 16:28:10,CA,Yes,F,No,Don't know,Somewhat difficult,No,Yes,Often,No,Yes,25
+2014-08-27 16:35:02,OH,No,F,No,No,Don't know,No,Yes,Sometimes,No,No,35
+2014-08-27 16:36:57,CA,No,M,Yes,Yes,Don't know,Yes,Yes,Sometimes,No,No,46
+2014-08-27 16:40:35,CA,Yes,M,Yes,Yes,Very easy,Yes,Yes,Sometimes,Yes,No,47
+2014-08-27 16:42:55,NY,No,F,Yes,Yes,Very easy,Don't know,Yes,Sometimes,Some of them,Yes,33
+2014-08-27 16:47:48,WA,No,F,No,No,Somewhat easy,Yes,No,Sometimes,No,No,25
+2014-08-27 16:55:04,WA,No,M,Yes,Yes,Very easy,Yes,No,Never,Yes,No,39
+2014-08-27 17:00:15,VA,Yes,M,Yes,Yes,Don't know,No,Yes,Sometimes,No,No,38
+2014-08-27 17:04:29,OH,No,M,Yes,Yes,Don't know,Yes,Yes,Rarely,Yes,Yes,46
+2014-08-27 17:12:01,CA,No,M,Yes,Yes,Don't know,Yes,No,Never,Yes,No,62
+2014-08-27 17:22:29,IL,Yes,M,No,Don't know,Somewhat difficult,Yes,Yes,Sometimes,Yes,Yes,36
+2014-08-27 17:33:52,NC,No,M,Yes,Yes,Very easy,Yes,Yes,Sometimes,Some of them,No,29
+2014-08-27 17:49:21,WI,Yes,M,Yes,Yes,Somewhat easy,No,Yes,Often,Yes,Yes,39
+2014-08-27 17:49:30,CA,Yes,M,Don't know,Don't know,Don't know,No,Yes,Never,No,No,26
+2014-08-27 17:56:50,CA,Yes,F,Don't know,Yes,Don't know,No,Yes,Sometimes,Some of them,No,22
+2014-08-27 18:02:32,PA,Yes,F,No,Yes,Somewhat easy,Yes,Yes,Rarely,Yes,No,31
+2014-08-27 18:12:55,CA,Yes,F,Don't know,Yes,Don't know,No,Yes,Often,Some of them,Yes,28
+2014-08-27 18:18:18,CA,Yes,M,Yes,Yes,Somewhat difficult,No,Yes,Sometimes,Yes,No,36
+2014-08-27 19:25:42,OR,Yes,M,Don't know,Don't know,Don't know,Yes,Yes,Sometimes,No,Yes,27
+2014-08-27 19:28:35,CO,No,M,Don't know,Don't know,Don't know,Don't know,Yes,Rarely,Some of them,No,36
+2014-08-27 19:34:56,GA,No,M,No,Yes,Somewhat difficult,No,Yes,Sometimes,No,No,28
+2014-08-27 19:38:44,OR,No,M,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,Yes,No,39
+2014-08-27 19:41:28,CA,No,M,Yes,Yes,Somewhat easy,Don't know,Yes,Sometimes,Some of them,No,32
+2014-08-27 19:45:36,CA,Yes,M,Don't know,Yes,Somewhat easy,No,No,Sometimes,Some of them,No,31
+2014-08-27 20:13:06,CA,Yes,M,No,No,Don't know,Yes,Yes,Rarely,Yes,No,23
+2014-08-27 20:33:33,NY,No,F,Yes,Don't know,Don't know,Yes,No,Sometimes,Yes,No,27
+2014-08-27 20:48:54,MA,Yes,F,No,Yes,Somewhat difficult,No,Yes,Sometimes,Yes,No,26
+2014-08-27 20:52:31,PA,Yes,M,Don't know,Don't know,Somewhat easy,Yes,No,Never,Yes,No,37
+2014-08-27 20:55:48,MI,Yes,M,No,Don't know,Very easy,Yes,No,Sometimes,Yes,Yes,33
+2014-08-27 21:17:31,CA,Yes,M,No,Yes,Don't know,Don't know,Yes,Often,Some of them,No,41
+2014-08-27 21:39:23,IN,No,M,No,No,Very easy,Yes,No,Never,Yes,No,35
+2014-08-27 21:55:28,MI,No,F,No,Yes,Don't know,Don't know,No,Never,Some of them,No,29
+2014-08-27 22:00:36,OH,Yes,M,No,No,Somewhat easy,Don't know,Yes,Sometimes,Yes,No,31
+2014-08-27 22:04:43,OH,No,M,No,No,Somewhat easy,Don't know,Yes,Sometimes,Yes,No,43
+2014-08-27 22:04:47,NH,Yes,M,No,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,Yes,34
+2014-08-27 22:06:14,OH,Yes,M,No,Don't know,Somewhat difficult,Don't know,Yes,Sometimes,Some of them,No,29
+2014-08-27 22:11:16,TN,Yes,M,Yes,Yes,Don't know,No,Yes,Sometimes,Some of them,No,41
+2014-08-27 22:12:55,OR,Yes,M,Yes,Yes,Don't know,Yes,No,Never,Yes,No,29
+2014-08-27 22:13:55,PA,No,M,Don't know,Yes,Don't know,Yes,No,Rarely,Some of them,No,23
+2014-08-27 22:26:03,NY,Yes,M,Don't know,No,Somewhat difficult,No,Yes,Rarely,No,No,31
+2014-08-27 22:32:36,CA,Yes,M,Yes,Yes,Don't know,Don't know,No,Often,Yes,No,29
+2014-08-27 23:09:46,MI,No,M,No,No,Don't know,No,No,Sometimes,Some of them,No,32
+2014-08-27 23:10:16,WY,No,M,Don't know,Don't know,Don't know,Don't know,No,Sometimes,Some of them,Yes,50
+2014-08-27 23:54:08,TX,No,M,No,No,Somewhat easy,Yes,Yes,Sometimes,Yes,No,32
+2014-08-28 00:02:36,WA,No,M,No,Yes,Very easy,Don't know,No,Rarely,No,No,29
+2014-08-28 00:05:34,GA,No,M,Yes,No,Somewhat difficult,Yes,Yes,Often,Yes,Yes,30
+2014-08-28 00:17:24,MI,No,M,Don't know,Yes,Don't know,Yes,No,Never,Some of them,No,35
+2014-08-28 01:30:12,WA,No,F,No,Yes,Very easy,Don't know,Yes,Often,Some of them,Yes,31
+2014-08-28 01:38:53,CA,Yes,F,Yes,Yes,Somewhat easy,Don't know,Yes,Sometimes,No,No,23
+2014-08-28 01:41:17,OR,Yes,F,No,Don't know,Don't know,Don't know,Yes,Sometimes,Some of them,No,31
+2014-08-28 01:56:43,CA,Yes,F,Yes,Yes,Somewhat difficult,No,Yes,Rarely,Some of them,No,28
+2014-08-28 02:17:42,CA,Yes,M,No,No,Somewhat easy,No,Yes,Sometimes,Some of them,No,34
+2014-08-28 02:30:00,MI,Yes,M,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,Yes,28
+2014-08-28 02:49:34,CA,No,F,Don't know,Yes,Somewhat easy,Yes,Yes,Sometimes,Yes,Yes,34
+2014-08-28 03:36:10,CA,No,M,Yes,Yes,Somewhat difficult,Don't know,No,Never,No,No,57
+2014-08-28 05:14:28,CA,No,M,Don't know,Don't know,Don't know,Don't know,No,Never,Some of them,No,32
+2014-08-28 07:03:03,NC,Yes,M,Don't know,Don't know,Don't know,Don't know,No,Sometimes,No,No,23
+2014-08-28 08:39:49,OH,Yes,F,No,Don't know,Don't know,Don't know,Yes,Rarely,No,No,29
+2014-08-28 08:43:23,VA,No,M,Yes,Yes,Very easy,Yes,Yes,Often,Yes,Yes,45
+2014-08-28 09:40:42,NC,Yes,F,Yes,Yes,Somewhat easy,Yes,Yes,Rarely,Yes,No,33
+2014-08-28 09:53:42,NY,Yes,M,Yes,Yes,Somewhat easy,Yes,Yes,Sometimes,Yes,No,49
+2014-08-28 09:57:25,WA,Yes,M,Yes,No,Very difficult,Yes,Yes,Rarely,Yes,Yes,33
+2014-08-28 09:58:08,CA,Yes,M,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,Yes,No,37
+2014-08-28 10:01:15,NY,No,M,No,Don't know,Don't know,No,No,Never,No,No,26
+2014-08-28 10:01:31,NY,No,M,Don't know,Don't know,Very easy,Don't know,Yes,Sometimes,Yes,Yes,32
+2014-08-28 10:02:23,NY,No,M,No,Yes,Very easy,Yes,Yes,Often,Yes,No,29
+2014-08-28 10:04:41,TN,Yes,M,Don't know,Don't know,Very easy,Don't know,No,Never,Yes,No,30
+2014-08-28 10:05:43,CO,No,M,Yes,Yes,Don't know,No,No,Never,Some of them,No,29
+2014-08-28 10:07:37,PA,Yes,M,Don't know,Yes,Very difficult,No,Yes,Sometimes,No,Yes,32
+2014-08-28 10:17:19,MO,Yes,M,Don't know,Don't know,Don't know,No,Yes,Never,Yes,Yes,25
+2014-08-28 11:04:00,TX,Yes,M,Don't know,Yes,Somewhat easy,Don't know,Yes,Sometimes,Yes,No,31
+2014-08-28 11:04:17,OH,No,M,No,Yes,Very difficult,Don't know,Yes,Sometimes,Some of them,Yes,36
+2014-08-28 11:07:23,TX,No,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Some of them,Yes,30
+2014-08-28 11:14:21,CA,Yes,M,Yes,Yes,Very easy,Yes,Yes,Rarely,Yes,No,35
+2014-08-28 11:21:17,MI,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Some of them,No,37
+2014-08-28 11:22:04,CA,No,M,Yes,Yes,Very easy,Yes,No,Never,Yes,No,36
+2014-08-28 11:29:20,CA,Yes,M,Don't know,Yes,Somewhat difficult,No,Yes,Sometimes,No,No,26
+2014-08-28 11:47:35,CA,No,F,Don't know,Don't know,Somewhat easy,No,Yes,Sometimes,No,No,27
+2014-08-28 11:50:06,AZ,Yes,F,Yes,Yes,Somewhat easy,No,Yes,Sometimes,No,No,33
+2014-08-28 11:54:23,CA,No,F,No,Yes,Don't know,No,Yes,Never,Some of them,Yes,36
+2014-08-28 12:02:59,VA,Yes,M,No,No,Very easy,Yes,Yes,Sometimes,Yes,Yes,33
+2014-08-28 12:19:34,WI,No,M,No,No,Somewhat difficult,Don't know,Yes,Sometimes,Yes,Yes,33
+2014-08-28 12:42:12,CO,Yes,M,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,No,25
+2014-08-28 13:01:26,NY,No,M,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,No,33
+2014-08-28 13:04:30,TX,No,F,No,Don't know,Somewhat difficult,No,Yes,Often,Some of them,Yes,37
+2014-08-28 13:11:05,WA,Yes,F,Don't know,Don't know,Very difficult,No,Yes,Sometimes,Some of them,No,22
+2014-08-28 13:17:40,MI,No,M,No,Yes,Somewhat easy,No,No,Never,Yes,No,38
+2014-08-28 13:26:17,CA,Yes,F,Don't know,Yes,Don't know,Don't know,Yes,Often,Yes,No,32
+2014-08-28 13:35:25,CA,No,F,Don't know,Don't know,Very easy,Yes,Yes,Sometimes,No,Yes,35
+2014-08-28 13:39:40,CA,Yes,M,No,No,Very easy,Yes,Yes,Sometimes,Yes,No,23
+2014-08-28 14:00:02,TX,Yes,M,Yes,Yes,Don't know,No,No,Sometimes,Some of them,No,41
+2014-08-28 14:12:58,NV,No,M,No,No,Don't know,Don't know,Yes,Never,Some of them,Yes,28
+2014-08-28 14:31:00,WA,No,F,Don't know,Don't know,Don't know,Don't know,No,Sometimes,No,No,39
+2014-08-28 14:38:50,FL,Yes,M,Yes,Yes,Very difficult,Don't know,Yes,Sometimes,Yes,No,39
+2014-08-28 14:53:32,IL,No,M,No,No,Very difficult,Don't know,No,Never,No,Yes,38
+2014-08-28 15:32:03,WA,No,M,Don't know,Don't know,Don't know,Yes,No,Never,Yes,No,20
+2014-08-28 15:37:04,MI,No,M,No,Don't know,Somewhat easy,Don't know,No,Sometimes,No,Yes,40
+2014-08-28 15:50:12,CA,No,M,Don't know,Yes,Don't know,Don't know,No,Never,Some of them,No,40
+2014-08-28 15:54:35,CA,Yes,F,No,Yes,Don't know,Don't know,Yes,Rarely,Yes,No,29
+2014-08-28 15:56:47,TX,No,M,No,No,Don't know,Don't know,Yes,Sometimes,No,No,34
+2014-08-28 16:17:09,NY,Yes,F,No,Yes,Very easy,No,Yes,Often,Yes,No,24
+2014-08-28 16:52:23,PA,No,M,Yes,Yes,Somewhat difficult,No,No,Rarely,Yes,No,36
+2014-08-28 16:54:49,NY,Yes,F,No,Yes,Somewhat difficult,Don't know,Yes,Sometimes,Yes,No,31
+2014-08-28 16:55:07,CA,No,M,Don't know,Don't know,Don't know,Don't know,No,Sometimes,No,No,35
+2014-08-28 16:56:57,TN,No,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,No,No,34
+2014-08-28 16:57:07,TN,Yes,M,No,No,Very easy,Yes,Yes,Sometimes,Yes,Yes,40
+2014-08-28 16:57:46,IL,No,M,Yes,Yes,Don't know,Don't know,No,Rarely,Some of them,No,40
+2014-08-28 16:57:49,WI,No,M,No,No,Somewhat easy,Don't know,Yes,Sometimes,No,Yes,42
+2014-08-28 17:01:25,MN,No,M,Yes,Yes,Very easy,Yes,No,Never,Yes,Yes,51
+2014-08-28 17:07:28,TN,Yes,M,No,No,Very difficult,No,Yes,Often,Yes,Yes,33
+2014-08-28 17:09:03,DC,Yes,M,No,Yes,Somewhat easy,Don't know,Yes,Sometimes,Some of them,No,35
+2014-08-28 17:11:48,CA,No,M,Yes,Yes,Somewhat easy,Yes,Yes,Rarely,Yes,Yes,56
+2014-08-28 17:19:27,CA,Yes,M,Don't know,Don't know,Very difficult,Don't know,Yes,Sometimes,No,Yes,30
+2014-08-28 17:21:01,CO,No,M,Don't know,Yes,Very easy,Don't know,Yes,Never,No,No,31
+2014-08-28 17:21:43,TN,Yes,M,Don't know,Don't know,Don't know,Yes,Yes,Sometimes,Some of them,No,29
+2014-08-28 17:22:53,TN,No,M,Don't know,Yes,Don't know,Yes,No,Never,Yes,Yes,37
+2014-08-28 17:23:19,VA,No,M,Don't know,Yes,Somewhat difficult,Yes,No,Never,Yes,No,36
+2014-08-28 17:27:03,TN,Yes,M,Don't know,Yes,Don't know,No,Yes,Sometimes,No,Yes,35
+2014-08-28 17:33:05,TN,Yes,M,Yes,Yes,Don't know,Don't know,No,Sometimes,Yes,No,39
+2014-08-28 17:34:30,TN,Yes,M,No,No,Very difficult,Don't know,Yes,Rarely,No,Yes,32
+2014-08-28 17:36:48,TN,Yes,M,Yes,Yes,Very difficult,No,No,Never,No,No,30
+2014-08-28 17:39:06,TN,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Often,Some of them,Yes,40
+2014-08-28 17:46:37,IN,No,M,Yes,Yes,Somewhat easy,Yes,No,Never,Yes,No,33
+2014-08-28 17:47:49,VA,No,M,No,No,Somewhat easy,Yes,No,Never,Yes,Yes,50
+2014-08-28 17:50:32,TX,No,M,Don't know,Don't know,Somewhat easy,No,No,Sometimes,Yes,Yes,24
+2014-08-28 17:57:42,CA,No,F,Yes,Yes,Very easy,Yes,Yes,Often,Some of them,No,25
+2014-08-28 17:59:54,CO,No,M,No,No,Somewhat difficult,Don't know,No,Never,Some of them,No,51
+2014-08-28 17:59:57,OR,Yes,M,Yes,Yes,Somewhat difficult,No,Yes,Sometimes,No,No,49
+2014-08-28 18:02:09,OH,Yes,F,No,Yes,Don't know,No,Yes,Sometimes,No,No,25
+2014-08-28 18:07:42,TN,No,M,Don't know,Yes,Don't know,Don't know,Yes,Rarely,No,Yes,36
+2014-08-28 18:17:41,VA,No,M,Yes,Yes,Don't know,Yes,Yes,Never,Yes,No,48
+2014-08-28 18:21:23,OR,No,M,Yes,Yes,Don't know,Don't know,Yes,Rarely,No,Yes,53
+2014-08-28 18:26:35,OR,Yes,M,Yes,Don't know,Somewhat easy,Don't know,Yes,Sometimes,Yes,No,33
+2014-08-28 19:04:05,PA,No,M,No,No,Somewhat easy,Don't know,No,Never,Some of them,Yes,30
+2014-08-28 19:28:27,CA,Yes,F,Don't know,Don't know,Don't know,Don't know,Yes,Often,No,No,22
+2014-08-28 19:35:39,TN,Yes,M,Don't know,Don't know,Somewhat easy,Don't know,No,Sometimes,Yes,No,28
+2014-08-28 21:24:48,CA,No,M,No,Yes,Don't know,Don't know,No,Sometimes,No,No,29
+2014-08-28 21:38:12,MO,Yes,M,Don't know,Don't know,Very easy,Don't know,No,Never,Yes,No,31
+2014-08-28 21:47:33,TX,No,M,Yes,Don't know,Very easy,Yes,No,Often,Yes,No,34
+2014-08-28 22:17:15,WA,Yes,M,No,No,Very difficult,No,Yes,Sometimes,Some of them,No,38
+2014-08-28 22:18:41,WA,Yes,M,Yes,Don't know,Very difficult,No,Yes,Sometimes,Some of them,No,26
+2014-08-28 22:22:39,TX,No,M,Don't know,Don't know,Don't know,Don't know,Yes,Often,No,No,42
+2014-08-28 22:35:10,WA,No,M,Yes,Yes,Somewhat easy,Don't know,Yes,Rarely,Some of them,No,32
+2014-08-28 22:39:57,WA,Yes,M,Yes,Yes,Somewhat difficult,No,Yes,Sometimes,Yes,Yes,44
+2014-08-28 22:46:40,WA,Yes,M,Don't know,Yes,Don't know,No,Yes,Rarely,No,No,28
+2014-08-28 23:03:05,WA,Yes,M,Yes,Yes,Very difficult,Don't know,Yes,Sometimes,Some of them,Yes,40
+2014-08-28 23:13:18,AZ,Yes,F,Don't know,Yes,Somewhat easy,Yes,Yes,Sometimes,Yes,No,31
+2014-08-28 23:16:30,WA,Yes,M,Yes,Yes,Don't know,Don't know,No,Sometimes,No,No,32
+2014-08-28 23:57:07,WA,Yes,M,Don't know,Don't know,Somewhat easy,No,Yes,Sometimes,No,No,28
+2014-08-29 00:05:07,AZ,Yes,M,No,Yes,Don't know,No,Yes,Often,No,No,39
+2014-08-29 00:11:17,WA,No,M,Yes,Yes,Somewhat easy,Yes,Yes,Rarely,Yes,No,43
+2014-08-29 00:41:25,CA,No,M,Yes,Yes,Very difficult,Don't know,Yes,Sometimes,Some of them,No,35
+2014-08-29 00:43:37,WA,Yes,M,Don't know,Yes,Very easy,Don't know,Yes,Sometimes,Some of them,No,40
+2014-08-29 03:08:25,CA,No,M,Don't know,Yes,Don't know,No,Yes,Rarely,Some of them,No,26
+2014-08-29 07:12:43,MI,No,M,No,No,Very difficult,No,No,Sometimes,No,Yes,43
+2014-08-29 07:28:17,IN,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Rarely,Yes,No,40
+2014-08-29 07:51:42,GA,Yes,M,Yes,Yes,Don't know,Yes,No,Never,Yes,No,49
+2014-08-29 08:57:42,ME,Yes,M,No,No,Don't know,No,Yes,Sometimes,Yes,Yes,40
+2014-08-29 09:01:01,NY,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Often,Some of them,No,28
+2014-08-29 09:10:08,PA,Yes,M,Yes,Yes,Somewhat easy,Don't know,No,Sometimes,No,No,23
+2014-08-29 09:14:45,IL,Yes,F,Don't know,Yes,Very easy,Yes,Yes,Sometimes,No,No,30
+2014-08-29 09:24:34,MN,No,M,No,Yes,Very easy,Don't know,Yes,Rarely,Yes,Yes,39
+2014-08-29 09:29:37,PA,Yes,M,Don't know,Yes,Somewhat easy,Don't know,Yes,Often,Yes,Yes,25
+2014-08-29 09:31:37,IN,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Yes,Yes,42
+2014-08-29 09:31:49,PA,Yes,M,No,Yes,Very easy,Don't know,Yes,Often,Yes,No,34
+2014-08-29 09:33:43,OH,No,F,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,No,Yes,26
+2014-08-29 09:40:13,SD,No,M,No,Don't know,Don't know,Don't know,No,Sometimes,No,No,34
+2014-08-29 09:42:23,IN,Yes,M,No,No,Somewhat easy,Yes,Yes,Sometimes,Yes,Yes,39
+2014-08-29 09:47:30,TX,No,F,Don't know,No,Somewhat easy,Yes,No,Never,Some of them,Yes,33
+2014-08-29 09:53:38,OR,Yes,F,Don't know,Don't know,Don't know,Don't know,No,Sometimes,Yes,Yes,38
+2014-08-29 09:53:50,SD,No,M,Yes,Yes,Don't know,Yes,No,Sometimes,Some of them,No,31
+2014-08-29 09:59:39,CA,Yes,M,No,Yes,Don't know,Don't know,Yes,Sometimes,No,Yes,30
+2014-08-29 10:12:10,TN,No,M,Yes,Yes,Somewhat easy,Yes,No,Never,Yes,No,32
+2014-08-29 10:13:43,IN,Yes,M,No,Don't know,Somewhat easy,No,No,Sometimes,Some of them,Yes,37
+2014-08-29 10:16:45,CA,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Some of them,Yes,42
+2014-08-29 10:27:15,OR,No,F,Yes,Yes,Don't know,Yes,No,Never,Yes,No,25
+2014-08-29 10:30:09,IN,No,M,No,Don't know,Don't know,Don't know,No,Sometimes,Yes,No,19
+2014-08-29 10:32:24,GA,Yes,F,No,Yes,Don't know,Don't know,No,Never,No,Yes,40
+2014-08-29 10:38:29,MN,Yes,M,Don't know,Don't know,Don't know,Yes,Yes,Rarely,Yes,No,31
+2014-08-29 10:59:57,FL,Yes,F,No,No,Very difficult,No,Yes,Often,No,No,31
+2014-08-29 11:11:00,CA,No,F,No,No,Very easy,Yes,No,Sometimes,Yes,No,34
+2014-08-29 11:19:46,OH,Yes,F,No,Don't know,Somewhat easy,No,Yes,Sometimes,Some of them,Yes,28
+2014-08-29 11:20:28,WI,Yes,M,Yes,Yes,Don't know,Don't know,Yes,Sometimes,No,Yes,40
+2014-08-29 11:20:52,WA,No,M,No,Yes,Don't know,Don't know,Yes,Sometimes,No,No,26
+2014-08-29 11:32:44,WA,Yes,F,No,Yes,Don't know,No,Yes,Sometimes,Yes,No,26
+2014-08-29 11:36:38,FL,No,M,Don't know,Don't know,Very easy,Don't know,No,Never,Some of them,Yes,36
+2014-08-29 11:40:29,WA,Yes,M,Don't know,Yes,Very easy,Yes,Yes,Sometimes,Yes,No,39
+2014-08-29 11:43:12,CA,No,M,Don't know,Don't know,Don't know,Don't know,No,Never,Yes,No,27
+2014-08-29 11:44:33,FL,No,M,No,Don't know,Very easy,Yes,No,Never,Yes,Yes,33
+2014-08-29 11:53:59,OR,No,F,Yes,Yes,Very easy,Don't know,Yes,Rarely,Some of them,No,28
+2014-08-29 11:56:18,CA,No,M,No,Don't know,Very difficult,No,Yes,Sometimes,No,No,27
+2014-08-29 12:00:33,FL,No,M,No,Don't know,Somewhat difficult,Don't know,No,Never,No,Yes,44
+2014-08-29 12:08:12,UT,No,M,No,Don't know,Somewhat easy,Don't know,Yes,Often,No,Yes,25
+2014-08-29 12:26:21,NJ,No,M,Don't know,Yes,Somewhat easy,Don't know,No,Never,Some of them,Yes,34
+2014-08-29 12:54:31,OH,No,F,No,No,Don't know,No,Yes,Sometimes,Some of them,Yes,39
+2014-08-29 13:17:33,OH,No,M,Yes,Yes,Don't know,Don't know,No,Sometimes,No,Yes,43
+2014-08-29 13:23:40,IL,No,M,Yes,Yes,Don't know,Yes,No,Rarely,No,No,41
+2014-08-29 14:04:59,CA,No,M,No,Yes,Somewhat easy,No,Yes,Sometimes,No,No,31
+2014-08-29 14:09:21,WA,Yes,M,Yes,Yes,Don't know,No,Yes,Sometimes,No,No,40
+2014-08-29 14:31:00,VA,Yes,M,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,Yes,43
+2014-08-29 14:51:49,WA,Yes,F,Yes,Yes,Very difficult,No,Yes,Often,Some of them,No,27
+2014-08-29 14:59:43,NJ,Yes,F,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,No,Yes,37
+2014-08-29 15:59:55,UT,Yes,M,No,No,Very easy,No,Yes,Often,Yes,No,25
+2014-08-29 17:04:07,IN,No,M,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,Yes,No,32
+2014-08-29 17:04:12,CA,Yes,F,Don't know,Yes,Don't know,Yes,Yes,Sometimes,Some of them,No,28
+2014-08-29 17:26:15,OH,No,M,No,No,Very easy,Yes,No,Never,Some of them,Yes,11
+2014-08-29 17:35:16,TN,Yes,M,No,No,Very difficult,No,Yes,Often,Yes,No,32
+2014-08-29 17:54:32,WA,No,M,Don't know,Yes,Don't know,Yes,Yes,Sometimes,No,No,25
+2014-08-29 18:33:32,UT,No,M,Yes,Yes,Very easy,Yes,Yes,Sometimes,Yes,No,37
+2014-08-29 19:32:13,WI,Yes,M,No,Don't know,Very easy,Yes,Yes,Rarely,Yes,Yes,24
+2014-08-29 19:34:40,WA,Yes,M,Don't know,Yes,Somewhat difficult,Don't know,Yes,Sometimes,Some of them,No,40
+2014-08-29 20:53:58,NY,No,M,Don't know,Don't know,Don't know,Yes,No,Never,Some of them,No,43
+2014-08-29 21:28:14,OH,Yes,M,No,Don't know,Don't know,Don't know,No,Sometimes,No,No,26
+2014-08-29 22:08:51,WA,Yes,F,No,Don't know,Somewhat easy,Yes,No,Sometimes,Some of them,Yes,35
+2014-08-29 23:51:01,CA,No,M,No,Yes,Don't know,Don't know,No,Never,No,Yes,45
+2014-08-30 00:09:55,SC,No,M,Don't know,No,Somewhat easy,Don't know,Yes,Rarely,Some of them,Yes,25
+2014-08-30 05:47:08,CA,No,F,Don't know,Yes,Don't know,Don't know,Yes,Often,No,No,33
+2014-08-30 13:23:57,MN,Yes,M,Don't know,Don't know,Very easy,Don't know,Yes,Sometimes,Yes,Yes,25
+2014-08-30 15:57:04,PA,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Some of them,No,46
+2014-08-30 16:38:02,VT,No,M,No,No,Don't know,Don't know,No,Never,No,Yes,34
+2014-08-30 20:46:35,NY,No,F,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Some of them,Yes,20
+2014-08-31 16:48:13,TN,Yes,F,No,Yes,Somewhat easy,Don't know,Yes,Rarely,No,Yes,36
+2014-09-01 12:45:24,NY,Yes,F,No,Don't know,Don't know,Don't know,No,Sometimes,No,Yes,26
+2014-09-01 22:58:47,NC,No,M,Don't know,Yes,Don't know,Don't know,No,Rarely,Some of them,No,32
+2014-09-02 03:13:53,CA,No,M,Yes,Yes,Somewhat difficult,Don't know,Yes,Sometimes,Some of them,No,32
+2014-09-02 20:57:56,MN,Yes,M,No,No,Don't know,Don't know,Yes,Rarely,No,No,30
+2014-09-03 13:09:52,NC,No,M,No,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,No,29
+2014-09-04 17:38:22,TX,Yes,M,Don't know,Don't know,Somewhat easy,Don't know,Yes,Sometimes,Some of them,Yes,26
+2014-09-05 14:15:48,CA,Yes,M,Don't know,Yes,Don't know,Don't know,No,Sometimes,Yes,No,32
+2014-09-08 21:30:59,PA,No,F,Don't know,Yes,Don't know,No,Yes,Sometimes,No,No,32
+2014-09-12 19:18:18,MN,Yes,F,Yes,Yes,Somewhat easy,Yes,Yes,Sometimes,Yes,No,40
+2014-09-20 13:51:05,MI,Yes,F,No,Yes,Don't know,No,Yes,Rarely,No,No,26
+2014-09-23 20:05:05,OH,No,M,Don't know,No,Don't know,No,No,Never,Yes,No,29
+2014-10-05 21:16:10,IN,Yes,F,No,No,Don't know,Yes,Yes,Sometimes,Some of them,Yes,35
+2014-10-09 11:14:59,VA,No,F,No,No,Very difficult,Don't know,Yes,Often,Some of them,No,28
+2014-11-06 11:24:38,OR,No,F,Don't know,Don't know,Don't know,Don't know,No,Rarely,No,Yes,56
+2014-11-16 08:42:35,AL,Yes,M,No,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,Yes,38
+2014-12-15 00:43:49,AL,Yes,M,No,Yes,Don't know,Yes,Yes,Sometimes,No,No,40
+2015-01-03 03:38:30,OH,Yes,M,Yes,Yes,Don't know,Don't know,Yes,Sometimes,Some of them,No,44
+2015-02-21 04:41:28,TX,No,M,Don't know,Yes,Very difficult,Don't know,Yes,Often,No,Yes,32
+2015-02-21 05:11:37,TX,No,F,No,Yes,Somewhat easy,No,Yes,Rarely,No,No,28
+2015-02-21 08:21:36,TX,No,M,No,No,Very easy,No,Yes,Sometimes,Yes,No,23
+2015-02-21 09:22:23,FL,No,M,No,Yes,Don't know,Don't know,Yes,Often,No,Yes,33
+2015-02-21 09:48:13,TX,No,M,Yes,Yes,Very easy,Don't know,Yes,Sometimes,Yes,Yes,38
+2015-02-21 10:00:50,CA,Yes,M,No,Don't know,Don't know,No,Yes,Often,No,No,46
+2015-02-21 10:45:51,MD,Yes,M,Don't know,Don't know,Don't know,Don't know,Yes,Sometimes,Yes,Yes,46
+2015-02-21 18:59:05,MN,Yes,M,No,Don't know,Somewhat easy,Don't know,Yes,Sometimes,Some of them,No,25
+2015-02-24 10:32:32,CA,No,M,Don't know,Don't know,Somewhat easy,Don't know,Yes,Often,No,Yes,60
+2015-05-05 14:22:18,FL,Yes,F,Yes,Yes,Don't know,Don't know,Yes,Rarely,Yes,Yes,43
+2015-05-06 16:55:58,OR,No,M,Yes,Yes,Somewhat easy,Don't know,No,Never,Some of them,No,32
+2015-06-25 12:24:31,WA,Yes,F,Don't know,Yes,Don't know,Don't know,Yes,Sometimes,No,No,41
+2015-07-22 18:57:54,CA,Yes,M,No,Yes,Very easy,Yes,Yes,Sometimes,Yes,No,30
+2015-07-27 23:25:34,CA,Yes,M,Yes,Yes,Don't know,Yes,Yes,Often,Yes,No,30
+2015-08-20 16:52:09,NC,Yes,M,No,Yes,Don't know,No,Yes,Sometimes,No,Yes,29
+2015-09-26 01:07:35,IL,Yes,M,No,Yes,Somewhat difficult,Yes,Yes,Often,Yes,Yes,32
+2015-11-07 12:36:58,CA,Yes,M,No,Yes,Somewhat difficult,No,Yes,Sometimes,No,No,34
