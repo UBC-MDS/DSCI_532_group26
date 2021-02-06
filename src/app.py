@@ -8,10 +8,11 @@ import numpy as np
 from datetime import date
 from datetime import datetime as dt
 import dash_bootstrap_components as dbc
+import plotly.express as px
 
 # load the data and transform date time column
 m_data = pd.read_csv("data/processed/processed_survey.csv")
-m_data['Timestamp'] = pd.to_datetime(m_data['Timestamp'])
+m_data['Age Range'] = pd.cut(m_data['Age'],bins=[10,20,30,40,50], labels=["10-20","21-30","31-40", "41+"])
 sdate = m_data['Timestamp'].min()
 edate = m_data['Timestamp'].max()
 all_states = m_data['state'].unique()
@@ -54,30 +55,44 @@ CONTENT_STYLE = {
 
 seek_treat = dbc.Col(dbc.Card([dbc.CardHeader('Did You Seek Treatment for Mental Illness', style={'fontWeight': 'bold'}),
                                 dbc.CardBody(dcc.Loading(children = html.Iframe(
-                                    id = 'state_bar', style={'border-width': '0', 'width': '150%', 'height': '400px'}) ))]), style={"width": "100%", "height": "100%"})
+                                    id = 'state_bar', style={'border-width': '0', 'width': '100%', 'height': '400px'}) ))])) #
 
 
 seriousness = dbc.Col(dbc.Card([dbc.CardHeader('Does Employer Take Mental Illness Seriously', style={'fontWeight': 'bold'} ),
                               dbc.CardBody(dcc.Loading(children = html.Iframe(
-                                  id = 'serious', style={'border-width': '0', 'width': '150%', 'height': '400px'})))],
-                                   style={"width": "30rem"}),  style={"width": "100%", "height": "100%"})
+                                  id = 'serious', style={'border-width': '0', 'width': '150%', 'height': '400px'})))]
+                                   ))
 
 workplace_bene = dbc.Col(dbc.Card([dbc.CardHeader('Workplace Benefits Between States', style={'fontWeight': 'bold'}),
-dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'benefits', style = {'border-width': '0', 'width': '100%', 'height': '400px'})))]))
+dbc.CardBody(dcc.Loading(children = html.Iframe(id = 'benefits', style = {'border-width': '0', 'width': '100%', 'height': '400px'})))])) #
 
 leave = dbc.Col(dbc.Card([dbc.CardHeader('Easiness to Leave Work Due to Mental Reason', style={'fontWeight': 'bold'}),
                         dbc.CardBody(dcc.Loading(
                             children = html.Iframe(
-                            id = 'leave_work', style = {'border-width': '0', 'width': '100%', 'height': '400px'}) ))])
-                            , style={"width": "150%", "height": "100%"})
+                            id = 'leave_work', style = {'border-width': '0', 'width': '100%', 'height': '400px'})))]))
 
 work_in = dbc.Col(dbc.Card([dbc.CardHeader('Does Your Mental Illness Interfere With Work',style={'fontWeight': 'bold'}),
                          dbc.CardBody(dcc.Loading(children = html.Iframe(
-                             id = 'interfere', style = {'border-width': '0', 'width': '100%', 'height': '400px'})))], style={"width": "32rem"}))
+                             id = 'interfere', style = {'border-width': '0', 'width': '100%', 'height': '400px'})))]))
 
 supervisor = dbc.Col(dbc.Card([dbc.CardHeader('Do You Talk to Your Supervisors?', style={'fontWeight': 'bold'}),
                         dbc.CardBody(dcc.Loading(children = html.Iframe(
-                            id = 'supervisor', style ={'border-width': '0', 'width': '100%', 'height': '400px'}) ))]))
+                            id = 'supervisor', style ={'border-width': '0', 'width': '100%', 'height': '400px'}) ))])) #
+
+pie_remote = dbc.Col(dbc.Card([dbc.CardHeader('Do You Work At Home?', style={'fontWeight': 'bold'}),
+                        dbc.CardBody(dcc.Loading(children = dcc.Graph(
+                            id = 'pie_chart', style ={'border-width': '0', 'width': '100%', 'height': '400px'}) ))])) #
+
+pie_gender = dbc.Col(dbc.Card([dbc.CardHeader('Gender Proportion', style={'fontWeight': 'bold'}),
+                        dbc.CardBody(dcc.Loading(children = dcc.Graph(
+                            id = 'pie_Gender', style ={'border-width': '0', 'width': '100%', 'height': '400px'}) ))]))
+
+pie_age = dbc.Col(dbc.Card([dbc.CardHeader('Participant Age', style={'fontWeight': 'bold'}),
+                        dbc.CardBody(dcc.Loading(children = dcc.Graph(
+                            id = 'pie_age', style ={'border-width': '0', 'width': '100%', 'height': '400px'})))]))  #
+
+
+
 
 
 
@@ -112,8 +127,9 @@ overall = html.Div(dbc.Container([dbc.Row([dbc.Col([html.H3("Tech Worker Mental 
                                   style={'background-color': '#15599e',
                                          "color": "white",
                                          }, md = 2),
-                                  dbc.Col([dbc.Tabs([dbc.Tab([dbc.Row([seek_treat, seriousness]),dbc.Row([leave])], label = 'tab1'),
-                                                     dbc.Tab([dbc.Row([workplace_bene, supervisor]),dbc.Row([work_in])] , label = 'tab2')])])])], fluid = True))
+                                  dbc.Col([dbc.Tabs([dbc.Tab([dbc.Row([work_in, seriousness], justify= 'start', no_gutters= True),dbc.Row([leave], justify= 'center')], label = 'tab1'),
+                                                     dbc.Tab([dbc.Row([workplace_bene, supervisor]),dbc.Row([seek_treat])] , label = 'tab2'),
+                                                     dbc.Tab([dbc.Row([pie_remote, pie_gender]), dbc.Row([pie_age])], label = 'tab3')])])])], fluid = True))
 
 
 #dbc.Row([seek_treat, seriousness]),
@@ -260,7 +276,7 @@ def plot_sought_help(states, gender, remote):
         y = alt.Y('count()', title='Count of Participants'), 
         tooltip = 'count()', column = alt.Column('leave', title = 'Easy or Difficult', header=alt.Header(
             titleOrient = 'bottom', labelOrient = 'bottom')),
-        color = 'state', opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width = 70)
+        color = 'state', opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width = 100)
     return chart.to_html()
 
 @app.callback(
@@ -302,7 +318,7 @@ def plot_benefits(states, gender, remote):
         tooltip = 'count()',
         color = 'state', column = alt.Column('benefits', title = 'Does Company Provide Benefits', header=alt.Header(
             titleOrient = 'bottom', labelOrient = 'bottom')),
-            opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width=50)
+            opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width=85)
     return chart.to_html()
 
 
@@ -345,7 +361,7 @@ def plot_interfere(states, gender, remote):
         tooltip = 'count()',
         color = 'state', column = alt.Column('work_interfere', title = 'Does Your Mental Illness Interfere With Work?', header=alt.Header(
             titleOrient = 'bottom', labelOrient = 'bottom')),
-            opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width=75)
+            opacity = alt.condition(click, alt.value(0.9), alt.value(0.2))).add_selection(click).properties(width=65)
     return chart.to_html()
 
 
@@ -388,6 +404,42 @@ def plot_supervisor(states, gender, remote):
         color = 'work_interfere', column = alt.Column('supervisor', title = 'Have You Talked With Supervisor?', header=alt.Header(
             titleOrient = 'bottom', labelOrient = 'bottom'))).properties(width=75)
     return chart.to_html()
+
+
+@app.callback(
+    Output("pie_chart", "figure"), 
+    Input("state_wid", "value"),
+    Input('gender_radio', 'value'))
+def pie_working(states, gender):
+    my_data = m_data[m_data['state'].isin(states)]
+    my_data = my_data.groupby('remote_work', as_index = False).size()
+    fig = px.pie(my_data, values='size', names='remote_work', width = 100)
+    return fig
+
+@app.callback(
+    Output("pie_Gender", "figure"), 
+    Input("state_wid", "value"),
+    Input("remote_work", "value"))
+def pie_Gender(states, remote):
+    my_data = m_data[m_data['state'].isin(states)]
+    my_data = my_data[my_data['remote_work'].isin(remote)]
+    my_data = my_data.groupby('Gender', as_index = False).size()
+    fig1 = px.pie(my_data, values='size', names='Gender', width = 100)
+    return fig1
+
+@app.callback(
+    Output("pie_age", "figure"), 
+    Input("state_wid", "value"),
+    Input("remote_work", "value"),
+    Input('gender_radio', 'value'))
+def pie_working(states, remote, gender):
+    my_data = m_data[m_data['state'].isin(states)]
+    my_data = my_data[my_data['Gender'].isin(gender)]
+    my_data = my_data[my_data['remote_work'].isin(remote)]
+    my_data = my_data.groupby('Age Range', as_index = False).size()
+    fig2 = px.pie(my_data, values='size', names='Age Range')
+    return fig2
+
 
 
 
