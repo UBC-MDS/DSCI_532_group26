@@ -20,12 +20,12 @@ In the left panel, the users can filter the states they are interested in. All f
 With these information, we hope to answer the research questions such as how do the number of people who sought treatment compare between states, how easy is it to leave work due to mental health issue, and how does the frequency of mental illness that interfered with work vary across states etc.
 
 ## Initial app sketch
-![Alt text](updated_dashboard.jpg?raw=true "Title")
+![Alt text](imgs/updated_dashboard.jpg?raw=true "Title")
 
 ## Dashboard in action
-![Alt text](tab_1.jpg?raw=true "Title")
-![Alt text](tab_2.jpg?raw=true "Title")
-![Alt text](tab_3.jpg?raw=true "Title")
+![Alt text](imgs/tab_1.jpg?raw=true "Title")
+![Alt text](imgs/tab_2.jpg?raw=true "Title")
+![Alt text](imgs/tab_3.jpg?raw=true "Title")
 
 ## Usage
 
