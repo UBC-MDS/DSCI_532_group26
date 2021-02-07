@@ -18,6 +18,7 @@ edate = m_data['Timestamp'].max()
 all_states = m_data['state'].unique()
 some_states = all_states[:3]
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+app.title = "Tech Worker Mental Health Stats"
 server = app.server
 
 # Define content style
@@ -420,4 +421,4 @@ def plot_supervisor(states, gender, remote):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server()
